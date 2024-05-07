@@ -1,4 +1,8 @@
 baseURL = 'https://cid.friendscentral.org/'
 languageCode = 'en-us'
 title = 'CID guide website'
-theme = 'ananke'
+theme = 'hugo-theme-relearn'
+[outputs]
+  home = ['html', 'rss', 'print', 'search']
+  page = ['html', 'rss', 'print']
+  section = ['html', 'rss', 'print']

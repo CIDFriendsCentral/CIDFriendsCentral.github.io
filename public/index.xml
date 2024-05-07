@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on CID guide website</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content in home on CID guide website</description>
+    <title>home :: CID guide website</title>
+    <link>http://localhost:1313/index.html</link>
+    <description>making webstie!&#xA;Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;H1 H2 H3 blockquote&#xA;first second third a b c ‘code’&#xA;stuff other stuff word other word ’’&#39; { code=“code” code=“still code” } ’&#39;&#39;&#xA;Footnote. 1&#xA;term definition strikethrough&#xA;task 1 task 2 emoji :joy:&#xA;==highlight==&#xA;sub~script~&#xA;super^script^&#xA;footnote ↩︎</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jan 0001 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 May 2024 19:32:36 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <title>Basics</title>
+      <link>http://localhost:1313/basics/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>websiteeeeeeeeee</description>
+      <guid>http://localhost:1313/basics/index.html</guid>
+      <description>This is a new chapter.</description>
     </item>
   </channel>
 </rss>
