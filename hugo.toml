@@ -1,0 +1,4 @@
+baseURL = 'https://cid.friendscentral.org/'
+languageCode = 'en-us'
+title = 'CID guide website'
+theme = 'ananke'
