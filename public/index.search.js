@@ -4,16 +4,64 @@ var relearn_search_index = [
     "content": "This is a new chapter.",
     "description": "This is a new chapter.",
     "tags": [],
-    "title": "Basics",
-    "uri": "/basics/index.html"
+    "title": "3D Printers",
+    "uri": "/3dprinters/index.html"
   },
   {
-    "breadcrumb": "home \u003e Basics",
+    "breadcrumb": "home \u003e 3D Printers",
+    "content": "Cura m4 stuff",
+    "description": "Cura m4 stuff",
+    "tags": [],
+    "title": "Cura Mark 4",
+    "uri": "/3dprinters/curamark3/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers",
+    "content": "Ultimaker stuff",
+    "description": "Ultimaker stuff",
+    "tags": [],
+    "title": "Ultimaker",
+    "uri": "/3dprinters/ultimaker/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers",
+    "content": "Cura m3 stuff",
+    "description": "Cura m3 stuff",
+    "tags": [],
+    "title": "Cura Mark 3",
+    "uri": "/3dprinters/curamark4/index.html"
+  },
+  {
+    "breadcrumb": "home",
+    "content": "This is a new chapter.",
+    "description": "This is a new chapter.",
+    "tags": [],
+    "title": "Category of guide",
+    "uri": "/guidecategory/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e Category of guide",
     "content": "Stuff isnt here",
     "description": "Stuff isnt here",
     "tags": [],
-    "title": "contentandstuff",
-    "uri": "/basics/contentandstuff/index.html"
+    "title": "Multipart guide",
+    "uri": "/guidecategory/multiguide/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 4",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Changing Filament",
+    "uri": "/3dprinters/curamark3/changingfilament/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Ultimaker",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Changing Filament",
+    "uri": "/3dprinters/ultimaker/changingfilament/index.html"
   },
   {
     "breadcrumb": "",
@@ -24,20 +72,172 @@ var relearn_search_index = [
     "uri": "/index.html"
   },
   {
-    "breadcrumb": "home \u003e Basics \u003e contentandstuff",
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 4",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Troubleshooting And Recalibration",
+    "uri": "/3dprinters/curamark3/troubleshootingandrecalibration/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 3",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Troubleshooting And Recalibration",
+    "uri": "/3dprinters/curamark4/troubleshootingandrecalibration/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Ultimaker",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Troubleshooting And Recalibration",
+    "uri": "/3dprinters/ultimaker/troubleshootingandrecalibration/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 4",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Printing",
+    "uri": "/3dprinters/curamark3/printing/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 3",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Printing",
+    "uri": "/3dprinters/curamark4/printing/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Ultimaker",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Printing",
+    "uri": "/3dprinters/ultimaker/printing/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 4",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Transferring To Printer",
+    "uri": "/3dprinters/curamark3/transferringtoprinter/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 3",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Transferring To Printer",
+    "uri": "/3dprinters/curamark4/transferringtoprinter/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Ultimaker",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Transferring To Printer",
+    "uri": "/3dprinters/ultimaker/transferringtoprinter/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 3",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Changing Filament",
+    "uri": "/3dprinters/curamark4/changingfilament/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 4",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Printer Settings",
+    "uri": "/3dprinters/curamark3/printersettings/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 3",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Printer Settings",
+    "uri": "/3dprinters/curamark4/printersettings/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Ultimaker",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Printer Settings",
+    "uri": "/3dprinters/ultimaker/printersettings/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 4",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Slicing Files",
+    "uri": "/3dprinters/curamark3/slicefiles/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 3",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Slicing Files",
+    "uri": "/3dprinters/curamark4/slicefiles/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Ultimaker",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Slicing Files",
+    "uri": "/3dprinters/ultimaker/slicefiles/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 4",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Uploading Files",
+    "uri": "/3dprinters/curamark3/uploadingfiles/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Cura Mark 3",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Uploading Files",
+    "uri": "/3dprinters/curamark4/uploadingfiles/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e 3D Printers \u003e Ultimaker",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Uploading Files",
+    "uri": "/3dprinters/ultimaker/uploadingfiles/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e Category of guide \u003e Multipart guide",
     "content": "stuff",
     "description": "stuff",
     "tags": [],
-    "title": "Page2",
-    "uri": "/basics/contentandstuff/page2/index.html"
+    "title": "Guide Page",
+    "uri": "/guidecategory/multiguide/page2/index.html"
   },
   {
-    "breadcrumb": "home \u003e Basics",
+    "breadcrumb": "home \u003e Category of guide",
     "content": "Stuff is here too",
     "description": "Stuff is here too",
     "tags": [],
-    "title": "Page",
-    "uri": "/basics/page/index.html"
+    "title": "Standalone Guide",
+    "uri": "/guidecategory/page/index.html"
   },
   {
     "breadcrumb": "home",
@@ -46,6 +246,22 @@ var relearn_search_index = [
     "tags": [],
     "title": "Categories",
     "uri": "/categories/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Children",
+    "uri": "/tags/children/index.html"
+  },
+  {
+    "breadcrumb": "home \u003e Tags",
+    "content": "",
+    "description": "",
+    "tags": [],
+    "title": "Tag :: Non-Hidden",
+    "uri": "/tags/non-hidden/index.html"
   },
   {
     "breadcrumb": "home",

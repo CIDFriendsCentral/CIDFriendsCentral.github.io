@@ -1,23 +1,123 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/basics/index.html</loc>
+    <loc>http://localhost:1313/3dprinters/index.html</loc>
+    <lastmod>2024-05-07T21:26:19-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/index.html</loc>
+    <lastmod>2024-05-07T21:26:19-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/index.html</loc>
+    <lastmod>2024-05-07T21:26:19-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/index.html</loc>
+    <lastmod>2024-05-07T21:26:07-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/guidecategory/index.html</loc>
     <lastmod>2024-05-07T19:32:36-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/basics/contentandstuff/index.html</loc>
+    <loc>http://localhost:1313/guidecategory/multiguide/index.html</loc>
     <lastmod>2024-05-07T19:32:36-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/changingfilament/index.html</loc>
+    <lastmod>2024-05-07T21:26:19-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/changingfilament/index.html</loc>
+    <lastmod>2024-05-07T21:26:19-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/index.html</loc>
+    <lastmod>2024-05-07T21:26:19-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/troubleshootingandrecalibration/index.html</loc>
+    <lastmod>2024-05-07T21:26:07-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/troubleshootingandrecalibration/index.html</loc>
+    <lastmod>2024-05-07T21:26:07-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</loc>
+    <lastmod>2024-05-07T21:26:07-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/printing/index.html</loc>
+    <lastmod>2024-05-07T21:25:47-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/printing/index.html</loc>
+    <lastmod>2024-05-07T21:25:47-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/printing/index.html</loc>
+    <lastmod>2024-05-07T21:25:47-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/transferringtoprinter/index.html</loc>
+    <lastmod>2024-05-07T21:25:29-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/transferringtoprinter/index.html</loc>
+    <lastmod>2024-05-07T21:25:29-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</loc>
+    <lastmod>2024-05-07T21:25:29-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/changingfilament/index.html</loc>
+    <lastmod>2024-05-07T21:25:04-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/printersettings/index.html</loc>
+    <lastmod>2024-05-07T21:25:04-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/printersettings/index.html</loc>
+    <lastmod>2024-05-07T21:25:04-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</loc>
+    <lastmod>2024-05-07T21:25:04-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/slicefiles/index.html</loc>
+    <lastmod>2024-05-07T21:24:50-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/slicefiles/index.html</loc>
+    <lastmod>2024-05-07T21:24:50-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/slicefiles/index.html</loc>
+    <lastmod>2024-05-07T21:24:50-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark3/uploadingfiles/index.html</loc>
+    <lastmod>2024-05-07T21:24:22-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/curamark4/uploadingfiles/index.html</loc>
+    <lastmod>2024-05-07T21:24:22-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/uploadingfiles/index.html</loc>
+    <lastmod>2024-05-07T21:24:22-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/guidecategory/multiguide/page2/index.html</loc>
     <lastmod>2024-05-07T19:32:36-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/basics/contentandstuff/page2/index.html</loc>
-    <lastmod>2024-05-07T19:32:36-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/basics/page/index.html</loc>
+    <loc>http://localhost:1313/guidecategory/page/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
