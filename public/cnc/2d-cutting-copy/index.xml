@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D Cutting :: CID guide website</title>
+    <link>http://localhost:1313/cnc/2d-cutting-copy/index.html</link>
+    <description>Stuff isnt here</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 09:32:56 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/cnc/2d-cutting-copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bit Selection</title>
+      <link>http://localhost:1313/cnc/2d-cutting-copy/bitselection/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/2d-cutting-copy/bitselection/index.html</guid>
+      <description>STUFFFFF</description>
+    </item>
+    <item>
+      <title>Cutting</title>
+      <link>http://localhost:1313/cnc/2d-cutting-copy/cutting/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/2d-cutting-copy/cutting/index.html</guid>
+      <description>STUFFFFF</description>
+    </item>
+    <item>
+      <title>Material Selection</title>
+      <link>http://localhost:1313/cnc/2d-cutting-copy/materialselection/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/2d-cutting-copy/materialselection/index.html</guid>
+      <description>STUFFFFF</description>
+    </item>
+    <item>
+      <title>Path Settings</title>
+      <link>http://localhost:1313/cnc/2d-cutting-copy/path/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/2d-cutting-copy/path/index.html</guid>
+      <description>STUFFFFF</description>
+    </item>
+    <item>
+      <title>Uploading Files</title>
+      <link>http://localhost:1313/cnc/2d-cutting-copy/uploading/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/2d-cutting-copy/uploading/index.html</guid>
+      <description>STUFFFFF</description>
+    </item>
+  </channel>
+</rss>

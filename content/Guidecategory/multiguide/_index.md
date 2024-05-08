@@ -1,5 +1,5 @@
 +++
-archetype = "chapter"
+alwaysopen = false
 title = "Multipart guide"
 weight = 1
 +++

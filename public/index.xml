@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home :: CID guide website</title>
+    <title>Home :: CID guide website</title>
     <link>http://localhost:1313/index.html</link>
-    <description>making webstie!&#xA;Introduction This is bold text, and this is emphasized text.&#xA;Visit the Hugo website!&#xA;H1 H2 H3 blockquote&#xA;first second third a b c ‘code’&#xA;stuff other stuff word other word ’’&#39; { code=“code” code=“still code” } ’&#39;&#39;&#xA;Footnote. 1&#xA;term definition strikethrough&#xA;task 1 task 2 emoji :joy:&#xA;==highlight==&#xA;sub~script~&#xA;super^script^&#xA;footnote ↩︎</description>
+    <description>Friend’s Central CID Documentation Website Welcome! Welcome to the CID, Friends Central’s newest space, built for (insert propaganda here)&#xA;Look through the side menu for different machine guides, use the search bar to find specific sections or continue on this page for an introduction to the website&#xA;What is this place? This is the official CID tool documentation webstie, cataloging many of the tools found in the different areas of the CID.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 May 2024 21:26:19 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D Printers</title>
@@ -20,6 +20,27 @@
       <link>http://localhost:1313/guidecategory/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/guidecategory/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>CNC Machine</title>
+      <link>http://localhost:1313/cnc/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cnc/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Laser Cutter</title>
+      <link>http://localhost:1313/laser-cutters/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/laser-cutters/index.html</guid>
+      <description>This is a new chapter.</description>
+    </item>
+    <item>
+      <title>Wazer</title>
+      <link>http://localhost:1313/wazer/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/wazer/index.html</guid>
       <description>This is a new chapter.</description>
     </item>
   </channel>

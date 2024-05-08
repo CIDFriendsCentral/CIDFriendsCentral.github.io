@@ -6,14 +6,35 @@
     <description>This is a new chapter.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 07 May 2024 21:26:19 -0400</lastBuildDate>
+    <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/3dprinters/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Cura Mark 4</title>
-      <link>http://localhost:1313/3dprinters/curamark3/index.html</link>
+      <title>Formlabs</title>
+      <link>http://localhost:1313/3dprinters/formlabs/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/3dprinters/curamark3/index.html</guid>
-      <description>Cura m4 stuff</description>
+      <guid>http://localhost:1313/3dprinters/formlabs/index.html</guid>
+      <description>Formlabs stuff</description>
+    </item>
+    <item>
+      <title>Lulzbot</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/index.html</guid>
+      <description>Lulzbot stuff</description>
+    </item>
+    <item>
+      <title>Prusa Mark 3</title>
+      <link>http://localhost:1313/3dprinters/prusamark3/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark3/index.html</guid>
+      <description>Cura m3 stuff</description>
+    </item>
+    <item>
+      <title>Prusa Mark 4</title>
+      <link>http://localhost:1313/3dprinters/prusamark4/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark4/index.html</guid>
+      <description>Cura m3 stuff</description>
     </item>
     <item>
       <title>Ultimaker</title>
@@ -23,11 +44,11 @@
       <description>Ultimaker stuff</description>
     </item>
     <item>
-      <title>Cura Mark 3</title>
-      <link>http://localhost:1313/3dprinters/curamark4/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/3dprinters/curamark4/index.html</guid>
-      <description>Cura m3 stuff</description>
+      <title>Orientation Project - 3D printing</title>
+      <link>http://localhost:1313/3dprinters/orientation/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/orientation/index.html</guid>
+      <description>Stuff is here too</description>
     </item>
   </channel>
 </rss>

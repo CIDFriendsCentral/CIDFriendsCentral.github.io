@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Printer Settings :: CID guide website</title>
+    <title>PrinterSettings :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/curamark4/printersettings/index.html</link>
     <description></description>
     <generator>Hugo</generator>

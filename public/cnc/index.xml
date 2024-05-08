@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNC Machine :: CID guide website</title>
+    <link>http://localhost:1313/cnc/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 09:32:56 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/cnc/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2D Cutting</title>
+      <link>http://localhost:1313/cnc/2d-cutting/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cnc/2d-cutting/index.html</guid>
+      <description>Stuff isnt here</description>
+    </item>
+    <item>
+      <title>3D Cutting</title>
+      <link>http://localhost:1313/cnc/3d-cutting/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cnc/3d-cutting/index.html</guid>
+      <description>Stuff isnt here</description>
+    </item>
+    <item>
+      <title>Absolute Zero</title>
+      <link>http://localhost:1313/cnc/abszero/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/abszero/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Orientation Project - CNC Machine</title>
+      <link>http://localhost:1313/cnc/orientationproject/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/orientationproject/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Securing Material</title>
+      <link>http://localhost:1313/cnc/securing/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/securing/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Troubleshooting</title>
+      <link>http://localhost:1313/cnc/troubleshooting/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/troubleshooting/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Zeroing and Offset</title>
+      <link>http://localhost:1313/cnc/zeroing/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/zeroing/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+  </channel>
+</rss>

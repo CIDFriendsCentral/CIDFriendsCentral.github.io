@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Laser Cutter :: CID guide website</title>
+    <link>http://localhost:1313/laser-cutters/index.html</link>
+    <description>This is a new chapter.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2024 15:15:22 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/laser-cutters/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Adjust Settings</title>
+      <link>http://localhost:1313/laser-cutters/settings/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/settings/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Material Selection</title>
+      <link>http://localhost:1313/laser-cutters/material/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/material/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Orientation Project - Laser Cutting</title>
+      <link>http://localhost:1313/laser-cutters/orientation/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/orientation/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Passthorugh usage</title>
+      <link>http://localhost:1313/laser-cutters/passthrough/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/passthrough/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Printing</title>
+      <link>http://localhost:1313/laser-cutters/printing/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/printing/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Process Ordering</title>
+      <link>http://localhost:1313/laser-cutters/process/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/process/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Tracing</title>
+      <link>http://localhost:1313/laser-cutters/tracing/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/tracing/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Troubleshooting</title>
+      <link>http://localhost:1313/laser-cutters/troubleshooting/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/troubleshooting/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>Upload Files</title>
+      <link>http://localhost:1313/laser-cutters/upload/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/upload/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+    <item>
+      <title>User Interface Usage</title>
+      <link>http://localhost:1313/laser-cutters/ui/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/ui/index.html</guid>
+      <description>Stuff is here too</description>
+    </item>
+  </channel>
+</rss>

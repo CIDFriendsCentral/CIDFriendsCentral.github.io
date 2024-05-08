@@ -1,13 +1,49 @@
 ---
-title: home
+title: Home
 ---
-making webstie!
 
-## Introduction
+# Friend's Central CID Documentation Website
+
+---
+
+## Welcome!
+
+Welcome to the CID, Friends Central's newest space, built for (insert propaganda here)
+
+
+
+
+Look through the side menu for different machine guides, use the search bar to find specific sections or continue on this page for an introduction to the website
+
+---
+
+## What is this place?
+
+This is the official CID tool documentation webstie, cataloging many of the tools found in the different areas of the CID. If you are new to the CID these guides can help you learn the basic functionality of these tools and give you simple projects to build your understanding.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This is **bold** text, and this is *emphasized* text.
 
-Visit the [Hugo](https://gohugo.io) website!
 
 # H1
 

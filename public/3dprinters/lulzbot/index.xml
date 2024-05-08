@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lulzbot :: CID guide website</title>
+    <link>http://localhost:1313/3dprinters/lulzbot/index.html</link>
+    <description>Lulzbot stuff</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/3dprinters/lulzbot/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>UploadingFiles</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/uploadingfiles/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/uploadingfiles/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TroubleshootingAndRecalibration</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/troubleshootingandrecalibration/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:27 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/troubleshootingandrecalibration/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>TransferringToPrinter</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/transferringtoprinter/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/transferringtoprinter/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SliceFiles</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/slicefiles/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/slicefiles/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Printing</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/printing/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/printing/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PrinterSettings</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/printersettings/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/printersettings/index.html</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ChangingFilament</title>
+      <link>http://localhost:1313/3dprinters/lulzbot/changingfilament/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/lulzbot/changingfilament/index.html</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

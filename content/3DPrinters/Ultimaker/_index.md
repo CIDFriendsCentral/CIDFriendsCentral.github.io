@@ -1,5 +1,5 @@
 +++
-archetype = "chapter"
+alwaysopen = false
 title = "Ultimaker"
 weight = 1
 +++
