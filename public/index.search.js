@@ -112,6 +112,14 @@ var relearn_search_index = [
     "uri": "/index.html"
   },
   {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Ultimaker",
+    "content": " To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the Ultimaker Cura application.\nPicture\nOnce the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window\nMoving To move the print around the print bed, first click the item you wish to move, then click the (icon) icon and you will see three arrows pop up around your shape\npicture\nOnce that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.\nYou can also set it’s exact position with the menu that appears next to the (icon) icon.\npicture\nthere you will also see two checkboxes, Lock Model and Drop Down Model\nLock Model makes it so the model cannot move other than by changing the numbers in the menu, dragging the model or arrows will no longer move it\nDrop Down Model makes it so the model automatically moves it’s lowest point to be touching the print bed, and it cannot be moved upwards, but can still be moved downwards. Keep in mind that anything shown below the print bed will not be printed.\nIt is reccomended to keep the Lock Model unselected and Drop Down Model selected\nScaling To scale your object, select the object, then select the (icon) icon, and three lines with boxes will appear.\nPicture\nYou can grab any of the three to stretch the object in the direction of that line, or instead grab the central box to stratch in all directions equally.\nAgain a menu will pop up with certain options. The text boxes allow you to set the length, width, or height of the object by measured size or percentage of the original model.\npicture\nthere you will also see two checkboxes, Snap Scaling and Uniform Scaling as well as a rewind icon\nSnap Scaling makes it so the object will snap between set sizes\nUniform Scaling makes it so all the axis will scale uniformly, mneaning any change to one axis will be matched in the other two to keep the proportions of the object the same\nThe rewind icon will set the object to it’s original dimentions\nIt is reccomended to keep the Snap Scaling unselected and Uniform Scaling selected unless you intentionally want a off proportion model\nRotation To scale your object, select the object, then select the (icon) icon, and three rings will appear.\npicture\nYou can grab these rings and rotate them to rotate the object how you would like it to print. Keep in mind where the back of the bed is, signified by the lip where it is written Ultimaker S5.\nIt is reccomended to rotate the object so that the least amount of overhang is acheived:\nimage\nAnd the maximum amount of the print is touching the build plate, shown by the light blue highlight:\nimage\nAgain a menu with certain options will also appear next to the (icon) icon\nPicture\nThe rewind icon will return the object to it’s original orientation\nthe (icon) icon will rotate the model as little as possible to ensure a flat surface is laying against the print bed.\nthe (icon) icon will allow you to click on a face of the print and the program will lay it flat against the print bed. This feature is somewhat inconsistent so it may take a few tries to correctly allign it\nSnap Rotation makes it so the print will only rotate in multiples of 15 degrees.\nIt is recoomended to keep Snap Rotation selected unless a particular angle is needed.\nMirroring When you select the (icon) icon, 6 arrows will appear.\nPicture\nClicking any of these arrows will mirror the object as if there was a mirror that the arrow was pointed directly into\nMesh Type This section will allow you to change how the object prints.\nThe first icon is the default, and will follow the print settings that you set.\nThe second prints as if is is support for a different model, which will follow the support settings that you set\nThe third will deal with overlapping objects, which is much more complicated, and a full desciprion of the options can be found here: link https://support.makerbot.com/s/article/1667417981430\nThe last will remove all supports in the volume of the object, but will not print the object itself\nSupport blocking The (icon) icon will block support in a cubic area, similar to the last option of the last tool\nTo use this, click the model you want to remove supports from, click the (icon) icon, and then click where you want the blocker. You can then edit the blocker as if it was any other object, using the tools above. The print will not generate any supports in the area of this block.\nMaterial selection The Ultimaker can print two materials in the same print, simply click the object and select which of the two extruders you wish to print from.\nDone? Once you are happy with the object’s placement, move to the print settings section.",
+    "description": "To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the Ultimaker Cura application.\nPicture\nOnce the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window\nMoving To move the print around the print bed, first click the item you wish to move, then click the (icon) icon and you will see three arrows pop up around your shape",
+    "tags": [],
+    "title": "Uploading Files",
+    "uri": "/3dprinters/ultimaker/uploadingfiles/index.html"
+  },
+  {
     "breadcrumb": "Home \u003e 3D Printers \u003e Formlabs",
     "content": "",
     "description": "",
@@ -142,14 +150,6 @@ var relearn_search_index = [
     "tags": [],
     "title": "UploadingFiles",
     "uri": "/3dprinters/prusamark4/uploadingfiles/index.html"
-  },
-  {
-    "breadcrumb": "Home \u003e 3D Printers \u003e Ultimaker",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "UploadingFiles",
-    "uri": "/3dprinters/ultimaker/uploadingfiles/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Formlabs",
@@ -265,10 +265,10 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Ultimaker",
-    "content": "",
-    "description": "",
+    "content": " Once you have set up your print how you want it, press the slice button in the bottom right\ninsert picture\nOnce you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert image\nHere you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.",
+    "description": "Once you have set up your print how you want it, press the slice button in the bottom right\ninsert picture\nOnce you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert image\nHere you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.",
     "tags": [],
-    "title": "SliceFiles",
+    "title": "Slicing Files",
     "uri": "/3dprinters/ultimaker/slicefiles/index.html"
   },
   {
@@ -312,6 +312,14 @@ var relearn_search_index = [
     "uri": "/3dprinters/ultimaker/printing/index.html"
   },
   {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Ultimaker",
+    "content": " Once you have your object oriented as desired, move to the print settings menu.\nThere you will see lots of options, which I will briefly review here\nImage\nProfiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.\nBalanced strikes a balance of productivity, quality, strenth, and accuracy. Use this for general projects.\nVisual prioritizes the outwards appearance to optimize visual properties. Use this for projects that need to look good.\nEngneering prioritizes accurate tolerances, and mechanical strength. Use this for projects will moving parts or that need to be stonger.\nDraft is for models that are prototypes or not particularly valuable. Use this for testing and quick prints.\nResolution Resolution will change the thickness of every layer. The bigger each layer is the faster the model will print, but the worse it will look and function. It’s recoomneded to use Fine for good visual quality or Fast for speed and basic functionality.\nBelow it may say “Reccommended settings for _____ were altered”. Clicking the rewind icon will reset to reccomended settings and the floppy disk icon will save the current settings as a new preset.\nStrength Infill Density This slider will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full\nimage\nanything down to 10% will be self supporting enough, although 20% is reccomended for nearly every print. 70% is the absolute maximum you need to go for a high strength print, however this should only be used if extreme strength is needed.\nInfill pattern This allows for a selection of how the infill will be created, and the options are shown below:\nGrid Lines Triangles Trihexagon Cubic Cubic Subdivision Octet Quarter Cubic Concentric Zig Zag Cross Cross 3d Gyroid Lightning\n__ is the reccomended setting but this choice has little effect on the overall print.\nShell thickness This lets you set the thickness of the outer shells of the print, with the first box designating the side walls, and the second designating the top and bottom\nSupport Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is reccomended to use whenever there are overhangs or floating objects in your print\nSupport type This box allows for two choices, Normal and Tree\nNormal creates sheets of support under your print, connected at top and bottom:\nimage\nTree creates branching circular structures to support overhangs in the model:\nimage\nNormal is the reccomended setting unless it creates particularly hard to remove sections with print trapped between support on all sides\nPlacement Placement designates where supports generate, and gives two options, Everywhere and Touching Buildplate\nEverywhere means any overhang will be supported, no matter where on the print it is.\nTouching Buildplate will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support\nIt is reccomended to use Everywhere when overhangs are present.\nAdhesion Adhesion helps prints stick to the print bed and avoid shifting and warping off of the bed. It is reccomended to keep this setting selected for any print.\nCustom settings Many other specific settings can be tuned by clicking Show Custom however there are far too many to cover in this guide, so look to a more specific guide on the Cura Slicer for information on that",
+    "description": "Once you have your object oriented as desired, move to the print settings menu.\nThere you will see lots of options, which I will briefly review here\nImage\nProfiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.\nBalanced strikes a balance of productivity, quality, strenth, and accuracy. Use this for general projects.\nVisual prioritizes the outwards appearance to optimize visual properties.",
+    "tags": [],
+    "title": "Printer Settings",
+    "uri": "/3dprinters/ultimaker/printersettings/index.html"
+  },
+  {
     "breadcrumb": "Home \u003e 3D Printers \u003e Formlabs",
     "content": "",
     "description": "",
@@ -342,14 +350,6 @@ var relearn_search_index = [
     "tags": [],
     "title": "PrinterSettings",
     "uri": "/3dprinters/prusamark4/printersettings/index.html"
-  },
-  {
-    "breadcrumb": "Home \u003e 3D Printers \u003e Ultimaker",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "PrinterSettings",
-    "uri": "/3dprinters/ultimaker/printersettings/index.html"
   },
   {
     "breadcrumb": "Home \u003e CNC Machine \u003e 2D Cutting",

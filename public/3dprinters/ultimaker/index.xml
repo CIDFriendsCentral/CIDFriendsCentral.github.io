@@ -9,11 +9,11 @@
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/3dprinters/ultimaker/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UploadingFiles</title>
+      <title>Uploading Files</title>
       <link>http://localhost:1313/3dprinters/ultimaker/uploadingfiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/uploadingfiles/index.html</guid>
-      <description></description>
+      <description>To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the Ultimaker Cura application.&#xA;Picture&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window&#xA;Moving To move the print around the print bed, first click the item you wish to move, then click the (icon) icon and you will see three arrows pop up around your shape</description>
     </item>
     <item>
       <title>TroubleshootingAndRecalibration</title>
@@ -30,11 +30,11 @@
       <description></description>
     </item>
     <item>
-      <title>SliceFiles</title>
+      <title>Slicing Files</title>
       <link>http://localhost:1313/3dprinters/ultimaker/slicefiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/slicefiles/index.html</guid>
-      <description></description>
+      <description>Once you have set up your print how you want it, press the slice button in the bottom right&#xA;insert picture&#xA;Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert image&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
     </item>
     <item>
       <title>Printing</title>
@@ -44,11 +44,11 @@
       <description></description>
     </item>
     <item>
-      <title>PrinterSettings</title>
+      <title>Printer Settings</title>
       <link>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</guid>
-      <description></description>
+      <description>Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here&#xA;Image&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strenth, and accuracy. Use this for general projects.&#xA;Visual prioritizes the outwards appearance to optimize visual properties.</description>
     </item>
     <item>
       <title>ChangingFilament</title>

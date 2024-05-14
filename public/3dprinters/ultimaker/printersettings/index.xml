@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PrinterSettings :: CID guide website</title>
+    <title>Printer Settings :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</link>
-    <description></description>
+    <description>Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here&#xA;Image&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strenth, and accuracy. Use this for general projects.&#xA;Visual prioritizes the outwards appearance to optimize visual properties.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
