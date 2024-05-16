@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>UploadingFiles :: CID guide website</title>
+    <title>Uploading Files :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/uploadingfiles/index.html</link>
     <description>To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (icon) icon and selecting the file.&#xA;Picture&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window</description>
     <generator>Hugo</generator>

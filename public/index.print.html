@@ -31,18 +31,18 @@ What is this place? This is the official CID tool documentation webstie, catalog
     <title>Home :: CID guide website</title>
     <link href="http://localhost:1313/index.html" rel="canonical" type="text/html" title="Home :: CID guide website">
     <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Home :: CID guide website">
-    <link href="/css/fontawesome-all.min.css?1715871460" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1715871460" rel="stylesheet"></noscript>
-    <link href="/css/nucleus.css?1715871460" rel="stylesheet">
-    <link href="/css/auto-complete.css?1715871460" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1715871460" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1715871460" rel="stylesheet">
-    <link href="/css/fonts.css?1715871460" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1715871460" rel="stylesheet"></noscript>
-    <link href="/css/theme.css?1715871460" rel="stylesheet">
-    <link href="/css/theme-auto.css?1715871460" rel="stylesheet" id="R-variant-style">
-    <link href="/css/chroma-auto.css?1715871460" rel="stylesheet" id="R-variant-chroma-style">
-    <link href="/css/variant.css?1715871460" rel="stylesheet">
-    <link href="/css/print.css?1715871460" rel="stylesheet" media="print">
-    <link href="/css/format-print.css?1715871460" rel="stylesheet">
-    <script src="/js/variant.js?1715871460"></script>
+    <link href="/css/fontawesome-all.min.css?1715875438" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1715875438" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1715875438" rel="stylesheet">
+    <link href="/css/auto-complete.css?1715875438" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1715875438" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1715875438" rel="stylesheet">
+    <link href="/css/fonts.css?1715875438" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1715875438" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1715875438" rel="stylesheet">
+    <link href="/css/theme-auto.css?1715875438" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-auto.css?1715875438" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1715875438" rel="stylesheet">
+    <link href="/css/print.css?1715875438" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1715875438" rel="stylesheet">
+    <script src="/js/variant.js?1715875438"></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='.';
@@ -319,6 +319,76 @@ stuff</p>
 
 <h1 id="uploadingfiles">UploadingFiles</h1>
 
+<p>__
+To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with <strong>Cura LulzBot Edition</strong> either through opening through File Explorer or dragging the file into the <strong>Cura LulzBot Edition</strong> application.</p>
+<p>Picture</p>
+<p>Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window</p>
+<h3 id="moving">Moving</h3>
+<p>To move the print around the print bed, first click the item you wish to move, then click the (icon) icon and you will see three arrows pop up around your shape</p>
+<p>picture</p>
+<p>Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.</p>
+<p>You can also set it&rsquo;s exact position with the menu that appears next to the (icon) icon.</p>
+<p>picture</p>
+<p>there you will also see two checkboxes, <em>Lock Model</em> and two buttons <em>Center</em> and <em>Bottom</em></p>
+<p><em>Lock Model</em> makes it so the model cannot move other than by changing the numbers in the menu, dragging the model or arrows will no longer move it</p>
+<p><em>Center</em> will move the object to the center of the buildplate</p>
+<p><em>Bottom</em> moves it&rsquo;s lowest point to be touching the print bed.</p>
+<p>It is reccomended to keep the <em>Lock Model</em> unselected and hit <em>Bottom</em> before slicing.</p>
+<h3 id="scaling">Scaling</h3>
+<p>To scale your object, select the object, then select the (icon) icon, and three lines with boxes will appear.</p>
+<p>Picture</p>
+<p>You can grab any of the three to stretch the object in the direction of that line, or instead grab the central box to stratch in all directions equally.</p>
+<p>Again a menu will pop up with certain options. The text boxes allow you to set the length, width, or height of the object by measured size or percentage of the original model.</p>
+<p>picture</p>
+<p>there you will also see two checkboxes, <em>Snap Scaling</em> and <em>Uniform Scaling</em> as well as a rewind icon, a (icon) icon, and a button that says <em>Bottom</em></p>
+<p><em>Snap Scaling</em> makes it so the object will snap between set sizes</p>
+<p><em>Uniform Scaling</em> makes it so all the axis will scale uniformly, mneaning any change to one axis will be matched in the other two to keep the proportions of the object the same</p>
+<p>The rewind icon will set the object to it&rsquo;s original dimentions, and the (icon) icon will set it to the max size the printer can print.</p>
+<p><em>Bottom</em> moves it&rsquo;s lowest point to be touching the print bed.</p>
+<p>It is reccomended to keep the <em>Snap Scaling</em> unselected and <em>Uniform Scaling</em> selected unless you intentionally want a off proportion model</p>
+<h3 id="rotation">Rotation</h3>
+<p>To scale your object, select the object, then select the (icon) icon, and three rings will appear.</p>
+<p>picture</p>
+<p>You can grab these rings and rotate them to rotate the object how you would like it to print. Keep in mind where the back of the bed is, signified by the lip where it is written <em>Ultimaker S5</em>.</p>
+<p>It is reccomended to rotate the object so that the least amount of overhang is acheived:</p>
+<p>image</p>
+<p>And the maximum amount of the print is touching the build plate, shown by the light blue highlight:</p>
+<p>image</p>
+<p>Again a menu with certain options will also appear next to the (icon) icon</p>
+<p>Picture</p>
+<p>The rewind icon will return the object to it&rsquo;s original orientation</p>
+<p>the (icon) icon will rotate the model as little as possible to ensure a flat surface is laying against the print bed.</p>
+<p>the (icon) icon will allow you to click on a face of the print and the program will lay it flat against the print bed. This feature is somewhat inconsistent so it may take a few tries to correctly allign it</p>
+<p><em>Snap Rotation</em> makes it so the print will only rotate in multiples of 15 degrees.</p>
+<p>It is recoomended to keep <em>Snap Rotation</em> selected unless a particular angle is needed.</p>
+<h3 id="mirroring">Mirroring</h3>
+<p>When you select the (icon) icon, 6 arrows will appear.</p>
+<p>Picture</p>
+<p>Clicking any of these arrows will mirror the object as if there was a mirror that the arrow was pointed directly into</p>
+<h3 id="mesh-type">Mesh Type</h3>
+<p>This section will allow you to change how the object prints.</p>
+<p>The first icon is the default, and will follow the print settings that you set.</p>
+<p>The second prints as if is is support for a different model, which will follow the support settings that you set</p>
+<p>The third will deal with overlapping objects, which is much more complicated, and a full desciprion of the options can be found here: link <a href="https://support.makerbot.com/s/article/1667417981430" rel="external" target="_blank">https://support.makerbot.com/s/article/1667417981430</a></p>
+<p>The last will remove all supports in the volume of the object, but will not print the object itself</p>
+<h3 id="custom-supports">Custom Supports</h3>
+<p>To create custom supports, select your object then hit the (icon) icon.</p>
+<p>Image</p>
+<p>There you will see some options for how you want the support to generate</p>
+<p>Once you have set your desired shape, click where on the object you want to support and it will automatically support that spot.</p>
+<h3 id="support-blocking">Support blocking</h3>
+<p>The (icon) icon will block support in a cubic area, similar to the last option of the last tool</p>
+<p>To use this, click the model you want to remove supports from, click the (icon) icon, and then click where you want the blocker. You can then edit the blocker as if it was any other object, using the tools above. The print will not generate any supports in the area of this block.</p>
+<h3 id="duplication">Duplication</h3>
+<p>To duplicate your object, select the object and then hit the (icon) icon.</p>
+<p>Image</p>
+<p>A menu will appear and allow you to set how many copies you want. Hit the <em>Multiply</em> button once you have set the desired number</p>
+<h3 id="pauses">Pauses</h3>
+<p>To add a pause or filament change to your print, select the object and hit the (icon) icon.</p>
+<p>Image</p>
+<p>There a menu will pop up, with a box to specify what layer you want the filament change at. If instead you just want to pause the print, select the <em>Pause Only</em> box.</p>
+<h2 id="done">Done?</h2>
+<p>Once you are happy with the object&rsquo;s placement, move to the print settings section.</p>
 
             <footer class="footline">
             </footer>
@@ -501,7 +571,7 @@ stuff</p>
             <header class="headline">
             </header>
 
-<h1 id="uploadingfiles">UploadingFiles</h1>
+<h1 id="uploading-files">Uploading Files</h1>
 
 <hr>
 <p>To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with <strong>PrusaSlicer</strong> either through opening through File Explorer or dragging the file into the <strong>PrusaSlicer</strong> application, or clicking the (icon) icon and selecting the file.</p>
@@ -632,8 +702,13 @@ stuff</p>
             <header class="headline">
             </header>
 
-<h1 id="transferringtoprinter">TransferringToPrinter</h1>
+<h1 id="transferring-to-printer">Transferring To Printer</h1>
 
+<hr>
+<p>Once you have your gcode file, take the usb drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to <strong>PrusaSlicer</strong> and look to the bottom right. Click the (icon) icon and hit <em>Save</em> when the window appears</p>
+<p>insert pictures</p>
+<p>insert photos</p>
+<p>Finally plug the drive back into the printer. Once you have done this move to the Printing section.</p>
 
             <footer class="footline">
             </footer>
@@ -645,6 +720,20 @@ stuff</p>
 
 <h1 id="slicefiles">SliceFiles</h1>
 
+<p>Once you have set up your print how you want it, press the <em>slice</em> button in the bottom right</p>
+<p>insert picture</p>
+<p>Once you do this, you will se a new tab appear, <strong>Preview</strong>. This allows you to look at the exact printing path of the printer.</p>
+<p>insert image</p>
+<p>Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</p>
+<h3 id="adding-breaks">Adding breaks</h3>
+<p>You can add breaks, custom g-code, and filament swaps into your print from here, by sliding the slider on the right to where you want and either clicking the (icon) icon to add a color swap, or right clicking to choose between pause, custom g-code, and color swaps.</p>
+<p>image</p>
+<p>Pauses will stop the print and let you either add parts into the print or check the print, and resume when you press a button on the printer. Add custom g-code will have the printer run a set custom g-code file. Color swap will do the same as regular clicking.</p>
+<p>If you choose to do a filament swap, make sure you are using the same type of filament.</p>
+<h3 id="view-settings">View Settings</h3>
+<p>You can also see specific parts of the print broken down by type of print and shaded different colors, as well as a menu of options at the bottom. This lets you view mroe specific information about the print.</p>
+<p>Image</p>
+<p>Once you have done this, move to the transferring files section</p>
 
             <footer class="footline">
             </footer>
@@ -665,8 +754,40 @@ stuff</p>
             <header class="headline">
             </header>
 
-<h1 id="printersettings">PrinterSettings</h1>
+<h1 id="printer-settings">Printer Settings</h1>
 
+<hr>
+<p>Once you are satified with the object placement, move to the right menu.</p>
+<h3 id="print-settings">Print settings</h3>
+<p>Here you will see a list of settings for layer heights:</p>
+<p>0.1 mm will be the most prescise setting, good for visual detail or mechanical fucntionality</p>
+<p>0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.</p>
+<p>0.2 mm has the same options, but both will be faster but lower quality than their 0.15 mm counterparts</p>
+<h3 id="filament">Filament</h3>
+<p>Here you can select the type of filament to be printed. Make sure this matches what is loaded in the printer before printing.</p>
+<h3 id="printer">Printer</h3>
+<p>Here you select which printer to use. Select <strong>Original Prusa MK4 Input Shaper 0.4 nozzle</strong>.</p>
+<h3 id="supports">Supports</h3>
+<p>Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is reccomended to use whenever there are overhangs or floating objects in your print</p>
+<p>The options in the dropdown designate where supports generate, and gives 4 options, <em>None</em>, <em>Support on Buildplate Only</em>, <em>For Support Enforcers Only</em>, and <em>Everywhere</em>.</p>
+<p><em>None</em> will not create any supports</p>
+<p><em>Support on Buildplate Only</em> will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support</p>
+<p><em>For Support Enforcers Only</em> only puts supports in specified spots, either by you or the model itself.</p>
+<p><em>Everywhere</em> means any overhang will be supported, no matter where on the print it is.</p>
+<p>It is reccomended to use <em>Everywhere</em> when overhangs are present.</p>
+<h3 id="infill">Infill</h3>
+<p>This will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full</p>
+<p>image</p>
+<p>anything down to <em>10%</em> will be self supporting enough, although <em>20%</em> is reccomended for nearly every print. <em>70%</em> is the absolute maximum you need to go for a high strength print, however this should only be used if extreme strength is needed.</p>
+<h3 id="brim">Brim</h3>
+<p>The brim helps prints stick to the print bed and avoid shifting and warping off of the bed. It is reccomended to keep this setting selected for any print.</p>
+<h3 id="part-specific-settings">Part specific settings.</h3>
+<p>In the part menu, you can select and change settings for specific parts by clicking the (icon) icon</p>
+<p>The full scope of this will not be covered on this website.</p>
+<h3 id="custom-settings">Custom Settings</h3>
+<p>In the top left you will see tabs wil more settings. These can affect more specific things about the print and printer but that is only reccomneded to use if you are more comfortable with the printer and how it works.</p>
+<h2 id="done">Done?</h2>
+<p>Once your settings are as desired, move to the slicing section.</p>
 
             <footer class="footline">
             </footer>
@@ -1468,8 +1589,8 @@ Lightning</p>
         </div>
       </main>
     </div>
-    <script src="/js/clipboard.min.js?1715871461" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1715871461" defer></script>
-    <script src="/js/theme.js?1715871461" defer></script>
+    <script src="/js/clipboard.min.js?1715875438" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1715875438" defer></script>
+    <script src="/js/theme.js?1715875438" defer></script>
   </body>
 </html>
