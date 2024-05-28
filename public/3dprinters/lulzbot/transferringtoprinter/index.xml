@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TransferringToPrinter :: CID guide website</title>
+    <title>Transferring and Printng :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/lulzbot/transferringtoprinter/index.html</link>
-    <description></description>
+    <description>To transfer your print to the printer, first make sure the computer is connected to the printer by USB cable, and the printer is on. Then press Print via USB in the box in the bottom right.&#xA;image&#xA;A new menu will appear with the print settings&#xA;image&#xA;Click the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer&#xA;Once that happens move back to the right menu.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

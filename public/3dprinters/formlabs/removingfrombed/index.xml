@@ -3,7 +3,7 @@
   <channel>
     <title>Removing Print :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/formlabs/removingfrombed/index.html</link>
-    <description></description>
+    <description>To remove the print from the bed, first put on latex gloves as resin can be harmful to your skin with frequent contact.&#xA;Image&#xA;Then open the casing around the printer by pulling up on the handle&#xA;image&#xA;inside, you will see you print attached upside-down to the print bed, and a mechanism holding the bed.&#xA;Image&#xA;Unhook the latch holding the bed on and remove the print bed.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

@@ -51,11 +51,11 @@
       <description>Once you are satified with the object placement, move to the right menu.&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most prescise setting, good for visual detail or mechanical fucntionality&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.&#xA;0.2 mm has the same options, but both will be faster but lower quality than their 0.</description>
     </item>
     <item>
-      <title>ChangingFilament</title>
+      <title>Changing Filament</title>
       <link>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</link>
       <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</guid>
-      <description></description>
+      <description>To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options,Load, Unload, Change, and Purge.&#xA;image&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament. Follow the instructions on the screen.&#xA;Change will first unload and then load filament.</description>
     </item>
   </channel>
 </rss>

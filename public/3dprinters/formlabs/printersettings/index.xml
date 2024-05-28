@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PrinterSettings :: CID guide website</title>
+    <title>Printer Settings :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/formlabs/printersettings/index.html</link>
-    <description></description>
+    <description>Now that you have your print set up, click the Printer button in the top left&#xA;Choose Printer Under the choose printer section, select the dropdown and select Form 3/3+.&#xA;Image&#xA;Then underneath should appear a row named AzureGoshawk which you should select.&#xA;Image&#xA;Choose Material Select whatever material is currently loaded in the printer.&#xA;Choose layer thickness Layer thickness will change how fast the file prints as well as the resolution of the product.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

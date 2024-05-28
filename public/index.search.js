@@ -192,6 +192,14 @@ var relearn_search_index = [
     "uri": "/3dprinters/prusamark4/troubleshootingandrecalibration/index.html"
   },
   {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Lulzbot",
+    "content": "To transfer your print to the printer, first make sure the computer is connected to the printer by USB cable, and the printer is on. Then press Print via USB in the box in the bottom right.\nimage\nA new menu will appear with the print settings\nimage\nClick the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer\nOnce that happens move back to the right menu. Click the Pre-Heat buttons in the Hot End and Build Plate Sections\nimage\nOnce the printer is heated, hit the Start Print button to begin the print",
+    "description": "To transfer your print to the printer, first make sure the computer is connected to the printer by USB cable, and the printer is on. Then press Print via USB in the box in the bottom right.\nimage\nA new menu will appear with the print settings\nimage\nClick the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer\nOnce that happens move back to the right menu.",
+    "tags": [],
+    "title": "Transferring and Printng",
+    "uri": "/3dprinters/lulzbot/transferringtoprinter/index.html"
+  },
+  {
     "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 4",
     "content": " Once you have your gcode file, take the usb drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (icon) icon and hit Save when the window appears\ninsert pictures\ninsert photos\nFinally plug the drive back into the printer. Once you have done this move to the Printing section.",
     "description": "Once you have your gcode file, take the usb drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (icon) icon and hit Save when the window appears\ninsert pictures\ninsert photos\nFinally plug the drive back into the printer. Once you have done this move to the Printing section.",
@@ -216,14 +224,6 @@ var relearn_search_index = [
     "uri": "/3dprinters/formlabs/transferringtoprinter/index.html"
   },
   {
-    "breadcrumb": "Home \u003e 3D Printers \u003e Lulzbot",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "TransferringToPrinter",
-    "uri": "/3dprinters/lulzbot/transferringtoprinter/index.html"
-  },
-  {
     "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
     "content": "",
     "description": "",
@@ -241,8 +241,8 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Lulzbot",
-    "content": "",
-    "description": "",
+    "content": "Once you have set up your print how you want it, press the slice button in the bottom right\ninsert picture\nOnce you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert image\nHere you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.\nOnce you have done this, move to the transferring files section",
+    "description": "Once you have set up your print how you want it, press the slice button in the bottom right\ninsert picture\nOnce you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert image\nHere you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.",
     "tags": [],
     "title": "SliceFiles",
     "uri": "/3dprinters/lulzbot/slicefiles/index.html"
@@ -278,14 +278,6 @@ var relearn_search_index = [
     "tags": [],
     "title": "Printing",
     "uri": "/3dprinters/formlabs/printing/index.html"
-  },
-  {
-    "breadcrumb": "Home \u003e 3D Printers \u003e Lulzbot",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "Printing",
-    "uri": "/3dprinters/lulzbot/printing/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
@@ -337,8 +329,8 @@ var relearn_search_index = [
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Lulzbot",
-    "content": "",
-    "description": "",
+    "content": "Once you have your object oriented as desired, select your material\nMaterial selection At the top of the display there will be a dropdown menu to select material type.\nImage\nClick to show the options for material selection and select the one currently loaded in the printer.\nPrint Settings Now move to the print settings menu. There you will see lots of options, which I will briefly review here\nImage\nProfiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.\nimage\nHigh Detail prioritizes details and fucntionality. Use this for projects that need to look good or mechanically function.\nStandard Is a mix of detail and speed. Use this for general printing.\nHigh Speed is for quickly printing models that are prototypes or not particularly valuable. Use this for testing and quick prints.\nOther Settings There are lots of other settings that can be adapted, we will breifly review the most important\nInfill Infill Density Int the infill section, the Infill Density dropdown will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full\nimage\nanything down to 10% will be self supporting enough, although 20% is reccomended for nearly every print. 70% is the absolute maximum you need to go for a high strength print, however this should only be used if extreme strength is needed.\nInfill pattern This allows for a selection of how the infill will be created, and the options are shown below:\nGrid Lines Triangles Trihexagon Cubic Cubic Subdivision Octet Quarter Cubic Concentric Zig Zag Cross Cross 3d Gyroid Lightning\n__ is the reccomended setting but this choice has little effect on the overall print.\nSupport Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is reccomended to use whenever there are overhangs or floating objects in your print\nSupport Structure This box allows for two choices, Normal and Tree\nNormal creates sheets of support under your print, connected at top and bottom:\nimage\nTree creates branching circular structures to support overhangs in the model:\nimage\nNormal is the reccomended setting unless it creates particularly hard to remove sections with print trapped between support on all sides\nSupport Placement Placement designates where supports generate, and gives two options, Everywhere and Touching Buildplate\nEverywhere means any overhang will be supported, no matter where on the print it is.\nTouching Buildplate will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support\nIt is reccomended to use Everywhere when overhangs are present.\nCustom settings Many other specific settings can be tuned however there are far too many to cover in this guide, so look to a more specific guide on the Cura LulzBot Edition Slicer for information on that.\nDone? Once you have your preferred settings set, move to the slicing files section",
+    "description": "Once you have your object oriented as desired, select your material\nMaterial selection At the top of the display there will be a dropdown menu to select material type.\nImage\nClick to show the options for material selection and select the one currently loaded in the printer.\nPrint Settings Now move to the print settings menu. There you will see lots of options, which I will briefly review here\nImage",
     "tags": [],
     "title": "PrinterSettings",
     "uri": "/3dprinters/lulzbot/printersettings/index.html"
@@ -368,6 +360,14 @@ var relearn_search_index = [
     "uri": "/cnc/3d-cutting/bitselection/index.html"
   },
   {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 4",
+    "content": " To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options,Load, Unload, Change, and Purge.\nimage\nLoad will let you load a filament into the printer. Follow the instructions on the screen.\nUnload will let you unload the currently stored filament. Follow the instructions on the screen.\nChange will first unload and then load filament. Follow the instructions on the screen.\nPurge will eject a small amount of the loaded filament. Follow the instructions on the screen.",
+    "description": "To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options,Load, Unload, Change, and Purge.\nimage\nLoad will let you load a filament into the printer. Follow the instructions on the screen.\nUnload will let you unload the currently stored filament. Follow the instructions on the screen.\nChange will first unload and then load filament.",
+    "tags": [],
+    "title": "Changing Filament",
+    "uri": "/3dprinters/prusamark4/changingfilament-copy/index.html"
+  },
+  {
     "breadcrumb": "Home \u003e 3D Printers \u003e Formlabs",
     "content": "",
     "description": "",
@@ -390,14 +390,6 @@ var relearn_search_index = [
     "tags": [],
     "title": "ChangingFilament",
     "uri": "/3dprinters/prusamark3/changingfilament/index.html"
-  },
-  {
-    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 4",
-    "content": "",
-    "description": "",
-    "tags": [],
-    "title": "ChangingFilament",
-    "uri": "/3dprinters/prusamark4/changingfilament-copy/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Ultimaker",
