@@ -31,18 +31,19 @@ What is this place? This is the official CID tool documentation webstie, catalog
     <title>Home :: CID guide website</title>
     <link href="http://localhost:1313/index.html" rel="canonical" type="text/html" title="Home :: CID guide website">
     <link href="/index.xml" rel="alternate" type="application/rss+xml" title="Home :: CID guide website">
-    <link href="/css/fontawesome-all.min.css?1715880823" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1715880823" rel="stylesheet"></noscript>
-    <link href="/css/nucleus.css?1715880823" rel="stylesheet">
-    <link href="/css/auto-complete.css?1715880823" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1715880823" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1715880823" rel="stylesheet">
-    <link href="/css/fonts.css?1715880823" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1715880823" rel="stylesheet"></noscript>
-    <link href="/css/theme.css?1715880823" rel="stylesheet">
-    <link href="/css/theme-auto.css?1715880823" rel="stylesheet" id="R-variant-style">
-    <link href="/css/chroma-auto.css?1715880823" rel="stylesheet" id="R-variant-chroma-style">
-    <link href="/css/variant.css?1715880823" rel="stylesheet">
-    <link href="/css/print.css?1715880823" rel="stylesheet" media="print">
-    <link href="/css/format-print.css?1715880823" rel="stylesheet">
-    <script src="/js/variant.js?1715880823"></script>
+    <link href="/images/favicon.png?1717030076" rel="icon" type="image/png">
+    <link href="/css/fontawesome-all.min.css?1717030079" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717030079" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1717030079" rel="stylesheet">
+    <link href="/css/auto-complete.css?1717030079" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717030079" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1717030079" rel="stylesheet">
+    <link href="/css/fonts.css?1717030079" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717030079" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1717030079" rel="stylesheet">
+    <link href="/css/theme-lightfcs.css?1717030079" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-learn.css?1717030079" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1717030079" rel="stylesheet">
+    <link href="/css/print.css?1717030079" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1717030079" rel="stylesheet">
+    <script src="/js/variant.js?1717030079"></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='.';
@@ -50,7 +51,7 @@ What is this place? This is the official CID tool documentation webstie, catalog
       window.relearn.absBaseUri='http:\/\/localhost:1313';
       window.index_js_url="/index.search.js";
       // variant stuff
-      window.variants && variants.init( [ 'auto' ] );
+      window.variants && variants.init( [ 'lightfcs', 'darkfcs', 'neonfcs' ] );
       // translations
       window.T_Copy_to_clipboard = `Copy to clipboard`;
       window.T_Copied_to_clipboard = `Copied to clipboard!`;
@@ -202,8 +203,85 @@ code=&ldquo;still code&rdquo;
             <header class="headline">
             </header>
 
-<h1 id="uploadingfiles">UploadingFiles</h1>
+<h1 id="uploading-files">Uploading Files</h1>
 
+<hr>
+<p>To upload files to the FormLabs printer first open the <strong>PreForm</strong> application.</p>
+<p>Image</p>
+<p>Then drag and drop your intended file into the work area of the window</p>
+<p>Image</p>
+<p>From here you have a few options about how to set up your print.</p>
+<h3 id="one-click-print">One Click Print</h3>
+<p>The simplest is to hit the (icon) icon and use <em>One Click Print</em></p>
+<p>Image</p>
+<p>Hit the <em>Set Up Your Print</em> button and the app will automatically rotate your model and add supports for the best print generation.</p>
+<p>Image</p>
+<p>It will also pop up the printing menu, which we will discuss in the <strong>Printing</strong> section.</p>
+<h2 id="manual-setup">Manual Setup</h2>
+<h3 id="moving-and-rotation">Moving and Rotation</h3>
+<p>To move the print around the print bed, first click the item you wish to move, and you will see two arrows pop up around your shape, ass well as 3 quarter rings.</p>
+<p>picture</p>
+<p>Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.</p>
+<p>You can also rotate it by grabbing and dragging the quarter rings or the (icon) icon</p>
+<p>picture</p>
+<p>It is reccomended to rotate the object so that the least amount of overhang is acheived:</p>
+<p>image</p>
+<p>And there are no shapes that create cups:</p>
+<p>image</p>
+<p>Again a menu with certain options will also appear next to the (icon) icon</p>
+<p>Picture</p>
+<p>The <em>Auto-Orient Selected</em> will rotate the object to have the optimal setup.</p>
+<p>Picture</p>
+<p>the <em>Orient To Face</em> button will allow you to click on a face of the print and the program will lay it flat against the print bed such that the arrow that appears will point straight down into the bed.</p>
+<p>Picture</p>
+<p>You can also edit it&rsquo;s rotation more precicely by clicking the arrows next to <em>Orient X</em>, <em>Orient Y</em>, and <em>Orient Z</em> to rotate it around those axis.</p>
+<p>Picture</p>
+<p>There also is a handfull of options labeled <em>Orient To Bounding Box</em>. This will lay the face of the rectangular box around the object flat against the bed.</p>
+<p>Image</p>
+<p>Finally the <em>Reset Selected</em> Button will return the object to it&rsquo;s original orientation.</p>
+<h3 id="scaling">Scaling</h3>
+<p>To scale your object, select the object, then select the (icon) icon. A menu will appear next to the icon.</p>
+<p>Picture</p>
+<p>The text boxes allow you to set the scale of the object by a multiple of it&rsquo;s current size and scale it evenly across all axis, or scale the axis seperately to the size you specify.</p>
+<p>picture</p>
+<p>The <em>Reset</em> button will set the object to it&rsquo;s original dimentions</p>
+<p>Alternatively, when you select the object you can grab and drag the (icon) icon the scale it evenly.</p>
+<h3 id="layout">Layout</h3>
+<p>To manage the layout of the bed, select your object and hit the (icon) icon. A menu will then appear.</p>
+<p>Image</p>
+<h4 id="auto-layout">Auto Layout</h4>
+<p>To automatically layout your objects, you can change the <em>Model Spacing</em> and choose whether to select <em>Overlap Rafts</em> and <em>Lock Rotation</em>. Then hit the <em>Layout All</em> Button.</p>
+<p><em>Model Spacing</em> Will dictate how close the pieces end up after placement.</p>
+<p>Image</p>
+<p><em>Overlap Rafts</em> dictates if the support rafts can overlap</p>
+<p>Image</p>
+<p><em>Lock Rotation</em> stops the program from rotating the models while arranging them.</p>
+<h4 id="duplication">Duplication</h4>
+<p>To duplicate your model, first select how many copies you want, then hit the <em>Create</em> button</p>
+<h4 id="array">Array</h4>
+<p>Array will duplicate your models in a regular pattern, with a specified number of rows and columns and specified spacing.</p>
+<h4 id="mirroring">Mirroring</h4>
+<p>Hit the <em>Mirror Models</em> button to mirror all selected models.</p>
+<h3 id="supports">Supports</h3>
+<p>To generate supports for your model, hit the (icon) icon and a menu will appear. If you select an object or objects, you can generate supports only for the selected objects, or alternatively generate supports for all objects by not selecting any one particular object.</p>
+<p>Image</p>
+<p>Firstly, you can automatically generate the supports by hitting the <em>Auto-Generate All</em> Button.</p>
+<p>Image</p>
+<p>You can paint on supports by hitting the <em>Edit</em> button, but the details of that will not be covered here. It is reccomended to use the Auto-Generate option instead.</p>
+<p>You can edit the way supports generate in the <strong>Basic Settings</strong> section.</p>
+<p><em>Raft Type</em> will change how the support raft generates, either Full Rafts, Mini Rafts, or None</p>
+<p>Image</p>
+<p><em>Raft Label</em> will place the name of the object on the rim of the raft</p>
+<p>Image</p>
+<p><em>Density</em> Changes how often the supports will be placed</p>
+<p>Image</p>
+<p><em>Touchpoint Size</em> Changes the area of the contact between the support and object</p>
+<p>Image</p>
+<p><em>Internal Supports</em> will generate supports between different layers of the object</p>
+<p>Image</p>
+<p><strong>Advanced Settings</strong> has more particular details but will not be covered on this guide.</p>
+<p>Hitting the <em>Reset</em> button will reset the objects completely.</p>
+<p>Once you are happy with object and support placement, move to the <em>Printer Settings</em> Section.</p>
 
             <footer class="footline">
             </footer>
@@ -224,30 +302,15 @@ code=&ldquo;still code&rdquo;
             <header class="headline">
             </header>
 
-<h1 id="transferringtoprinter">TransferringToPrinter</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="slicefiles">SliceFiles</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
 <h1 id="printing">Printing</h1>
 
+<hr>
+<p>Once you are ready to print, hit the <em>Upload Print</em> button and a menu will appear. This is the same menu that will appear when you use the <em>One-Click Print</em> feature.</p>
+<p>Image</p>
+<p>In this menu you can either press <em>Add to Queue</em> or <em>Print Now</em>.</p>
+<p><em>Add to Queue</em> adds it to the list of prints availible on the printer.</p>
+<p><em>Print Now</em> starts the job immedietely. Your object should print shortly.</p>
+<p>Once the print has finished, go to the removing print section.</p>
 
             <footer class="footline">
             </footer>
@@ -257,8 +320,22 @@ code=&ldquo;still code&rdquo;
             <header class="headline">
             </header>
 
-<h1 id="printersettings">PrinterSettings</h1>
+<h1 id="printer-settings">Printer Settings</h1>
 
+<hr>
+<p>Now that you have your print set up, click the <em>Printer</em> button in the top left</p>
+<h3 id="choose-printer">Choose Printer</h3>
+<p>Under the choose printer section, select the dropdown and select <em>Form 3/3+</em>.</p>
+<p>Image</p>
+<p>Then underneath should appear a row named <em>AzureGoshawk</em> which you should select.</p>
+<p>Image</p>
+<h3 id="choose-material">Choose Material</h3>
+<p>Select whatever material is currently loaded in the printer.</p>
+<h3 id="choose-layer-thickness">Choose layer thickness</h3>
+<p>Layer thickness will change how fast the file prints as well as the resolution of the product. Use 0.1 mm for most prints, or smaller if you need super precise detail.</p>
+<p>Don&rsquo;t worry about the <strong>Other Settings</strong> as we do not have the hardware for those.</p>
+<h2 id="done">Done?</h2>
+<p>When you are happy with your settings, hit the <em>Apply</em> button in the bottom right and move to the printing section.</p>
 
             <footer class="footline">
             </footer>
@@ -270,6 +347,8 @@ code=&ldquo;still code&rdquo;
 
 <h1 id="changing-resin">Changing Resin</h1>
 
+<hr>
+<p>Please do not attempt to change resin yourself. Get help from a trained adult if you need a different resin type.</p>
 
             <footer class="footline">
             </footer>
@@ -281,6 +360,18 @@ code=&ldquo;still code&rdquo;
 
 <h1 id="removing-print">Removing Print</h1>
 
+<hr>
+<p>To remove the print from the bed, first put on latex gloves as resin can be harmful to your skin with frequent contact.</p>
+<p>Image</p>
+<p>Then open the casing around the printer by pulling up on the handle</p>
+<p>image</p>
+<p>inside, you will see you print attached upside-down to the print bed, and a mechanism holding the bed.</p>
+<p>Image</p>
+<p>Unhook the latch holding the bed on and remove the print bed.</p>
+<p>image</p>
+<p>From there, get a scraper and carfully use it to pry the print off.</p>
+<p>Image.</p>
+<p>Once all of your pieces are detached from the bed, proceed to the Washing and Baking section.</p>
 
             <footer class="footline">
             </footer>
@@ -292,6 +383,21 @@ code=&ldquo;still code&rdquo;
 
 <h1 id="washing-and-baking">Washing And Baking</h1>
 
+<hr>
+<p>These steps will use the two black machines next to the formlabs printer.</p>
+<p>Image with labels.</p>
+<p>First, take your pieces and place them in the washing basin.</p>
+<p>image</p>
+<p>Click the knob to power the machine on, and then click it again to start the washing. You can change the settings with the dial but they will be set up for washing for you.</p>
+<p>Image.</p>
+<p>Once your pieces are done washing, you can take them out and move them into the second black box, to bake them.</p>
+<p>Image</p>
+<p>Place your pieces inside, close the lid, and click the knob once to activate the machine.</p>
+<p>Image.</p>
+<p>The menu that pops up will show options for time and temnperature. Use the guide on the wall to select the correct settings for your material, however 30 minutes at 60 degrees will work for the common resins that the printer will have loaded.</p>
+<p>Images</p>
+<p>When the baking process is done, the print is complete!</p>
+<p>Image</p>
 
             <footer class="footline">
             </footer>
@@ -524,98 +630,6 @@ Lightning</p>
             <header class="headline">
             </header>
 
-<h1 id="prusa-mark-3">Prusa Mark 3</h1>
-
-<p>Cura m3 stuff</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <section>
-            <h1 class="a11y-only">Subsections of Prusa Mark 3</h1>
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="uploadingfiles">UploadingFiles</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="troubleshootingandrecalibration">TroubleshootingAndRecalibration</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="transferringtoprinter">TransferringToPrinter</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="slicefiles">SliceFiles</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="printing">Printing</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="printersettings">PrinterSettings</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="changingfilament">ChangingFilament</h1>
-
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          </section>
-          <article class="default">
-            <header class="headline">
-            </header>
-
 <h1 id="prusa-mark-4">Prusa Mark 4</h1>
 
 <p>Cura m3 stuff</p>
@@ -804,6 +818,17 @@ Lightning</p>
 
 <h1 id="printing">Printing</h1>
 
+<p>Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically</p>
+<p>Image</p>
+<p>If this is the file you wish to print, simply click the knob and it will begin printing</p>
+<p>Image</p>
+<p>If the file doesnt appear or the file that appears isn&rsquo;t the file you wish to print, navigate to the home menu.</p>
+<p>Image</p>
+<p>Select <em>Print</em></p>
+<p>Image</p>
+<p>then select the name of your file you wish to print. A menu will appear allowing you to confirm your selection.</p>
+<p>Image</p>
+<p>Hit print once you confirm it is the right file.</p>
 
             <footer class="footline">
             </footer>
@@ -1448,7 +1473,53 @@ Lightning</p>
 
 <h1 id="adjust-settings">Adjust Settings</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<p>Once you have your material selected, we can start choosing how we want each shape to be cut.</p>
+<p>Image</p>
+<p>On the left of the screen will show all individual objects in the workspace. Click on the object you wish to change the settings of.</p>
+<p>Image</p>
+<h3 id="cut-options">Cut Options</h3>
+<p>A menu will appear, with various options. First let&rsquo;s look at the top menu. Each of the options on the top menu will cut the object in a different way.</p>
+<h4 id="engraving">Engraving</h4>
+<p>Engraving will have the laser cutter burn an area into your material but not cut all the way through.</p>
+<p>Image</p>
+<p>If you have a shape with a simple boundry this will just fill in the shape.</p>
+<p>Image</p>
+<p>But if you have an image instead, the engraving will attempt to create a pattern to make the image.</p>
+<p>Clicking the arrow next to the default setting will open up a menu of more options.</p>
+<p>Image</p>
+<p><em>Speed</em> controls how fast the laser moves, and <em>Power</em> controls how much pwer the laser outputs.</p>
+<p>If you have an image, there will be a panel labeled <em>Bitmap Options</em></p>
+<p>Image</p>
+<p>The dropdown labeled <em>Grayscale</em> will let you choose how darkness is interpreted by the computer.</p>
+<p><em>Convert to dots</em> will add more small dots in darker areas and less in lighter areas.</p>
+<p><em>Convert to patterns</em> will add a darker pattern in darker areas and a lighter pattern in lighter areas</p>
+<p><em>Vary Power</em> will use more power in darker areas and more in lighter areas, with the maximun power being the number specified in the previous panel and the minimum power being specified in a box just below the dropdown.</p>
+<p>For either of the first two options a slider labeled <em>Pattern Density</em> will appear, where the left gray bar designates the lightest pattern the printer will create and the right bar designating the darkest pattern the printer will create.</p>
+<p>For any of the three options, there is a slider that will change how the edge of the image is managed, between minimizing the margin and maximizing the quality of the image.</p>
+<p>Image</p>
+<p>Finally there will be options labeled <em>Engrave</em></p>
+<p><em>Lines per inch</em> designates how many lines the laser will make per inch</p>
+<p><em># of Passes</em>  designates how many passes the laser will do during the engraving process</p>
+<p><em>Focus Height</em> can be changed from a manual to automatic focus. It is recommended to set it to <em>Auto</em></p>
+<h4 id="cutting">Cutting</h4>
+<p>The cut setting will cut the outline of the selected object</p>
+<p>Image</p>
+<p>Clicking the arrow next to the default setting will open up a menu of more options.</p>
+<p>Image</p>
+<p><em>Speed</em> controls how fast the laser moves, and <em>Power</em> controls how much pwer the laser outputs.</p>
+<p>If the laser does not cut all the way through, turn down the speed by 10-20 and try again</p>
+<p><em># of Passes</em>  designates how many passes the laser will do during the cutting process</p>
+<p><em>Focus Height</em> can be changed from a manual to automatic focus. It is recommended to set it to <em>Auto</em></p>
+<h4 id="scoring">Scoring</h4>
+<p>Scoring will engrave just the outline of the shape but not cut all the way through.</p>
+<p><em>Speed</em> controls how fast the laser moves, and <em>Power</em> controls how much pwer the laser outputs.</p>
+<p><em># of Passes</em>  designates how many passes the laser will do during the engraving process</p>
+<p><em>Focus Height</em> can be changed from a manual to automatic focus. It is recommended to set it to <em>Auto</em></p>
+<h4 id="ignoring">Ignoring</h4>
+<p>Ignore will make the cutter completely ignore the object and not cut it at all</p>
+<h2 id="done">Done?</h2>
+<p>Once you have your settings set, move to the Process Ordering page.</p>
 
             <footer class="footline">
             </footer>
@@ -1460,7 +1531,13 @@ Lightning</p>
 
 <h1 id="material-selection">Material Selection</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<p>Once your design is ready, select what material you wish to use from the bins near the laser cutters.</p>
+<p>Image</p>
+<p>Once you have loaded the material into the cutter, go to the top left corner of your workspace and click the button which will either be labeled <em>Unknown Material</em> or some other material name. This will open up a menu.</p>
+<p>Image</p>
+<p>Use the search bar to select the type of material you are using. In general it is best to call anything less than 1/8 inch medium, and anything greater then or equal to 1/8 inch thick.</p>
+<p>Once you have selected your material, move to the settings page.</p>
 
             <footer class="footline">
             </footer>
@@ -1484,7 +1561,8 @@ Lightning</p>
 
 <h1 id="passthorugh-usage">Passthorugh usage</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<p>To activate passthrough,</p>
 
             <footer class="footline">
             </footer>
@@ -1496,7 +1574,31 @@ Lightning</p>
 
 <h1 id="printing">Printing</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<h3 id="cutter-selection">Cutter selection</h3>
+<p>Before cutting make sure you have the right cutter selected by clicking the name of the glowforge in the top right and selecting which machine you are using</p>
+<p>Image</p>
+<p>The &ldquo;Glowforge&rdquo; has the slot in the front for passthrough cutting while the &ldquo;Glowforge II&rdquo; does not.</p>
+<h3 id="last-rearrangment">Last rearrangment</h3>
+<p>Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.</p>
+<p>Image</p>
+<p>The two things to look out for are:</p>
+<ol>
+<li>Make sure your object is not over any holes in your material.</li>
+</ol>
+<p>image</p>
+<ol start="2">
+<li>If possible, try to move your object to leave the biggest space possible for others to cut.</li>
+</ol>
+<p>image</p>
+<h3 id="printing">Printing</h3>
+<p>When you are ready to print, click the <em>Print</em> button in the top right</p>
+<p>Image</p>
+<p>From there the printer will begin the printing process, and eventually show a menu.</p>
+<p>Image</p>
+<p>When this menu shows, check once again that your object is not over any holes as the bed image often shifts slightly when you do this.</p>
+<p>Once you are confident it will print correctly, move to the laser cutter and hit the flashing white button. Your design should begin printing.</p>
+<p>If you need to cancel at any time, just hit the cancel print button on the computer.</p>
 
             <footer class="footline">
             </footer>
@@ -1508,7 +1610,12 @@ Lightning</p>
 
 <h1 id="process-ordering">Process Ordering</h1>
 
-<p>Stuff is here too</p>
+<p>Once you have your cut settings set, close out any open menus.</p>
+<p>Now it is important to order the cuts in an appropriate order.</p>
+<p>Image</p>
+<p>The cutter will do the steps in the left bar from top to bottom.</p>
+<p>Take any engraving and scoring steps, and drag them upwards, and take any cutting steps and drag them downwards. This way peices will not move after being cut and be misaligned for engraving.</p>
+<p>Once you are done this, move to Printing.</p>
 
             <footer class="footline">
             </footer>
@@ -1520,7 +1627,19 @@ Lightning</p>
 
 <h1 id="tracing">Tracing</h1>
 
-<p>Stuff is here too</p>
+<p>To trace an image into the laser cutter, place the drawing or art you wish to trace in the machine and close the lid.</p>
+<p>Image</p>
+<p>Then either go to the glowforge home menu and hit <em>Create New Design</em> and <em>Trace Artwork</em> or open a workspace and hit the (icon) icon and then the <em>Trace</em> button in the top right</p>
+<p>Images</p>
+<p>This will open up an image of the bed and anything in it.</p>
+<p>Image</p>
+<p>Now simply drag your mouse over the art you wish to trace.</p>
+<p>Image</p>
+<p>This will show a black and white scan of the artwork. If you wish to cut an outline of any section of the art, click that area and it will outline it in purple.</p>
+<p>Images</p>
+<p>Once you have selected all areas to cut, hit the <em>Place Artwork</em> button in the top right.</p>
+<p>Image</p>
+<p>This will place an engraving of the art, as well as cut lines anywhere you selected, with the two grouped together. Right click and hit <em>Ungroup</em> to seperate the two.</p>
 
             <footer class="footline">
             </footer>
@@ -1542,21 +1661,118 @@ Lightning</p>
             <header class="headline">
             </header>
 
-<h1 id="upload-files">Upload Files</h1>
+<h1 id="uploading-files">Uploading Files</h1>
 
-<p>Stuff is here too</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="user-interface-usage">User Interface Usage</h1>
-
-<p>Stuff is here too</p>
+<hr>
+<p>To bring your file into the Laser Cutters first go to <em>glowforge.com</em>. There you will see a website with many options.</p>
+<p>image</p>
+<p>If the computer is not signed into glowforge, have an adult sign you in.</p>
+<p>If the computer is signed in, hit the <em>Create</em> button, which will take you to a new menu.</p>
+<p>Image</p>
+<p>there you will see a list of projects, which you can select to open, or in the top left, there is a <em>Create a New Design</em> button for your own designs. Hit the create button and it will open a dropdown menu.</p>
+<p>Image</p>
+<p><em>Create a Blank Design</em> will open an empty workspace, where you can start from scratch and use the tools to create your design.</p>
+<p><em>Upload a File</em> will let you upoad one fo your own files, which will open up a menu to select your file. Once you select it it will open your file in the workspace to edit as you please</p>
+<p><em>Trace a design</em> will let you trace a design, which will be covered in a seperate page, go to the Tracing Page.</p>
+<p>Image</p>
+<p>No matter what you choose, you will eventually reach the workspace. There you will se a lot of options. We&rsquo;ll start with the top menu.</p>
+<h3 id="top-bar">Top Bar</h3>
+<h4 id="selection-tool">Selection Tool.</h4>
+<p>Hitting the (icon) icon will allow you to select objects in the frame by clicking them or dragging your mouse over them</p>
+<h4 id="pan-tool">Pan Tool</h4>
+<p>Hitting the (icon) icon will allow you to pan the scene by dragging with your mouse</p>
+<h4 id="undo-and-redo">Undo and Redo</h4>
+<p>Hitting the (icon) icon will undo your last action, and hitting the (icon) icon will redo your last undone action.</p>
+<h4 id="import-artwork">Import artwork</h4>
+<p>Hitting the (icon) icon will open the import artwork menu.</p>
+<p>Image</p>
+<p>Here you can select to import artowkr from the computer, trace artwork, or use the search bar to search designs. When you select a design it will open in the workspace. We will cover tracing in the Tracing page.</p>
+<h4 id="magic-canvas">Magic Canvas</h4>
+<p>Hitting the (icon) icon will open the Magic Canvas menu</p>
+<p>Image</p>
+<p>This menu will allow you to add AI generated desgins to your cut. Select which type of desgin you would like to generate, and type in the prompt you would like to generate. A loading menu will appear and eventually your design will appear. You can then choose to use the image as is, or edit the image with the tools provided.</p>
+<h4 id="add-shape">Add Shape</h4>
+<p>Hitting the (icon) icon will open a menu with a list of shapes you can add to your design.</p>
+<p>Image</p>
+<p>Hitting the first 4 shapes will create that shape, hitting the pentagon icon will open another menu.</p>
+<p>Image</p>
+<p>There you can edit the number of points in your shape and round the corners.</p>
+<h4 id="text">Text</h4>
+<p>Hitting the (icon) icon will create text and open a menu to customize that text</p>
+<p>Image</p>
+<p>Firstly put what you want the text to say in the first box.</p>
+<p>Then you can edit the font by clicking the dropdown labeled <em>Typeface</em></p>
+<p>You can edit the thickness of the letters by clicking the dropdown under <em>Weight</em></p>
+<p>You can select the switch labeled <em>Italic</em> to make the text Italic</p>
+<p>You can edit the size of the text by clicking the dropdown labeled <em>Size</em></p>
+<p>You can change the alignment in the box by clicking the dropdown labeled <em>Alignment</em></p>
+<p>You can edit the spacing between the letters by clicking the dropdown labeled <em>Spacing</em></p>
+<p>You can make your text into different shapes by clicking the dropdown labeled <em>Style</em></p>
+<p>If you have a style selected, clicking the button labeled <em>Options</em> will allow you to customize the style you selected.</p>
+<h4 id="more-options">More Options</h4>
+<p>Hitting the (icon) icon will open a new menu with more options.</p>
+<p><em>Refresh Bed Image</em> will rescan the bed and show what is there.</p>
+<p><em>Set focus</em> will allow you to click somewhere on the bed to force the glowforge to focus on.</p>
+<p><em>Design Details</em> will open up a panel of information about your design, as well as any instructions included with the design.</p>
+<p><em>Export Design</em> will allow you to export your design to the computer</p>
+<p><em>Past Prints</em> will show all past print jobs on this file</p>
+<p><em>Keyboard Shortcuts</em> shows the list of keyboard shortcuts.</p>
+<p><em>Preferences</em> opens up a menu of accesibility options</p>
+<p><em>Pro Passthrough</em> is used to make longer designs, which will be reviewed more in the pro passthrough page.</p>
+<p>Do not select <em>Glowforge Air Filter Attached</em> as we do not have that</p>
+<p><em>Units</em> will switch from inches to centimeters for measuring.</p>
+<h3 id="movement-and-arrangement">Movement and Arrangement</h3>
+<h4 id="moving">Moving</h4>
+<p>To move an object arounf the screen, simply select it and drag</p>
+<p>Image</p>
+<h4 id="scaling">Scaling</h4>
+<p>To scale an object select it and drag the white dots. If the aspect ratio is locked in the arrangement menu, the object will scale evenly. If not it will scale however you drag it.</p>
+<p>Image</p>
+<h4 id="rotation">Rotation</h4>
+<p>To rotate an object, select it and drag the (icon) icon until it is rotated how you want it.</p>
+<p>Image</p>
+<h4 id="arrangement-menu">Arrangement Menu</h4>
+<p>Selecting the (icon) icon in the bottom left will open up a menu</p>
+<p>Image</p>
+<p>Here you can select the exact position of the object and scale of the object, as well as unlocking and locking the aspect ratio by clicking the (icon) icon.</p>
+<h4 id="alignment-menu">Alignment Menu</h4>
+<p>Selecting the (icon) icon in the bottom left will open up another menu</p>
+<p>Image</p>
+<p>This menu allows you to allign multiple objects to each other as is displayed in the buttons shown.</p>
+<h3 id="side-bar">Side Bar</h3>
+<p>After selecting an object, a side bar will appear</p>
+<p>Image</p>
+<h4 id="outline">Outline</h4>
+<p>Hitting the (icon) icon will open a menu, and allow you to create an outline of the currently selected object.</p>
+<p>Image</p>
+<p>Once you create the outline, you can adjust how far outside or inside the shape the line is.</p>
+<h4 id="mirroring">Mirroring</h4>
+<p>Hitting the (icon) icon will mirror the object vertically, and hitting the (icon) icon will mirror the image horizontally</p>
+<h4 id="patterned-line">Patterned line</h4>
+<p>Hitting the (icon) icon will open another menu, which will allow you to created a patterened line from a regular line object.</p>
+<p>Image</p>
+<p>Hitting the dropdown labeled <em>Mode</em> will allow you to choose from a list of options</p>
+<p>Image</p>
+<p><em>Repeating shapes</em> will allow you to place shapes along the line</p>
+<p><em>Seamless Pattern</em> will create a pattern along the line</p>
+<p><em>Stiching Holes</em> will create holes along the line</p>
+<p><em>Perforated Line</em> will cut a dashed line</p>
+<p><em>Hold-in Tabs</em> will gibve the line small bits of material to keep it in place while cutting that are easy to remove afterwards.</p>
+<p>No matter what option you choose, there will be a list of customizations to edit your pattern below, with more availible after hitting the <em>Options</em> dropdown</p>
+<h4 id="puzzle-maker">Puzzle Maker</h4>
+<p>Hitting the (icon) icon will open another menu, which will allow you to place a puzzle around your object.</p>
+<p>Image</p>
+<p>You can specify how many rows and columns to add, whether you want a frame, and whether you want to keep the selected object or delete it after creating the puzzle around it.</p>
+<p>Hit the <em>Create Puzzle</em> button to create the puzzle.</p>
+<h4 id="stamp-maker">Stamp maker</h4>
+<p>Hitting the (icon) icon will open another menu, which will allow you to create a stamp that stamps the selected design.</p>
+<p>Image</p>
+<p><em>Padding</em> will dictate how far the stamp will extand past the design&rsquo;s edge.</p>
+<p><em>Keep Original Artwork</em> will keep the design as well as creating the stamp.</p>
+<p><em>Add Edge</em> will add a box around the stamp to make it easy to cut out of your material.</p>
+<p>Hit the <em>Create Stamp</em> button to create the Stamp.</p>
+<h2 id="done">Done?</h2>
+<p>Once you are happy with your design, move to the Material Selection page.</p>
 
             <footer class="footline">
             </footer>
@@ -1630,7 +1846,7 @@ Lightning</p>
             <header class="headline">
             </header>
 
-<h1 id="upload-files">Upload Files</h1>
+<h1 id="uploading-files">Uploading Files</h1>
 
 <p>Stuff is here too</p>
 
@@ -1655,8 +1871,8 @@ Lightning</p>
         </div>
       </main>
     </div>
-    <script src="/js/clipboard.min.js?1715880824" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1715880824" defer></script>
-    <script src="/js/theme.js?1715880824" defer></script>
+    <script src="/js/clipboard.min.js?1717030079" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1717030079" defer></script>
+    <script src="/js/theme.js?1717030079" defer></script>
   </body>
 </html>

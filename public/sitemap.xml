@@ -13,10 +13,6 @@
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/index.html</loc>
-    <lastmod>2024-05-08T09:34:44-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/3dprinters/prusamark4/index.html</loc>
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
@@ -61,20 +57,20 @@
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/lulzbot/uploadingfiles/index.html</loc>
-    <lastmod>2024-05-08T09:34:44-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/uploadingfiles/index.html</loc>
-    <lastmod>2024-05-08T09:34:44-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/3dprinters/prusamark4/uploadingfiles/index.html</loc>
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/3dprinters/ultimaker/uploadingfiles/index.html</loc>
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/lulzbot/uploadingfiles/index.html</loc>
+    <lastmod>2024-05-08T09:34:44-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</loc>
+    <lastmod>2024-05-08T09:34:27-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/3dprinters/formlabs/troubleshootingandrecalibration/index.html</loc>
@@ -85,27 +81,11 @@
     <lastmod>2024-05-08T09:34:27-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/troubleshootingandrecalibration/index.html</loc>
-    <lastmod>2024-05-08T09:34:27-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/3dprinters/prusamark4/troubleshootingandrecalibration/index.html</loc>
     <lastmod>2024-05-08T09:34:27-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</loc>
-    <lastmod>2024-05-08T09:34:27-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/formlabs/transferringtoprinter/index.html</loc>
-    <lastmod>2024-05-08T09:34:10-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/3dprinters/lulzbot/transferringtoprinter/index.html</loc>
-    <lastmod>2024-05-08T09:34:10-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/transferringtoprinter/index.html</loc>
     <lastmod>2024-05-08T09:34:10-04:00</lastmod>
   </url>
   <url>
@@ -117,15 +97,7 @@
     <lastmod>2024-05-08T09:34:10-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/formlabs/slicefiles/index.html</loc>
-    <lastmod>2024-05-08T09:33:55-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/3dprinters/lulzbot/slicefiles/index.html</loc>
-    <lastmod>2024-05-08T09:33:55-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/slicefiles/index.html</loc>
     <lastmod>2024-05-08T09:33:55-04:00</lastmod>
   </url>
   <url>
@@ -141,14 +113,6 @@
     <lastmod>2024-05-08T09:33:43-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/lulzbot/printing/index.html</loc>
-    <lastmod>2024-05-08T09:33:43-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/printing/index.html</loc>
-    <lastmod>2024-05-08T09:33:43-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/3dprinters/prusamark4/printing/index.html</loc>
     <lastmod>2024-05-08T09:33:43-04:00</lastmod>
   </url>
@@ -161,19 +125,15 @@
     <lastmod>2024-05-08T09:33:28-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/lulzbot/printersettings/index.html</loc>
-    <lastmod>2024-05-08T09:33:28-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/printersettings/index.html</loc>
-    <lastmod>2024-05-08T09:33:28-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/3dprinters/prusamark4/printersettings/index.html</loc>
     <lastmod>2024-05-08T09:33:28-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</loc>
+    <lastmod>2024-05-08T09:33:28-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/3dprinters/lulzbot/printersettings/index.html</loc>
     <lastmod>2024-05-08T09:33:28-04:00</lastmod>
   </url>
   <url>
@@ -185,19 +145,15 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</loc>
+    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/3dprinters/formlabs/changingfilament/index.html</loc>
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/3dprinters/lulzbot/changingfilament/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/prusamark3/changingfilament/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</loc>
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
@@ -334,10 +290,6 @@
   </url>
   <url>
     <loc>http://localhost:1313/wazer/upload/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/laser-cutters/ui/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Upload Files :: CID guide website</title>
+    <title>Uploading Files :: CID guide website</title>
     <link>http://localhost:1313/wazer/upload/index.html</link>
     <description>Stuff is here too</description>
     <generator>Hugo</generator>

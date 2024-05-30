@@ -3,7 +3,7 @@
   <channel>
     <title>Printing :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/printing/index.html</link>
-    <description></description>
+    <description>Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically&#xA;Image&#xA;If this is the file you wish to print, simply click the knob and it will begin printing&#xA;Image&#xA;If the file doesnt appear or the file that appears isn’t the file you wish to print, navigate to the home menu.&#xA;Image</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

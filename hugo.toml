@@ -6,3 +6,14 @@ theme = 'hugo-theme-relearn'
   home = ['html', 'rss', 'print', 'search']
   page = ['html', 'rss', 'print']
   section = ['html', 'rss', 'print']
+
+[params]
+
+  [[params.themeVariant]]
+    identifier = 'lightfcs'
+
+  [[params.themeVariant]]
+    identifier = 'darkfcs'
+
+  [[params.themeVariant]]
+    identifier = 'neonfcs'

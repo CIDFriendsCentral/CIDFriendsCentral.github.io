@@ -23,18 +23,19 @@
     <title>Laser Cutter :: CID guide website</title>
     <link href="http://localhost:1313/laser-cutters/index.html" rel="canonical" type="text/html" title="Laser Cutter :: CID guide website">
     <link href="/laser-cutters/index.xml" rel="alternate" type="application/rss+xml" title="Laser Cutter :: CID guide website">
-    <link href="/css/fontawesome-all.min.css?1715713753" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1715713753" rel="stylesheet"></noscript>
-    <link href="/css/nucleus.css?1715713753" rel="stylesheet">
-    <link href="/css/auto-complete.css?1715713753" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1715713753" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1715713753" rel="stylesheet">
-    <link href="/css/fonts.css?1715713753" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1715713753" rel="stylesheet"></noscript>
-    <link href="/css/theme.css?1715713753" rel="stylesheet">
-    <link href="/css/theme-auto.css?1715713753" rel="stylesheet" id="R-variant-style">
-    <link href="/css/chroma-auto.css?1715713753" rel="stylesheet" id="R-variant-chroma-style">
-    <link href="/css/variant.css?1715713753" rel="stylesheet">
-    <link href="/css/print.css?1715713753" rel="stylesheet" media="print">
-    <link href="/css/format-print.css?1715713753" rel="stylesheet">
-    <script src="/js/variant.js?1715713753"></script>
+    <link href="/images/favicon.png?1717030076" rel="icon" type="image/png">
+    <link href="/css/fontawesome-all.min.css?1717030080" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717030080" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1717030080" rel="stylesheet">
+    <link href="/css/auto-complete.css?1717030080" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717030080" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1717030080" rel="stylesheet">
+    <link href="/css/fonts.css?1717030080" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717030080" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1717030080" rel="stylesheet">
+    <link href="/css/theme-lightfcs.css?1717030080" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-learn.css?1717030080" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1717030080" rel="stylesheet">
+    <link href="/css/print.css?1717030080" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1717030080" rel="stylesheet">
+    <script src="/js/variant.js?1717030080"></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='..';
@@ -42,7 +43,7 @@
       window.relearn.absBaseUri='http:\/\/localhost:1313';
       window.index_js_url="/index.search.js";
       // variant stuff
-      window.variants && variants.init( [ 'auto' ] );
+      window.variants && variants.init( [ 'lightfcs', 'darkfcs', 'neonfcs' ] );
       // translations
       window.T_Copy_to_clipboard = `Copy to clipboard`;
       window.T_Copied_to_clipboard = `Copied to clipboard!`;
@@ -100,7 +101,53 @@
 
 <h1 id="adjust-settings">Adjust Settings</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<p>Once you have your material selected, we can start choosing how we want each shape to be cut.</p>
+<p>Image</p>
+<p>On the left of the screen will show all individual objects in the workspace. Click on the object you wish to change the settings of.</p>
+<p>Image</p>
+<h3 id="cut-options">Cut Options</h3>
+<p>A menu will appear, with various options. First let&rsquo;s look at the top menu. Each of the options on the top menu will cut the object in a different way.</p>
+<h4 id="engraving">Engraving</h4>
+<p>Engraving will have the laser cutter burn an area into your material but not cut all the way through.</p>
+<p>Image</p>
+<p>If you have a shape with a simple boundry this will just fill in the shape.</p>
+<p>Image</p>
+<p>But if you have an image instead, the engraving will attempt to create a pattern to make the image.</p>
+<p>Clicking the arrow next to the default setting will open up a menu of more options.</p>
+<p>Image</p>
+<p><em>Speed</em> controls how fast the laser moves, and <em>Power</em> controls how much pwer the laser outputs.</p>
+<p>If you have an image, there will be a panel labeled <em>Bitmap Options</em></p>
+<p>Image</p>
+<p>The dropdown labeled <em>Grayscale</em> will let you choose how darkness is interpreted by the computer.</p>
+<p><em>Convert to dots</em> will add more small dots in darker areas and less in lighter areas.</p>
+<p><em>Convert to patterns</em> will add a darker pattern in darker areas and a lighter pattern in lighter areas</p>
+<p><em>Vary Power</em> will use more power in darker areas and more in lighter areas, with the maximun power being the number specified in the previous panel and the minimum power being specified in a box just below the dropdown.</p>
+<p>For either of the first two options a slider labeled <em>Pattern Density</em> will appear, where the left gray bar designates the lightest pattern the printer will create and the right bar designating the darkest pattern the printer will create.</p>
+<p>For any of the three options, there is a slider that will change how the edge of the image is managed, between minimizing the margin and maximizing the quality of the image.</p>
+<p>Image</p>
+<p>Finally there will be options labeled <em>Engrave</em></p>
+<p><em>Lines per inch</em> designates how many lines the laser will make per inch</p>
+<p><em># of Passes</em>  designates how many passes the laser will do during the engraving process</p>
+<p><em>Focus Height</em> can be changed from a manual to automatic focus. It is recommended to set it to <em>Auto</em></p>
+<h4 id="cutting">Cutting</h4>
+<p>The cut setting will cut the outline of the selected object</p>
+<p>Image</p>
+<p>Clicking the arrow next to the default setting will open up a menu of more options.</p>
+<p>Image</p>
+<p><em>Speed</em> controls how fast the laser moves, and <em>Power</em> controls how much pwer the laser outputs.</p>
+<p>If the laser does not cut all the way through, turn down the speed by 10-20 and try again</p>
+<p><em># of Passes</em>  designates how many passes the laser will do during the cutting process</p>
+<p><em>Focus Height</em> can be changed from a manual to automatic focus. It is recommended to set it to <em>Auto</em></p>
+<h4 id="scoring">Scoring</h4>
+<p>Scoring will engrave just the outline of the shape but not cut all the way through.</p>
+<p><em>Speed</em> controls how fast the laser moves, and <em>Power</em> controls how much pwer the laser outputs.</p>
+<p><em># of Passes</em>  designates how many passes the laser will do during the engraving process</p>
+<p><em>Focus Height</em> can be changed from a manual to automatic focus. It is recommended to set it to <em>Auto</em></p>
+<h4 id="ignoring">Ignoring</h4>
+<p>Ignore will make the cutter completely ignore the object and not cut it at all</p>
+<h2 id="done">Done?</h2>
+<p>Once you have your settings set, move to the Process Ordering page.</p>
 
             <footer class="footline">
             </footer>
@@ -112,7 +159,13 @@
 
 <h1 id="material-selection">Material Selection</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<p>Once your design is ready, select what material you wish to use from the bins near the laser cutters.</p>
+<p>Image</p>
+<p>Once you have loaded the material into the cutter, go to the top left corner of your workspace and click the button which will either be labeled <em>Unknown Material</em> or some other material name. This will open up a menu.</p>
+<p>Image</p>
+<p>Use the search bar to select the type of material you are using. In general it is best to call anything less than 1/8 inch medium, and anything greater then or equal to 1/8 inch thick.</p>
+<p>Once you have selected your material, move to the settings page.</p>
 
             <footer class="footline">
             </footer>
@@ -136,7 +189,8 @@
 
 <h1 id="passthorugh-usage">Passthorugh usage</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<p>To activate passthrough,</p>
 
             <footer class="footline">
             </footer>
@@ -148,7 +202,31 @@
 
 <h1 id="printing">Printing</h1>
 
-<p>Stuff is here too</p>
+<hr>
+<h3 id="cutter-selection">Cutter selection</h3>
+<p>Before cutting make sure you have the right cutter selected by clicking the name of the glowforge in the top right and selecting which machine you are using</p>
+<p>Image</p>
+<p>The &ldquo;Glowforge&rdquo; has the slot in the front for passthrough cutting while the &ldquo;Glowforge II&rdquo; does not.</p>
+<h3 id="last-rearrangment">Last rearrangment</h3>
+<p>Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.</p>
+<p>Image</p>
+<p>The two things to look out for are:</p>
+<ol>
+<li>Make sure your object is not over any holes in your material.</li>
+</ol>
+<p>image</p>
+<ol start="2">
+<li>If possible, try to move your object to leave the biggest space possible for others to cut.</li>
+</ol>
+<p>image</p>
+<h3 id="printing">Printing</h3>
+<p>When you are ready to print, click the <em>Print</em> button in the top right</p>
+<p>Image</p>
+<p>From there the printer will begin the printing process, and eventually show a menu.</p>
+<p>Image</p>
+<p>When this menu shows, check once again that your object is not over any holes as the bed image often shifts slightly when you do this.</p>
+<p>Once you are confident it will print correctly, move to the laser cutter and hit the flashing white button. Your design should begin printing.</p>
+<p>If you need to cancel at any time, just hit the cancel print button on the computer.</p>
 
             <footer class="footline">
             </footer>
@@ -160,7 +238,12 @@
 
 <h1 id="process-ordering">Process Ordering</h1>
 
-<p>Stuff is here too</p>
+<p>Once you have your cut settings set, close out any open menus.</p>
+<p>Now it is important to order the cuts in an appropriate order.</p>
+<p>Image</p>
+<p>The cutter will do the steps in the left bar from top to bottom.</p>
+<p>Take any engraving and scoring steps, and drag them upwards, and take any cutting steps and drag them downwards. This way peices will not move after being cut and be misaligned for engraving.</p>
+<p>Once you are done this, move to Printing.</p>
 
             <footer class="footline">
             </footer>
@@ -172,7 +255,19 @@
 
 <h1 id="tracing">Tracing</h1>
 
-<p>Stuff is here too</p>
+<p>To trace an image into the laser cutter, place the drawing or art you wish to trace in the machine and close the lid.</p>
+<p>Image</p>
+<p>Then either go to the glowforge home menu and hit <em>Create New Design</em> and <em>Trace Artwork</em> or open a workspace and hit the (icon) icon and then the <em>Trace</em> button in the top right</p>
+<p>Images</p>
+<p>This will open up an image of the bed and anything in it.</p>
+<p>Image</p>
+<p>Now simply drag your mouse over the art you wish to trace.</p>
+<p>Image</p>
+<p>This will show a black and white scan of the artwork. If you wish to cut an outline of any section of the art, click that area and it will outline it in purple.</p>
+<p>Images</p>
+<p>Once you have selected all areas to cut, hit the <em>Place Artwork</em> button in the top right.</p>
+<p>Image</p>
+<p>This will place an engraving of the art, as well as cut lines anywhere you selected, with the two grouped together. Right click and hit <em>Ungroup</em> to seperate the two.</p>
 
             <footer class="footline">
             </footer>
@@ -194,21 +289,118 @@
             <header class="headline">
             </header>
 
-<h1 id="upload-files">Upload Files</h1>
+<h1 id="uploading-files">Uploading Files</h1>
 
-<p>Stuff is here too</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="user-interface-usage">User Interface Usage</h1>
-
-<p>Stuff is here too</p>
+<hr>
+<p>To bring your file into the Laser Cutters first go to <em>glowforge.com</em>. There you will see a website with many options.</p>
+<p>image</p>
+<p>If the computer is not signed into glowforge, have an adult sign you in.</p>
+<p>If the computer is signed in, hit the <em>Create</em> button, which will take you to a new menu.</p>
+<p>Image</p>
+<p>there you will see a list of projects, which you can select to open, or in the top left, there is a <em>Create a New Design</em> button for your own designs. Hit the create button and it will open a dropdown menu.</p>
+<p>Image</p>
+<p><em>Create a Blank Design</em> will open an empty workspace, where you can start from scratch and use the tools to create your design.</p>
+<p><em>Upload a File</em> will let you upoad one fo your own files, which will open up a menu to select your file. Once you select it it will open your file in the workspace to edit as you please</p>
+<p><em>Trace a design</em> will let you trace a design, which will be covered in a seperate page, go to the Tracing Page.</p>
+<p>Image</p>
+<p>No matter what you choose, you will eventually reach the workspace. There you will se a lot of options. We&rsquo;ll start with the top menu.</p>
+<h3 id="top-bar">Top Bar</h3>
+<h4 id="selection-tool">Selection Tool.</h4>
+<p>Hitting the (icon) icon will allow you to select objects in the frame by clicking them or dragging your mouse over them</p>
+<h4 id="pan-tool">Pan Tool</h4>
+<p>Hitting the (icon) icon will allow you to pan the scene by dragging with your mouse</p>
+<h4 id="undo-and-redo">Undo and Redo</h4>
+<p>Hitting the (icon) icon will undo your last action, and hitting the (icon) icon will redo your last undone action.</p>
+<h4 id="import-artwork">Import artwork</h4>
+<p>Hitting the (icon) icon will open the import artwork menu.</p>
+<p>Image</p>
+<p>Here you can select to import artowkr from the computer, trace artwork, or use the search bar to search designs. When you select a design it will open in the workspace. We will cover tracing in the Tracing page.</p>
+<h4 id="magic-canvas">Magic Canvas</h4>
+<p>Hitting the (icon) icon will open the Magic Canvas menu</p>
+<p>Image</p>
+<p>This menu will allow you to add AI generated desgins to your cut. Select which type of desgin you would like to generate, and type in the prompt you would like to generate. A loading menu will appear and eventually your design will appear. You can then choose to use the image as is, or edit the image with the tools provided.</p>
+<h4 id="add-shape">Add Shape</h4>
+<p>Hitting the (icon) icon will open a menu with a list of shapes you can add to your design.</p>
+<p>Image</p>
+<p>Hitting the first 4 shapes will create that shape, hitting the pentagon icon will open another menu.</p>
+<p>Image</p>
+<p>There you can edit the number of points in your shape and round the corners.</p>
+<h4 id="text">Text</h4>
+<p>Hitting the (icon) icon will create text and open a menu to customize that text</p>
+<p>Image</p>
+<p>Firstly put what you want the text to say in the first box.</p>
+<p>Then you can edit the font by clicking the dropdown labeled <em>Typeface</em></p>
+<p>You can edit the thickness of the letters by clicking the dropdown under <em>Weight</em></p>
+<p>You can select the switch labeled <em>Italic</em> to make the text Italic</p>
+<p>You can edit the size of the text by clicking the dropdown labeled <em>Size</em></p>
+<p>You can change the alignment in the box by clicking the dropdown labeled <em>Alignment</em></p>
+<p>You can edit the spacing between the letters by clicking the dropdown labeled <em>Spacing</em></p>
+<p>You can make your text into different shapes by clicking the dropdown labeled <em>Style</em></p>
+<p>If you have a style selected, clicking the button labeled <em>Options</em> will allow you to customize the style you selected.</p>
+<h4 id="more-options">More Options</h4>
+<p>Hitting the (icon) icon will open a new menu with more options.</p>
+<p><em>Refresh Bed Image</em> will rescan the bed and show what is there.</p>
+<p><em>Set focus</em> will allow you to click somewhere on the bed to force the glowforge to focus on.</p>
+<p><em>Design Details</em> will open up a panel of information about your design, as well as any instructions included with the design.</p>
+<p><em>Export Design</em> will allow you to export your design to the computer</p>
+<p><em>Past Prints</em> will show all past print jobs on this file</p>
+<p><em>Keyboard Shortcuts</em> shows the list of keyboard shortcuts.</p>
+<p><em>Preferences</em> opens up a menu of accesibility options</p>
+<p><em>Pro Passthrough</em> is used to make longer designs, which will be reviewed more in the pro passthrough page.</p>
+<p>Do not select <em>Glowforge Air Filter Attached</em> as we do not have that</p>
+<p><em>Units</em> will switch from inches to centimeters for measuring.</p>
+<h3 id="movement-and-arrangement">Movement and Arrangement</h3>
+<h4 id="moving">Moving</h4>
+<p>To move an object arounf the screen, simply select it and drag</p>
+<p>Image</p>
+<h4 id="scaling">Scaling</h4>
+<p>To scale an object select it and drag the white dots. If the aspect ratio is locked in the arrangement menu, the object will scale evenly. If not it will scale however you drag it.</p>
+<p>Image</p>
+<h4 id="rotation">Rotation</h4>
+<p>To rotate an object, select it and drag the (icon) icon until it is rotated how you want it.</p>
+<p>Image</p>
+<h4 id="arrangement-menu">Arrangement Menu</h4>
+<p>Selecting the (icon) icon in the bottom left will open up a menu</p>
+<p>Image</p>
+<p>Here you can select the exact position of the object and scale of the object, as well as unlocking and locking the aspect ratio by clicking the (icon) icon.</p>
+<h4 id="alignment-menu">Alignment Menu</h4>
+<p>Selecting the (icon) icon in the bottom left will open up another menu</p>
+<p>Image</p>
+<p>This menu allows you to allign multiple objects to each other as is displayed in the buttons shown.</p>
+<h3 id="side-bar">Side Bar</h3>
+<p>After selecting an object, a side bar will appear</p>
+<p>Image</p>
+<h4 id="outline">Outline</h4>
+<p>Hitting the (icon) icon will open a menu, and allow you to create an outline of the currently selected object.</p>
+<p>Image</p>
+<p>Once you create the outline, you can adjust how far outside or inside the shape the line is.</p>
+<h4 id="mirroring">Mirroring</h4>
+<p>Hitting the (icon) icon will mirror the object vertically, and hitting the (icon) icon will mirror the image horizontally</p>
+<h4 id="patterned-line">Patterned line</h4>
+<p>Hitting the (icon) icon will open another menu, which will allow you to created a patterened line from a regular line object.</p>
+<p>Image</p>
+<p>Hitting the dropdown labeled <em>Mode</em> will allow you to choose from a list of options</p>
+<p>Image</p>
+<p><em>Repeating shapes</em> will allow you to place shapes along the line</p>
+<p><em>Seamless Pattern</em> will create a pattern along the line</p>
+<p><em>Stiching Holes</em> will create holes along the line</p>
+<p><em>Perforated Line</em> will cut a dashed line</p>
+<p><em>Hold-in Tabs</em> will gibve the line small bits of material to keep it in place while cutting that are easy to remove afterwards.</p>
+<p>No matter what option you choose, there will be a list of customizations to edit your pattern below, with more availible after hitting the <em>Options</em> dropdown</p>
+<h4 id="puzzle-maker">Puzzle Maker</h4>
+<p>Hitting the (icon) icon will open another menu, which will allow you to place a puzzle around your object.</p>
+<p>Image</p>
+<p>You can specify how many rows and columns to add, whether you want a frame, and whether you want to keep the selected object or delete it after creating the puzzle around it.</p>
+<p>Hit the <em>Create Puzzle</em> button to create the puzzle.</p>
+<h4 id="stamp-maker">Stamp maker</h4>
+<p>Hitting the (icon) icon will open another menu, which will allow you to create a stamp that stamps the selected design.</p>
+<p>Image</p>
+<p><em>Padding</em> will dictate how far the stamp will extand past the design&rsquo;s edge.</p>
+<p><em>Keep Original Artwork</em> will keep the design as well as creating the stamp.</p>
+<p><em>Add Edge</em> will add a box around the stamp to make it easy to cut out of your material.</p>
+<p>Hit the <em>Create Stamp</em> button to create the Stamp.</p>
+<h2 id="done">Done?</h2>
+<p>Once you are happy with your design, move to the Material Selection page.</p>
 
             <footer class="footline">
             </footer>
@@ -218,8 +410,8 @@
         </div>
       </main>
     </div>
-    <script src="/js/clipboard.min.js?1715713753" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1715713753" defer></script>
-    <script src="/js/theme.js?1715713753" defer></script>
+    <script src="/js/clipboard.min.js?1717030080" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1717030080" defer></script>
+    <script src="/js/theme.js?1717030080" defer></script>
   </body>
 </html>
