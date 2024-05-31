@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "CNC Machine"
-weight = 1
+weight = 3
 +++
 
 This is a new chapter.

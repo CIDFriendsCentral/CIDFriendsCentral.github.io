@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
 title = "Laser Cutter"
-weight = 1
+weight = 2
 +++
 
 This is a new chapter.

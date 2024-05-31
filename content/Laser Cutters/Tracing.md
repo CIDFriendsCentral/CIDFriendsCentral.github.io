@@ -8,11 +8,7 @@ To trace an image into the laser cutter, place the drawing or art you wish to tr
 
 Image
 
-Then either go to the glowforge home menu and hit *Create New Design* and *Trace Artwork* or open a workspace and hit the (icon) icon and then the *Trace* button in the top right
-
-Images
-
-This will open up an image of the bed and anything in it.
+Then either go to the glowforge home menu and hit *Create New Design* and *Trace Artwork* or open a workspace and hit the (icon) icon and then the *Trace* button in the top right. This will open up an image of the bed and anything in it.
 
 Image
 

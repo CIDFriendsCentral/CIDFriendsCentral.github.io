@@ -1,7 +1,7 @@
 +++
 alwaysopen = false
 title = "Lulzbot"
-weight = 1
+weight = 4
 +++
 Lulzbot
  stuff

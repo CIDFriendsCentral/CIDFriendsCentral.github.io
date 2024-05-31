@@ -27,15 +27,7 @@ Now insert your material so that the closest edge to you is ligned up with the f
 
 ### Software Setup
 
-Open a workspace on the computer and click the (icon) icon on the top bar.
-
-Image
-
-Then select the Pro Passthrough option.
-
-Image
-
-This will extend the workspace upwards as far as you want. Now simply create your extra long design, following the other steps as you normally would.
+Open a workspace on the computer and click the (icon) icon on the top bar, then select the Pro Passthrough option. This will extend the workspace upwards as far as you want. Now simply create your extra long design, following the other steps as you normally would.
 
 Image
 
@@ -45,11 +37,7 @@ Hit the print button as you would for any print and start the print.
 
 Once it finishes it will show a new menu as it scans your cut so far.
 
-image
-
 Then once it has finished a new menu will appear. Simply pull your print forwards about 8 inches, then hit continue
-
-Image
 
 The print will rescan and then continue with your design. Hit the button once it begins glowing.
 

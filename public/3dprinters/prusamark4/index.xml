@@ -16,13 +16,6 @@
       <description>To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (icon) icon and selecting the file.&#xA;Picture&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window</description>
     </item>
     <item>
-      <title>TroubleshootingAndRecalibration</title>
-      <link>http://localhost:1313/3dprinters/prusamark4/troubleshootingandrecalibration/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:34:27 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark4/troubleshootingandrecalibration/index.html</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Transferring To Printer</title>
       <link>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>

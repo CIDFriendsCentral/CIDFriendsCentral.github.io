@@ -49,7 +49,7 @@ Hitting the (icon) icon will open the import artwork menu.
 
 Image
 
-Here you can select to import artowkr from the computer, trace artwork, or use the search bar to search designs. When you select a design it will open in the workspace. We will cover tracing in the Tracing page.
+Here you can select to import artowrk from the computer, trace artwork, or use the search bar to search designs. When you select a design it will open in the workspace. We will cover tracing in the Tracing page.
 
 #### Magic Canvas
 
@@ -63,13 +63,11 @@ This menu will allow you to add AI generated desgins to your cut. Select which t
 
 Hitting the (icon) icon will open a menu with a list of shapes you can add to your design.
 
-Image
-
-Hitting the first 4 shapes will create that shape, hitting the pentagon icon will open another menu.
+Hitting the first 3 shapes will create that shape, hitting the pentagon or star icon will open another menu.
 
 Image
 
-There you can edit the number of points in your shape and round the corners.
+There you can edit the number of points in your shape, change the sharpness of a star, and round the corners.
 
 #### Text
 
@@ -168,6 +166,8 @@ Hitting the (icon) icon will open a menu, and allow you to create an outline of 
 Image
 
 Once you create the outline, you can adjust how far outside or inside the shape the line is.
+
+Image
 
 #### Mirroring
 

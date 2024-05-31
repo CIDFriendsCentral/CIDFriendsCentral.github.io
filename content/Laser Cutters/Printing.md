@@ -17,8 +17,6 @@ The "Glowforge" has the slot in the front for passthrough cutting while the "Glo
 
 Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.
 
-Image
-
 The two things to look out for are:
 
 1. Make sure your object is not over any holes in your material.

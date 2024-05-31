@@ -23,18 +23,18 @@
       <description>Lulzbot stuff</description>
     </item>
     <item>
-      <title>Prusa Mark 4</title>
-      <link>http://localhost:1313/3dprinters/prusamark4/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark4/index.html</guid>
-      <description>Cura m3 stuff</description>
-    </item>
-    <item>
       <title>Ultimaker</title>
       <link>http://localhost:1313/3dprinters/ultimaker/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/index.html</guid>
       <description>Ultimaker stuff</description>
+    </item>
+    <item>
+      <title>Prusa Mark 4</title>
+      <link>http://localhost:1313/3dprinters/prusamark4/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark4/index.html</guid>
+      <description>Cura m3 stuff</description>
     </item>
     <item>
       <title>Orientation Project - 3D printing</title>

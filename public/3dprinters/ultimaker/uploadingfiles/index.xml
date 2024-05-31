@@ -3,7 +3,7 @@
   <channel>
     <title>Uploading Files :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/uploadingfiles/index.html</link>
-    <description>To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the Ultimaker Cura application.&#xA;Picture 113&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window&#xA;Moving To move the print around the print bed, first click the item you wish to move, then click the (icon) icon and you will see three arrows pop up around your shape</description>
+    <description>To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the Ultimaker Cura application.&#xA;Picture 113&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window&#xA;Picture</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
