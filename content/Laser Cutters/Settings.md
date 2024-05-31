@@ -2,6 +2,7 @@
 title = 'Adjust Settings'
 date = 2024-05-07T15:15:22-04:00
 draft = false
+weight = 3
 +++
 ---
 
@@ -29,6 +30,8 @@ Image
 
 But if you have an image instead, the engraving will attempt to create a pattern to make the image.
 
+Image
+
 Clicking the arrow next to the default setting will open up a menu of more options.
 
 Image
@@ -50,8 +53,6 @@ The dropdown labeled *Grayscale* will let you choose how darkness is interpreted
 For either of the first two options a slider labeled *Pattern Density* will appear, where the left gray bar designates the lightest pattern the printer will create and the right bar designating the darkest pattern the printer will create.
 
 For any of the three options, there is a slider that will change how the edge of the image is managed, between minimizing the margin and maximizing the quality of the image.
-
-Image
 
 Finally there will be options labeled *Engrave*
 
@@ -82,6 +83,12 @@ If the laser does not cut all the way through, turn down the speed by 10-20 and 
 #### Scoring
 
 Scoring will engrave just the outline of the shape but not cut all the way through.
+
+Image 
+
+Clicking the arrow next to the default setting will open up a menu of more options.
+
+Image
 
 *Speed* controls how fast the laser moves, and *Power* controls how much pwer the laser outputs. 
 

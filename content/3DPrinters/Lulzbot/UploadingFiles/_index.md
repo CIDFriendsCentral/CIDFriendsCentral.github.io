@@ -3,6 +3,7 @@ alwaysopen = false
 title = 'UploadingFiles'
 date = 2024-05-08T09:34:44-04:00
 draft = true
+weight = 1
 +++
 
 __
@@ -100,7 +101,7 @@ Clicking any of these arrows will mirror the object as if there was a mirror tha
 
 ### Mesh Type
 
-This section will allow you to change how the object prints.
+Clicking the (icon) icon will allow you to change how the object prints.
 
 The first icon is the default, and will follow the print settings that you set.
 
@@ -113,8 +114,6 @@ The last will remove all supports in the volume of the object, but will not prin
 ### Custom Supports
 
 To create custom supports, select your object then hit the (icon) icon.
-
-Image
 
 There you will see some options for how you want the support to generate
 
@@ -130,15 +129,11 @@ To use this, click the model you want to remove supports from, click the (icon) 
 
 To duplicate your object, select the object and then hit the (icon) icon.
 
-Image
-
 A menu will appear and allow you to set how many copies you want. Hit the *Multiply* button once you have set the desired number
 
 ### Pauses
 
 To add a pause or filament change to your print, select the object and hit the (icon) icon.
-
-Image
 
 There a menu will pop up, with a box to specify what layer you want the filament change at. If instead you just want to pause the print, select the *Pause Only* box.
 

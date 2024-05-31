@@ -3,6 +3,7 @@ alwaysopen = false
 title = 'Printing'
 date = 2024-05-08T09:33:43-04:00
 draft = true
+weight = 5
 +++
 
 Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically

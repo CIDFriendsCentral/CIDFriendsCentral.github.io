@@ -40,23 +40,23 @@ Print Settings Now move to the print settings menu. There you will see lots of o
 Image">
     <meta itemprop="datePublished" content="2024-05-08T09:33:28-04:00">
     <meta itemprop="dateModified" content="2024-05-08T09:33:28-04:00">
-    <meta itemprop="wordCount" content="513">
+    <meta itemprop="wordCount" content="506">
     <title>PrinterSettings :: CID guide website</title>
     <link href="http://localhost:1313/3dprinters/lulzbot/printersettings/index.html" rel="canonical" type="text/html" title="PrinterSettings :: CID guide website">
     <link href="/3dprinters/lulzbot/printersettings/index.xml" rel="alternate" type="application/rss+xml" title="PrinterSettings :: CID guide website">
-    <link href="/images/favicon.png?1717161365" rel="icon" type="image/png">
-    <link href="/css/fontawesome-all.min.css?1717161367" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717161367" rel="stylesheet"></noscript>
-    <link href="/css/nucleus.css?1717161367" rel="stylesheet">
-    <link href="/css/auto-complete.css?1717161367" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717161367" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1717161367" rel="stylesheet">
-    <link href="/css/fonts.css?1717161367" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717161367" rel="stylesheet"></noscript>
-    <link href="/css/theme.css?1717161367" rel="stylesheet">
-    <link href="/css/theme-lightfcs.css?1717161367" rel="stylesheet" id="R-variant-style">
-    <link href="/css/chroma-learn.css?1717161367" rel="stylesheet" id="R-variant-chroma-style">
-    <link href="/css/variant.css?1717161367" rel="stylesheet">
-    <link href="/css/print.css?1717161367" rel="stylesheet" media="print">
-    <link href="/css/format-print.css?1717161367" rel="stylesheet">
-    <script src="/js/variant.js?1717161367"></script>
+    <link href="/images/favicon.png?1717177740" rel="icon" type="image/png">
+    <link href="/css/fontawesome-all.min.css?1717177741" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717177741" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1717177741" rel="stylesheet">
+    <link href="/css/auto-complete.css?1717177741" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717177741" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1717177741" rel="stylesheet">
+    <link href="/css/fonts.css?1717177741" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717177741" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1717177741" rel="stylesheet">
+    <link href="/css/theme-lightfcs.css?1717177741" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-learn.css?1717177741" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1717177741" rel="stylesheet">
+    <link href="/css/print.css?1717177741" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1717177741" rel="stylesheet">
+    <script src="/js/variant.js?1717177741"></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='..\/..\/..';
@@ -93,9 +93,9 @@ Image">
             itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><span itemprop="name">PrinterSettings</span><meta itemprop="position" content="4"></li>
           </ol>
           <div class="topbar-area topbar-area-end" data-area="end">
-            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/3dprinters/lulzbot/slicefiles/index.html" title="SliceFiles (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
+            <div class="topbar-button topbar-button-prev" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/3dprinters/lulzbot/uploadingfiles/index.html" title="UploadingFiles (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a>
             </div>
-            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/3dprinters/lulzbot/changingfilament/index.html" title="ChangingFilament (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
+            <div class="topbar-button topbar-button-next" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show"><a class="topbar-control" href="/3dprinters/lulzbot/slicefiles/index.html" title="SliceFiles (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a>
             </div>
           </div>
         </div>
@@ -149,18 +149,19 @@ Lightning</p>
 <p>__ is the reccomended setting but this choice has little effect on the overall print.</p>
 <h4 id="support">Support</h4>
 <p>Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is reccomended to use whenever there are overhangs or floating objects in your print</p>
-<h5 id="support-structure">Support Structure</h5>
-<p>This box allows for two choices, <em>Normal</em> and <em>Tree</em></p>
-<p><em>Normal</em> creates sheets of support under your print, connected at top and bottom:</p>
+<h4 id="adhesion">Adhesion</h4>
+<p>Adhesion provides a way for you to help the print stick to the print bed better. There are a few options for this</p>
+<p><em>Skirt</em> Simply outlines the shape before printing it, this does not help much with adhesion though.</p>
 <p>image</p>
-<p><em>Tree</em> creates branching circular structures to support overhangs in the model:</p>
-<p>image</p>
-<p><em>Normal</em> is the reccomended setting unless it creates particularly hard to remove sections with print trapped between support on all sides</p>
-<h5 id="support-placement">Support Placement</h5>
-<p>Placement designates where supports generate, and gives two options, <em>Everywhere</em> and <em>Touching Buildplate</em></p>
-<p><em>Everywhere</em> means any overhang will be supported, no matter where on the print it is.</p>
-<p><em>Touching Buildplate</em> will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support</p>
-<p>It is reccomended to use <em>Everywhere</em> when overhangs are present.</p>
+<p><em>Brim</em> creates a brim of filament around the bottom layer of your print.</p>
+<p>Image</p>
+<p><em>Raft</em> creates a small 3d bubble below your print that is very large</p>
+<p>Image</p>
+<p><em>None</em> generates no adhesion support</p>
+<p>It is recommended to select <em>Brim</em> for any print with only a small area touching the bed</p>
+<h4 id="vase-mode">Vase Mode</h4>
+<p>Vase mode ignores all other settings and prints only the outer wall of your print in a spiral pattern.</p>
+<p>Image</p>
 <h4 id="custom-settings">Custom settings</h4>
 <p>Many other specific settings can be tuned however there are far too many to cover in this guide, so look to a more specific guide on the Cura LulzBot Edition Slicer for information on that.</p>
 <h2 id="done">Done?</h2>
@@ -173,8 +174,8 @@ Lightning</p>
         </div>
       </main>
     </div>
-    <script src="/js/clipboard.min.js?1717161367" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1717161367" defer></script>
-    <script src="/js/theme.js?1717161367" defer></script>
+    <script src="/js/clipboard.min.js?1717177741" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1717177741" defer></script>
+    <script src="/js/theme.js?1717177741" defer></script>
   </body>
 </html>

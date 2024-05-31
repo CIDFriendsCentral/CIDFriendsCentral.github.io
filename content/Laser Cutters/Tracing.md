@@ -2,6 +2,7 @@
 title = 'Tracing'
 date = 2024-05-07T15:15:22-04:00
 draft = false
+weight = 6
 +++
 
 To trace an image into the laser cutter, place the drawing or art you wish to trace in the machine and close the lid.

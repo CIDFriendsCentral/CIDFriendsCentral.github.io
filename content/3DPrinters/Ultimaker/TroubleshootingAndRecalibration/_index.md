@@ -3,6 +3,7 @@ alwaysopen = false
 title = 'Troubleshooting'
 date = 2024-05-08T09:34:27-04:00
 draft = true
+weight = 8
 +++
 
 Most errors with the Ultimaker will create an error messgae accompanied by the QR code. If this happens scan the QR code to find out how to fix the error

@@ -3,6 +3,7 @@ alwaysopen = false
 title = 'SliceFiles'
 date = 2024-05-08T09:33:55-04:00
 draft = true
+weight = 3
 +++
 
 Once you have set up your print how you want it, press the *slice* button in the bottom right

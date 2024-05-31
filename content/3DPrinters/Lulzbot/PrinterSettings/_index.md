@@ -3,6 +3,7 @@ alwaysopen = false
 title = 'PrinterSettings'
 date = 2024-05-08T09:33:28-04:00
 draft = true
+weight = 2
 +++
 
 Once you have your object oriented as desired, select your material
@@ -72,29 +73,32 @@ __ is the reccomended setting but this choice has little effect on the overall p
 
 Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is reccomended to use whenever there are overhangs or floating objects in your print
 
-##### Support Structure
+#### Adhesion
 
-This box allows for two choices, *Normal* and *Tree*
+Adhesion provides a way for you to help the print stick to the print bed better. There are a few options for this
 
-*Normal* creates sheets of support under your print, connected at top and bottom:
-
-image
-
-*Tree* creates branching circular structures to support overhangs in the model:
+*Skirt* Simply outlines the shape before printing it, this does not help much with adhesion though.
 
 image
 
-*Normal* is the reccomended setting unless it creates particularly hard to remove sections with print trapped between support on all sides
+*Brim* creates a brim of filament around the bottom layer of your print.
 
-##### Support Placement
+Image
 
-Placement designates where supports generate, and gives two options, *Everywhere* and *Touching Buildplate*
+*Raft* creates a small 3d bubble below your print that is very large
 
-*Everywhere* means any overhang will be supported, no matter where on the print it is.
+Image
 
-*Touching Buildplate* will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support
+*None* generates no adhesion support
 
-It is reccomended to use *Everywhere* when overhangs are present.
+It is recommended to select *Brim* for any print with only a small area touching the bed
+
+
+#### Vase Mode
+
+Vase mode ignores all other settings and prints only the outer wall of your print in a spiral pattern.
+
+Image
 
 #### Custom settings
 

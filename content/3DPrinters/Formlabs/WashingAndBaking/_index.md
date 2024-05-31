@@ -3,6 +3,7 @@ alwaysopen = false
 title = 'Washing And Baking'
 date = 2024-05-08T09:32:56-04:00
 draft = true
+weight = 5
 +++
 
 ---
@@ -28,8 +29,6 @@ Place your pieces inside, close the lid, and click the knob once to activate the
 Image.
 
 The menu that pops up will show options for time and temnperature. Use the guide on the wall to select the correct settings for your material, however 30 minutes at 60 degrees will work for the common resins that the printer will have loaded.
-
-Images
 
 When the baking process is done, the print is complete!
 

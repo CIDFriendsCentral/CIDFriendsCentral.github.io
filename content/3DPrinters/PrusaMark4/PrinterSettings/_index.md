@@ -3,6 +3,7 @@ alwaysopen = false
 title = 'Printer Settings'
 date = 2024-05-08T09:33:28-04:00
 draft = true
+weight = 2
 +++
 ---
 
