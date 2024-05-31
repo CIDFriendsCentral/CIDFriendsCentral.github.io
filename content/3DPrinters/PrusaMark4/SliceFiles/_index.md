@@ -19,8 +19,6 @@ Here you can use the slider on the right to move up and down the layers, showing
 
 You can add breaks, custom g-code, and filament swaps into your print from here, by sliding the slider on the right to where you want and either clicking the (icon) icon to add a color swap, or right clicking to choose between pause, custom g-code, and color swaps. 
 
-image 
-
 Pauses will stop the print and let you either add parts into the print or check the print, and resume when you press a button on the printer. Add custom g-code will have the printer run a set custom g-code file. Color swap will do the same as regular clicking. 
 
 If you choose to do a filament swap, make sure you are using the same type of filament.

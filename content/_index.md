@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Friend's Central CID Documentation Website
+# Friends' Central CID Documentation Website
 
 ---
 
@@ -10,7 +10,8 @@ title: Home
 
 Welcome to the CID, Friends Central's newest space, built for (insert propaganda here)
 
-![image](https://cid.friendscentral.org/images/pres.png)
+![image](/images/pres.png)
+
 
 
 Look through the side menu for different machine guides, use the search bar to find specific sections or continue on this page for an introduction to the website

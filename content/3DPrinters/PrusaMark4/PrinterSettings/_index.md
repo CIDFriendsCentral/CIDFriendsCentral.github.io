@@ -8,6 +8,8 @@ draft = true
 
 Once you are satified with the object placement, move to the right menu.
 
+Image
+
 ### Print settings
 
 Here you will see a list of settings for layer heights:
@@ -34,11 +36,17 @@ The options in the dropdown designate where supports generate, and gives 4 optio
 
 *None* will not create any supports
 
+Image
+
 *Support on Buildplate Only* will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support
+
+Image
 
 *For Support Enforcers Only* only puts supports in specified spots, either by you or the model itself.
 
 *Everywhere* means any overhang will be supported, no matter where on the print it is.
+
+Image
 
 It is reccomended to use *Everywhere* when overhangs are present.
 
@@ -53,6 +61,8 @@ anything down to *10%* will be self supporting enough, although *20%* is reccome
 ### Brim 
 
 The brim helps prints stick to the print bed and avoid shifting and warping off of the bed. It is reccomended to keep this setting selected for any print.
+
+Image
 
 ### Part specific settings.
 

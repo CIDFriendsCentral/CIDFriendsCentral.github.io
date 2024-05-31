@@ -87,7 +87,7 @@ The rewind icon will set the object to it's original dimentions
 
 ### Rotation
 
-To scale your object, select the object, then select the (icon) icon, and three rings will appear.
+To rotate your object, select the object, then select the (icon) icon, and three rings will appear.
 
 picture
 
@@ -101,13 +101,15 @@ And the maximum amount of the print is touching the build plate:
 
 image
 
-You can also set it's exact scale with the menu on the bottom right of the screen
+You can also set it's exact rotation with the menu on the bottom right of the screen
 
 picture
 
 Putting numbers in the text boxes will rotate the object in the direction of the arrows that appear as many degrees as you insert in the box.
 
 You can also click the (icon) icon and your object will show white planes. Clicking one of these will orient the object so that the selected plane is touching the buildplate.
+
+Image
 
 ### Cutting
 
@@ -147,8 +149,6 @@ Dowel creates holes in both halves of the print as well as a small dowel to join
 
 Again you can choose the shape of the dowel, *triangle*, *square*, *hexagon*, or *circle*:
 
-images
-
 Snap creates a small mechanism which will snap into a hole in the other piece.
 
 image
@@ -183,8 +183,6 @@ Image
 
 You can then select how to place the object once it cuts. *Keep Orientation* will keep the object as it is before that cut. *Place On Cut* will lay the object along the plane of the cut. *Flip Upside Down* will invert the object.
 
-Image
-
 If you have selected planar and not added connectors, you can at the bottom select to cut into parts instead of objects, which will leave the two sides connected but allow them to have their settings edited seperately with the left parts menu
 
 Image
@@ -205,8 +203,6 @@ Image
 
 Clicking and dragging will force the printer to place a seam there, and right clicking and dragging will stop seams in that area.
 
-Image
-
 You can also change the shape of your brush and view options in the menu that appears.
 
 ### Measuring
@@ -216,8 +212,6 @@ To measure your object, select the object, then select the (icon) icon. You can 
 Image
 
 When you measure a length, a (icon) icon will appear, and allow you to change the length highlighted and scale the rest of the model to enforce that length.
-
-Image
 
 In the menu you can either hit the *Restart Selection* button to clear your selection, or click the (icon) icon next to the measures to copy the numbers there.
 

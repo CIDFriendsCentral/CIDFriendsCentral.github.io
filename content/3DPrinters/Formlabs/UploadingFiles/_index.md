@@ -143,15 +143,9 @@ Image
 
 *Density* Changes how often the supports will be placed
 
-Image
-
 *Touchpoint Size* Changes the area of the contact between the support and object
 
-Image
-
 *Internal Supports* will generate supports between different layers of the object
-
-Image
 
 **Advanced Settings** has more particular details but will not be covered on this guide.
 

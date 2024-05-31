@@ -9,9 +9,11 @@ draft = true
 
 To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with **UltiMaker Cura** either through opening through File Explorer or dragging the file into the **Ultimaker Cura** application. 
 
-Picture
+Picture 113
 
 Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window
+
+Picture
 
 ### Moving
 
@@ -95,7 +97,7 @@ Clicking any of these arrows will mirror the object as if there was a mirror tha
 
 ### Mesh Type
 
-This section will allow you to change how the object prints.
+When you click the (icon) icon, a section will open that allows you to change how the object prints.
 
 The first icon is the default, and will follow the print settings that you set.
 

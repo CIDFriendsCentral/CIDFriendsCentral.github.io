@@ -12,6 +12,8 @@ Picture
 
 Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window
 
+Image
+
 ### Moving
 
 To move the print around the print bed, first click the item you wish to move, then click the (icon) icon and you will see three arrows pop up around your shape
@@ -60,7 +62,7 @@ It is reccomended to keep the *Snap Scaling* unselected and *Uniform Scaling* se
 
 ### Rotation
 
-To scale your object, select the object, then select the (icon) icon, and three rings will appear.
+To rotate your object, select the object, then select the (icon) icon, and three rings will appear.
 
 picture
 

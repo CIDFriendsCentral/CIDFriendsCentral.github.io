@@ -3,7 +3,7 @@
   <channel>
     <title>Printer Settings :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/printersettings/index.html</link>
-    <description>Once you are satified with the object placement, move to the right menu.&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most prescise setting, good for visual detail or mechanical fucntionality&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.&#xA;0.2 mm has the same options, but both will be faster but lower quality than their 0.</description>
+    <description>Once you are satified with the object placement, move to the right menu.&#xA;Image&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most prescise setting, good for visual detail or mechanical fucntionality&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.&#xA;0.2 mm has the same options, but both will be faster but lower quality than their 0.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
