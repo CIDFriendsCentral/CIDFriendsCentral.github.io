@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>PrinterSettings :: CID guide website</title>
+    <title>Printer Settings :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/lulzbot/printersettings/index.html</link>
     <description>Once you have your object oriented as desired, select your material&#xA;Material selection At the top of the display there will be a dropdown menu to select material type.&#xA;Image&#xA;Click to show the options for material selection and select the one currently loaded in the printer.&#xA;Print Settings Now move to the print settings menu. There you will see lots of options, which I will briefly review here&#xA;Image</description>
     <generator>Hugo</generator>

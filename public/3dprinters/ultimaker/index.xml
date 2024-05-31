@@ -16,18 +16,11 @@
       <description>To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the Ultimaker Cura application.&#xA;Picture 113&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window&#xA;Picture</description>
     </item>
     <item>
-      <title>Troubleshooting</title>
-      <link>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:34:27 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</guid>
-      <description>Most errors with the Ultimaker will create an error messgae accompanied by the QR code. If this happens scan the QR code to find out how to fix the error&#xA;The most common errors occur when:&#xA;The white silicone cover is not on the print heads: To fix this reinsert the silicone cover&#xA;The printer thinks it does not have filament loaded but does: To fix hit the ok button and hit resume when it returns to the printing screen, the printer will figure out that it does in fact have filament.</description>
-    </item>
-    <item>
-      <title>Transferring To Printer</title>
-      <link>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</guid>
-      <description>Once you have your gcode file, take the usb drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to UltiMaker Cura and look to the bottom right. If the button says Save To Removable Drive click it. If not, click the up arrow, then click Save To Removable Drive to make the button read Save To Removable Drive, then click the button.</description>
+      <title>Printer Settings</title>
+      <link>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</guid>
+      <description>Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here&#xA;Image&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strenth, and accuracy. Use this for general projects.&#xA;Visual prioritizes the outwards appearance to optimize visual properties.</description>
     </item>
     <item>
       <title>Slicing Files</title>
@@ -37,6 +30,13 @@
       <description>Once you have set up your print how you want it, press the slice button in the bottom right&#xA;insert picture&#xA;Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert image&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
     </item>
     <item>
+      <title>Transferring To Printer</title>
+      <link>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</guid>
+      <description>Once you have your gcode file, take the usb drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to UltiMaker Cura and look to the bottom right. If the button says Save To Removable Drive click it. If not, click the up arrow, then click Save To Removable Drive to make the button read Save To Removable Drive, then click the button.</description>
+    </item>
+    <item>
       <title>Printing</title>
       <link>http://localhost:1313/3dprinters/ultimaker/printing/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
@@ -44,11 +44,11 @@
       <description>Once you plug the USB into the printer, you should be greeted with this image&#xA;image&#xA;To print, hit the Print from USB button, then scroll untill you see the file you wish to print. Press the file name and another menu will appear.&#xA;image&#xA;Check that the time, and two filament types match what you expect, and then press start print. Your file should then print! If the filament types do not match what is in the printer, go to the Changing Filament Section.</description>
     </item>
     <item>
-      <title>Printer Settings</title>
-      <link>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</guid>
-      <description>Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here&#xA;Image&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strenth, and accuracy. Use this for general projects.&#xA;Visual prioritizes the outwards appearance to optimize visual properties.</description>
+      <title>Troubleshooting</title>
+      <link>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:27 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</guid>
+      <description>Most errors with the Ultimaker will create an error messgae accompanied by the QR code. If this happens scan the QR code to find out how to fix the error&#xA;The most common errors occur when:&#xA;The white silicone cover is not on the print heads: To fix this reinsert the silicone cover&#xA;The printer thinks it does not have filament loaded but does: To fix hit the ok button and hit resume when it returns to the printing screen, the printer will figure out that it does in fact have filament.</description>
     </item>
     <item>
       <title>ChangingFilament</title>

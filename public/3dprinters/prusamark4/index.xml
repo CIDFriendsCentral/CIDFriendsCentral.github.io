@@ -16,25 +16,11 @@
       <description>To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (icon) icon and selecting the file.&#xA;Picture&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window</description>
     </item>
     <item>
-      <title>Transferring To Printer</title>
-      <link>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</guid>
-      <description>Once you have your gcode file, take the usb drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (icon) icon and hit Save when the window appears&#xA;insert pictures&#xA;insert photos&#xA;Finally plug the drive back into the printer. Once you have done this move to the Printing section.</description>
-    </item>
-    <item>
-      <title>SliceFiles</title>
-      <link>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</guid>
-      <description>Once you have set up your print how you want it, press the slice button in the bottom right&#xA;insert picture&#xA;Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert image&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
-    </item>
-    <item>
-      <title>Printing</title>
-      <link>http://localhost:1313/3dprinters/prusamark4/printing/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark4/printing/index.html</guid>
-      <description>Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically&#xA;Image&#xA;If this is the file you wish to print, simply click the knob and it will begin printing&#xA;Image&#xA;If the file doesnt appear or the file that appears isn’t the file you wish to print, navigate to the home menu.&#xA;Image</description>
+      <title>Changing Filament</title>
+      <link>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</guid>
+      <description>To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options,Load, Unload, Change, and Purge.&#xA;image&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament. Follow the instructions on the screen.&#xA;Change will first unload and then load filament.</description>
     </item>
     <item>
       <title>Printer Settings</title>
@@ -44,11 +30,25 @@
       <description>Once you are satified with the object placement, move to the right menu.&#xA;Image&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most prescise setting, good for visual detail or mechanical fucntionality&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.&#xA;0.2 mm has the same options, but both will be faster but lower quality than their 0.</description>
     </item>
     <item>
-      <title>Changing Filament</title>
-      <link>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</guid>
-      <description>To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options,Load, Unload, Change, and Purge.&#xA;image&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament. Follow the instructions on the screen.&#xA;Change will first unload and then load filament.</description>
+      <title>SliceFiles</title>
+      <link>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</guid>
+      <description>Once you have set up your print how you want it, press the slice button in the bottom right&#xA;insert picture&#xA;Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert image&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
+    </item>
+    <item>
+      <title>Transferring To Printer</title>
+      <link>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</guid>
+      <description>Once you have your gcode file, take the usb drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (icon) icon and hit Save when the window appears&#xA;insert pictures&#xA;insert photos&#xA;Finally plug the drive back into the printer. Once you have done this move to the Printing section.</description>
+    </item>
+    <item>
+      <title>Printing</title>
+      <link>http://localhost:1313/3dprinters/prusamark4/printing/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark4/printing/index.html</guid>
+      <description>Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically&#xA;Image&#xA;If this is the file you wish to print, simply click the knob and it will begin printing&#xA;Image&#xA;If the file doesnt appear or the file that appears isn’t the file you wish to print, navigate to the home menu.&#xA;Image</description>
     </item>
   </channel>
 </rss>

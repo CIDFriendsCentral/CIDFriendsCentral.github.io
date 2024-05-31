@@ -1,6 +1,6 @@
 +++
 alwaysopen = false
-title = 'ChangingFilament'
+title = 'Changing Filament'
 date = 2024-05-08T09:32:56-04:00
 draft = true
 weight = 5
