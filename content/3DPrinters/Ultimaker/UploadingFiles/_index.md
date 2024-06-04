@@ -8,7 +8,7 @@ weight = 1
 
 ---
 
-To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with **UltiMaker Cura** either through opening through File Explorer or dragging the file into the **Ultimaker Cura** application. 
+To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with **UltiMaker Cura** either through opening through File Explorer or dragging the file into the **UltiMaker Cura** application. 
 
 Picture 113
 

@@ -28,9 +28,9 @@ Firstly you will see a list of **Profiles**. These are the easiest way to select
 
 ### Resolution
 
-Resolution will change the thickness of every layer. The bigger each layer is the faster the model will print, but the worse it will look and function. It's recoomneded to use *Fine* for good visual quality or *Fast* for speed and basic functionality. 
+Resolution will change the thickness of every layer. The bigger each layer is the faster the model will print, but the worse it will look and function. It's recommended to use *Fine* for good visual quality or *Fast* for speed and basic functionality. 
 
-Below it may say "Reccommended settings for _____ were altered". Clicking the rewind icon will reset to reccomended settings and the floppy disk icon will save the current settings as a new preset.
+Below it may say "Recommended settings for _____ were altered". Clicking the rewind icon will reset to recommended settings and the floppy disk icon will save the current settings as a new preset.
 
 ### Strength
 
@@ -40,7 +40,7 @@ This slider will allow you to dictate how much of the interior of the print is f
 
 image
 
-anything down to *10%* will be self supporting enough, although *20%* is reccomended for nearly every print. *70%* is the absolute maximum you need to go for a high strength print, however this should only be used if extreme strength is needed.
+anything down to *10%* will be self supporting enough, although *20%* is recommended for nearly every print. *70%* is the absolute maximum you need to go for a high strength print, however this should only be used if extreme strength is needed.
 
 ##### Infill pattern
 
@@ -61,7 +61,7 @@ Cross 3d
 Gyroid
 Lightning
 
-__ is the reccomended setting but this choice has little effect on the overall print.
+Rriangles is the recommended setting but this choice has little effect on the overall print.
 
 ##### Shell thickness
 
@@ -69,7 +69,7 @@ This lets you set the thickness of the outer shells of the print, with the first
 
 ### Support 
 
-Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is reccomended to use whenever there are overhangs or floating objects in your print
+Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print
 
 ##### Support type
 
@@ -83,7 +83,7 @@ image
 
 image
 
-*Normal* is the reccomended setting unless it creates particularly hard to remove sections with print trapped between support on all sides
+*Normal* is the recommended setting unless it creates particularly hard to remove sections with print trapped between support on all sides
 
 ##### Placement
 
@@ -93,11 +93,11 @@ Placement designates where supports generate, and gives two options, *Everywhere
 
 *Touching Buildplate* will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support
 
-It is reccomended to use *Everywhere* when overhangs are present.
+It is recommended to use *Everywhere* when overhangs are present.
 
 ### Adhesion
 
-Adhesion helps prints stick to the print bed and avoid shifting and warping off of the bed. It is reccomended to keep this setting selected for any print.
+Adhesion helps prints stick to the print bed and avoid shifting and warping off of the bed. It is recommended to keep this setting selected for any print.
 
 ### Custom settings
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Passthorugh usage :: CID guide website</title>
+    <title>Passthorugh Usage :: CID guide website</title>
     <link>http://localhost:1313/laser-cutters/passthrough/index.html</link>
     <description>Cutter Setup To activate passthrough, first set up the cutter to let objects pass through it.&#xA;To do this, first open the lid, open the front compartment, and pull out the black tray.&#xA;Image&#xA;You will then see in the front and back 2 black screws.&#xA;Image&#xA;Twist these to remove them and the attached bar, and set them aside somewhere safe.&#xA;Image&#xA;You can then place the tray back in, and close the front and the lid.</description>
     <generator>Hugo</generator>

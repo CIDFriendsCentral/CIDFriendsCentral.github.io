@@ -3,7 +3,7 @@
   <channel>
     <title>Securing Material :: CID guide website</title>
     <link>http://localhost:1313/cnc/securing/index.html</link>
-    <description></description>
+    <description>Once you are ready to secure your material to the bed, first take blue tape or painters tape</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

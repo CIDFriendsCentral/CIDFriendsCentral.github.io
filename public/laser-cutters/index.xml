@@ -51,7 +51,7 @@
       <description>To trace an image into the laser cutter, place the drawing or art you wish to trace in the machine and close the lid.&#xA;Image&#xA;Then either go to the glowforge home menu and hit Create New Design and Trace Artwork or open a workspace and hit the (icon) icon and then the Trace button in the top right. This will open up an image of the bed and anything in it.</description>
     </item>
     <item>
-      <title>Passthorugh usage</title>
+      <title>Passthorugh Usage</title>
       <link>http://localhost:1313/laser-cutters/passthrough/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/laser-cutters/passthrough/index.html</guid>

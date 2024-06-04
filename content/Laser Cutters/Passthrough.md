@@ -1,5 +1,5 @@
 +++
-title = 'Passthorugh usage'
+title = 'Passthorugh Usage'
 date = 2024-05-07T15:15:22-04:00
 draft = false
 weight = 7
