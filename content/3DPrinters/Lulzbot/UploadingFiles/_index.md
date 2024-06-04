@@ -35,7 +35,7 @@ there you will also see two checkboxes, *Lock Model* and two buttons *Center* an
 
 *Bottom* moves it's lowest point to be touching the print bed.
 
-It is reccomended to keep the *Lock Model* unselected and hit *Bottom* before slicing.
+It is recommended to keep the *Lock Model* unselected and hit *Bottom* before slicing.
 
 ### Scaling
 
@@ -43,7 +43,7 @@ To scale your object, select the object, then select the (icon) icon, and three 
 
 Picture
 
-You can grab any of the three to stretch the object in the direction of that line, or instead grab the central box to stratch in all directions equally. 
+You can grab any of the three to stretch the object in the direction of that line, or instead grab the central box to stretch in all directions equally. 
 
 Again a menu will pop up with certain options. The text boxes allow you to set the length, width, or height of the object by measured size or percentage of the original model.
 
@@ -53,13 +53,13 @@ there you will also see two checkboxes, *Snap Scaling* and *Uniform Scaling* as 
 
 *Snap Scaling* makes it so the object will snap between set sizes
 
-*Uniform Scaling* makes it so all the axis will scale uniformly, mneaning any change to one axis will be matched in the other two to keep the proportions of the object the same
+*Uniform Scaling* makes it so all the axis will scale uniformly, meaning any change to one axis will be matched in the other two to keep the proportions of the object the same
 
-The rewind icon will set the object to it's original dimentions, and the (icon) icon will set it to the max size the printer can print.
+The rewind icon will set the object to it's original dimensions, and the (icon) icon will set it to the max size the printer can print.
 
 *Bottom* moves it's lowest point to be touching the print bed.
 
-It is reccomended to keep the *Snap Scaling* unselected and *Uniform Scaling* selected unless you intentionally want a off proportion model
+It is recommended to keep the *Snap Scaling* unselected and *Uniform Scaling* selected unless you intentionally want a off proportion model
 
 ### Rotation
 
@@ -69,7 +69,7 @@ picture
 
 You can grab these rings and rotate them to rotate the object how you would like it to print. Keep in mind where the back of the bed is, signified by the lip where it is written *Ultimaker S5*. 
 
-It is reccomended to rotate the object so that the least amount of overhang is acheived:
+It is recommended to rotate the object so that the least amount of overhang is achieved:
 
 image
 
@@ -85,11 +85,11 @@ The rewind icon will return the object to it's original orientation
 
 the (icon) icon will rotate the model as little as possible to ensure a flat surface is laying against the print bed.
 
-the (icon) icon will allow you to click on a face of the print and the program will lay it flat against the print bed. This feature is somewhat inconsistent so it may take a few tries to correctly allign it
+the (icon) icon will allow you to click on a face of the print and the program will lay it flat against the print bed. This feature is somewhat inconsistent so it may take a few tries to correctly align it
 
 *Snap Rotation* makes it so the print will only rotate in multiples of 15 degrees.
 
-It is recoomended to keep *Snap Rotation* selected unless a particular angle is needed.
+It is recommended to keep *Snap Rotation* selected unless a particular angle is needed.
 
 ### Mirroring
 
@@ -107,7 +107,7 @@ The first icon is the default, and will follow the print settings that you set.
 
 The second prints as if is is support for a different model, which will follow the support settings that you set
 
-The third will deal with overlapping objects, which is much more complicated, and a full desciprion of the options can be found here: link https://support.makerbot.com/s/article/1667417981430
+The third will deal with overlapping objects, which is much more complicated, and a full description of the options can be found here: link https://support.makerbot.com/s/article/1667417981430
 
 The last will remove all supports in the volume of the object, but will not print the object itself
 

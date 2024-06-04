@@ -6,7 +6,9 @@ draft = false
 weight = 8
 +++
 
-Most errors with the Ultimaker will create an error messgae accompanied by the QR code. If this happens scan the QR code to find out how to fix the error
+Most errors with the UltiMaker will create an error message accompanied by the QR code. If this happens scan the QR code to find out how to fix the error
+
+Image (not in number sequence)
 
 The most common errors occur when:
 

@@ -23,17 +23,17 @@
       <description>Once your file is set up properly, we will now set up the machine to cut it.&#xA;Material settings First click the tab labeled Material&#xA;Image&#xA;Then select the material currently loaded in the Water Cutter&#xA;Cutting Path Next select Cutting Path&#xA;Image&#xA;This will show the exact way that the cutter will cut your file. if you want to keep the piece outside of your file select inside, and if you want to keep the piece inside of your file select outside.</description>
     </item>
     <item>
+      <title>Cutting</title>
+      <link>http://localhost:1313/wazer/transfer/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/wazer/transfer/index.html</guid>
+      <description>Once you have your file created, remove the SD card from the Wazer and plug it into your computer. Drag your file onto the SD card, eject it, and</description>
+    </item>
+    <item>
       <title>Securing Material</title>
       <link>http://localhost:1313/wazer/secruing/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/wazer/secruing/index.html</guid>
-      <description>Stuff is here too</description>
-    </item>
-    <item>
-      <title>Transferring to Wazer</title>
-      <link>http://localhost:1313/wazer/transfer/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/wazer/transfer/index.html</guid>
       <description>Stuff is here too</description>
     </item>
     <item>

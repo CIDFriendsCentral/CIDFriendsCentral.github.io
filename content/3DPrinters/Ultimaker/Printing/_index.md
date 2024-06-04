@@ -11,7 +11,7 @@ Once you plug the USB into the printer, you should be greeted with this image
 
 image
 
-To print, hit the *Print from USB* button, then scroll untill you see the file you wish to print. Press the file name and another menu will appear. 
+To print, hit the *Print from USB* button, then scroll until you see the file you wish to print. Press the file name and another menu will appear. 
 
 image
 

@@ -26,7 +26,7 @@ When the settings are correct, scroll down to the bottom of the tab with the scr
 
 Image
 
-Repeat this step with each vactor part to create all of the toolpaths. 
+Repeat this step with each vector part to create all of the toolpaths. 
 
 If you want to edit a toolpath, press the edit toolpaths button. To delete a toolpath, right click it in the toolpaths section below and press delete > this.
 

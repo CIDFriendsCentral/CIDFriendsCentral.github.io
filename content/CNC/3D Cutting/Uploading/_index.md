@@ -19,7 +19,7 @@ Within this box you can also rotate it with the profile buttons and the boxes fo
 
 Image
 
-When you are satisfied hit the "confirm" button.
+When you are satisfied hit the "Position And Import" button.
 
 Image
 
@@ -31,7 +31,13 @@ When you do that, the models will appear on top of each other in the 2d view, ch
 
 Image
 
-Next go to the drawing tools and get the rectangle tool. Create a rectangle around both of your parts and select it. Then move to the rough/smooth carve section.
+Next go to the drawing tools and get the rectangle tool. Create a rectangle around both of your parts. 
+
+Image
+
+Then move to the rough/smooth carve section.
+
+
 
 
 

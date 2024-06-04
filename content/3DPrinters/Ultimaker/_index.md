@@ -1,6 +1,6 @@
 +++
 alwaysopen = false
-title = "Ultimaker"
+title = "UltiMaker"
 weight = 1
 +++
-Ultimaker stuff
+UltiMaker stuff

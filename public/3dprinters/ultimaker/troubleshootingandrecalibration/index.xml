@@ -3,7 +3,7 @@
   <channel>
     <title>Troubleshooting :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</link>
-    <description>Most errors with the Ultimaker will create an error messgae accompanied by the QR code. If this happens scan the QR code to find out how to fix the error&#xA;The most common errors occur when:&#xA;The white silicone cover is not on the print heads: To fix this reinsert the silicone cover&#xA;The printer thinks it does not have filament loaded but does: To fix hit the ok button and hit resume when it returns to the printing screen, the printer will figure out that it does in fact have filament.</description>
+    <description>Most errors with the UltiMaker will create an error message accompanied by the QR code. If this happens scan the QR code to find out how to fix the error&#xA;Image (not in number sequence)&#xA;The most common errors occur when:&#xA;The white silicone cover is not on the print heads: To fix this reinsert the silicone cover&#xA;The printer thinks it does not have filament loaded but does: To fix hit the ok button and hit resume when it returns to the printing screen, the printer will figure out that it does in fact have filament.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

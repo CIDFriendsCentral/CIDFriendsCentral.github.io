@@ -3,7 +3,7 @@
   <channel>
     <title>Securing Material :: CID guide website</title>
     <link>http://localhost:1313/cnc/securing/index.html</link>
-    <description>Once you are ready to secure your material to the bed, first take blue tape or painters tape and cover the bottom surface of your material in the area of your cut</description>
+    <description>Once you are ready to secure your material to the bed, first take blue tape or painters tape and cover the bottom surface of your material in the area of your cut and the area on the bed where you want to attach the object.&#xA;Image&#xA;Then take superglue and put a thin spread on the tape on the bed. DO NOT PUT SUPERGLUE ON THE BED ITSELF. Take the accelerant and spray it onto the tape on the bottom of your object, and push the object down onto the bed and hold it there for a few seconds.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

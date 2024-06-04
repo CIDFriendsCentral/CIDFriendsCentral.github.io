@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ultimaker :: CID guide website</title>
+    <title>UltiMaker :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/index.html</link>
-    <description>Ultimaker stuff</description>
+    <description>UltiMaker stuff</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
@@ -41,7 +41,7 @@
       <link>http://localhost:1313/3dprinters/ultimaker/printing/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/printing/index.html</guid>
-      <description>Once you plug the USB into the printer, you should be greeted with this image&#xA;image&#xA;To print, hit the Print from USB button, then scroll untill you see the file you wish to print. Press the file name and another menu will appear.&#xA;image&#xA;Check that the time, and two filament types match what you expect, and then press start print. Your file should then print! If the filament types do not match what is in the printer, go to the Changing Filament Section.</description>
+      <description>Once you plug the USB into the printer, you should be greeted with this image&#xA;image&#xA;To print, hit the Print from USB button, then scroll until you see the file you wish to print. Press the file name and another menu will appear.&#xA;image&#xA;Check that the time, and two filament types match what you expect, and then press start print. Your file should then print! If the filament types do not match what is in the printer, go to the Changing Filament Section.</description>
     </item>
     <item>
       <title>Changing Filament</title>

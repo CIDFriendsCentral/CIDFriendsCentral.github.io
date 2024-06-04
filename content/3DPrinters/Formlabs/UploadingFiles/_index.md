@@ -34,7 +34,7 @@ It will also pop up the printing menu, which we will discuss in the **Printing**
 
 ### Moving and Rotation
 
-To move the print around the print bed, first click the item you wish to move, and you will see two arrows pop up around your shape, ass well as 3 quarter rings.
+To move the print around the print bed, first click the item you wish to move, and you will see two arrows pop up around your shape, as well as 3 quarter rings.
 
 picture
 
@@ -44,7 +44,7 @@ You can also rotate it by grabbing and dragging the quarter rings or the (icon) 
 
 picture
 
-It is reccomended to rotate the object so that the least amount of overhang is acheived:
+It is recommended to rotate the object so that the least amount of overhang is achieved:
 
 image
 
@@ -60,15 +60,15 @@ The *Auto-Orient Selected* will rotate the object to have the optimal setup.
 
 Picture
 
-the *Orient To Face* button will allow you to click on a face of the print and the program will lay it flat against the print bed such that the arrow that appears will point straight down into the bed.
+The *Orient To Face* button will allow you to click on a face of the print and the program will lay it flat against the print bed such that the arrow that appears will point straight down into the bed.
 
 Picture
 
-You can also edit it's rotation more precicely by clicking the arrows next to *Orient X*, *Orient Y*, and *Orient Z* to rotate it around those axis.
+You can also edit its rotation more precisely by clicking the arrows next to *Orient X*, *Orient Y*, and *Orient Z* to rotate it around those axes.
 
 Picture
 
-There also is a handfull of options labeled *Orient To Bounding Box*. This will lay the face of the rectangular box around the object flat against the bed.
+There also is a handful of options labeled *Orient To Bounding Box*. This will lay the face of the rectangular box around the object flat against the bed.
 
 Image
 
@@ -80,11 +80,11 @@ To scale your object, select the object, then select the (icon) icon. A menu wil
 
 Picture
 
-The text boxes allow you to set the scale of the object by a multiple of it's current size and scale it evenly across all axis, or scale the axis seperately to the size you specify.
+The text boxes allow you to set the scale of the object by a multiple of it's current size and scale it evenly across all axis, or scale the axis separately to the size you specify.
 
 picture
 
-The *Reset* button will set the object to it's original dimentions
+The *Reset* button will set the object to its original dimensions
 
 Alternatively, when you select the object you can grab and drag the (icon) icon the scale it evenly.
 
@@ -126,11 +126,11 @@ To generate supports for your model, hit the (icon) icon and a menu will appear.
 
 Image
 
-Firstly, you can automatically generate the supports by hitting the *Auto-Generate All* Button.
+Firstly, you can automatically generate the supports by hitting the *Auto-Generate All* button.
 
 Image
 
-You can paint on supports by hitting the *Edit* button, but the details of that will not be covered here. It is reccomended to use the Auto-Generate option instead.
+You can paint on supports by hitting the *Edit* button, but the details of that will not be covered here. It is recommended to use the Auto-Generate option instead.
 
 You can edit the way supports generate in the **Basic Settings** section.
 
@@ -144,7 +144,7 @@ Image
 
 *Density* Changes how often the supports will be placed
 
-*Touchpoint Size* Changes the area of the contact between the support and object
+*Touchpoint Size* changes the area of the contact between the support and the object
 
 *Internal Supports* will generate supports between different layers of the object
 
@@ -152,7 +152,7 @@ Image
 
 Hitting the *Reset* button will reset the objects completely.
 
-Once you are happy with object and support placement, move to the *Printer Settings* Section.
+Once you are happy with the object and support placement, move to the *Printer Settings* section.
 
 
 

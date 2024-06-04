@@ -34,11 +34,11 @@ In the top menu you will see a list of options
 
 (icon) will remove a copy of that object
 
-(icon) will split a seperated object into multiple objects
+(icon) will split a separated object into multiple objects
 
-(icon) will split a seperated object into multiple parts
+(icon) will split a separated object into multiple parts
 
-(icon) will let you search feature
+(icon) will let you search features
 
 (icon) will bring up the *variable layer height* menu which is beyond the scope of this guide and should not be used without a more comprehensive understanding of the printers.
 
@@ -55,15 +55,15 @@ picture
 
 Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it. 
 
-You can also set it's exact position with the menu on the bottom right of the screen
+You can also set its exact position with the menu on the bottom right of the screen
 
 picture
 
-there you will also see a menu with two options *World Coordinates* and *Object Coordinates*.
+There you will also see a menu with two options *World Coordinates* and *Object Coordinates*.
 
 *World Coordinates* lets you set position relative to the bed, with 0,0 being at the bottom left corner.
 
-*Object Coordinates* lets you shift the object from it's current position and will move it as far as you put in. You can also switch to measuring in inches by checking the inches box.
+*Object Coordinates* lets you shift the object from its current position and will move it as far as you put in. You can also switch to measuring in inches by checking the inches box.
 
 
 ### Scaling
@@ -72,9 +72,9 @@ To scale your object, select the object, then select the (icon) icon, and three 
 
 Picture
 
-You can grab any of the three to stretch the object in the direction of that line, or instead grab one of the orange boxes to stratch in all directions equally. 
+You can grab any of the three to stretch the object in the direction of that line, or instead grab one of the orange boxes to stretch in all directions equally. 
 
-You can also set it's exact scale with the menu on the bottom right of the screen
+You can also set its exact scale with the menu on the bottom right of the screen
 
 picture
 
@@ -82,9 +82,9 @@ picture
 
 *Size \[World\]* allows you to set the numeric size along all three axis. You can also switch to measuring in inches by checking the inches box.
 
-If the lock icon is closed, the object will retain it's original proportions and sclae axis equally. If it is open you can manipulate the three seperately.
+If the lock icon is closed, the object will retain it's original proportions and scale axis equally. If it is open you can manipulate the three separately.
 
-The rewind icon will set the object to it's original dimentions
+The rewind icon will set the object to it's original dimensions
 
 ### Rotation
 
@@ -94,7 +94,7 @@ picture
 
 You can grab these rings and rotate them to rotate the object how you would like it to print. Keep in mind where the front of the bed is, signified by where it is written *Prusa MK4*. 
 
-It is reccomended to rotate the object so that the least amount of overhang is acheived:
+It is recommended to rotate the object so that the least amount of overhang is achieved:
 
 image
 
@@ -102,7 +102,7 @@ And the maximum amount of the print is touching the build plate:
 
 image
 
-You can also set it's exact rotation with the menu on the bottom right of the screen
+You can also set its exact rotation with the menu on the bottom right of the screen
 
 picture
 
@@ -114,7 +114,7 @@ Image
 
 ### Cutting
 
-To cut your object in 2 peices, hit the (icon) icon, and a menu will appear, as well as the cutting plane. 
+To cut your object in 2 pieces, hit the (icon) icon, and a menu will appear, as well as the cutting plane. 
 
 Image
 
@@ -130,15 +130,15 @@ You can also set the height of the cut off of the buildplate automatically in th
 
 image
 
-This will create a smooth cut into two peices.
+This will create a smooth cut into two pieces.
 
-If you want to instead have a more secure way of joining these peices after you cut, press the *Add Connectors* button
+If you want to instead have a more secure way of joining these pieces after you cut, press the *Add Connectors* button
 
 image
 
 From there it will hide one of the two halves, and allow you to place connectors. You will see 3 options for the type of connector, *Plug*, *Dowel*, and *Snap*.
 
-Plug creates a small protrusion from one side, and a matching hole in the other. You can select whther you would like a *prisim* or *frustum* shape:
+Plug creates a small protrusion from one side, and a matching hole in the other. You can select whether you would like a *prism* or *frustum* shape:
 
 images
 
@@ -154,7 +154,7 @@ Snap creates a small mechanism which will snap into a hole in the other piece.
 
 image
 
-For all of these options, you can change the Depth out of or into the piece, the horizontal size of the peg, and the rotation around it's center.
+For all of these options, you can change the depth out of or into the piece, the horizontal size of the peg, and the rotation around its center.
 
 For the snap you can alter the bulge of the top section and space between connectors. Hitting the rewind icon will pu tit back to default settings.
 
@@ -184,7 +184,7 @@ Image
 
 You can then select how to place the object once it cuts. *Keep Orientation* will keep the object as it is before that cut. *Place On Cut* will lay the object along the plane of the cut. *Flip Upside Down* will invert the object.
 
-If you have selected planar and not added connectors, you can at the bottom select to cut into parts instead of objects, which will leave the two sides connected but allow them to have their settings edited seperately with the left parts menu
+If you have selected planar and not added connectors, you can at the bottom select to cut into parts instead of objects, which will leave the two sides connected but allow them to have their settings edited separately with the left parts menu
 
 Image
 
@@ -198,7 +198,7 @@ You can also automatically paint areas, edit where can be painted, and edit your
 
 ### Seam Painting
 
-If you press the (icon) icon you can controll where each layer of the print starts and ends, creating a small slightly visible seam. 
+If you press the (icon) icon you can control where each layer of the print starts and ends, creating a small slightly visible seam. 
 
 Image
 

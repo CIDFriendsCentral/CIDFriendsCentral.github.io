@@ -41,7 +41,7 @@
       <link>http://localhost:1313/3dprinters/lulzbot/changingfilament/index.html</link>
       <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/lulzbot/changingfilament/index.html</guid>
-      <description>To change filament on the LulzBot, first open the Cura LulzBot appliction, and navigate to the monitor tab&#xA;image&#xA;Click the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer&#xA;Once that happens move back to the right menu. Click the Pre-Heat buttons on the Hot End section only.&#xA;Image&#xA;Then wait until the larger black number changes to match the smaller grey number.</description>
+      <description>To change filament on the LulzBot, first open the Cura LulzBot application, and navigate to the monitor tab.&#xA;image&#xA;Click the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer.&#xA;Once that happens move back to the right menu. Click the Pre-Heat buttons on the Hot End section only.&#xA;Image&#xA;Then wait until the larger black number changes to match the smaller grey number.</description>
     </item>
   </channel>
 </rss>

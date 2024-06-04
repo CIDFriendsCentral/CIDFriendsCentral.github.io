@@ -22,9 +22,9 @@ Image
 
 *Create a Blank Design* will open an empty workspace, where you can start from scratch and use the tools to create your design.
 
-*Upload a File* will let you upoad one fo your own files, which will open up a menu to select your file. Once you select it it will open your file in the workspace to edit as you please
+*Upload a File* will let you upload one fo your own files, which will open up a menu to select your file. Once you select it it will open your file in the workspace to edit as you please
 
-*Trace a design* will let you trace a design, which will be covered in a seperate page, go to the Tracing Page.
+*Trace a design* will let you trace a design, which will be covered in a separate page, go to the Tracing Page.
 
 Image
 
@@ -32,7 +32,7 @@ No matter what you choose, you will eventually reach the workspace. There you wi
 
 ### Top Bar
 
-#### Selection Tool.
+#### Selection Tool
 
 Hitting the (icon) icon will allow you to select objects in the frame by clicking them or dragging your mouse over them
 
@@ -50,7 +50,7 @@ Hitting the (icon) icon will open the import artwork menu.
 
 Image
 
-Here you can select to import artowrk from the computer, trace artwork, or use the search bar to search designs. When you select a design it will open in the workspace. We will cover tracing in the Tracing page.
+Here you can select to import artwork from the computer, trace artwork, or use the search bar to search designs. When you select a design it will open in the workspace. We will cover tracing in the Tracing page.
 
 #### Magic Canvas
 
@@ -58,7 +58,7 @@ Hitting the (icon) icon will open the Magic Canvas menu
 
 Image
 
-This menu will allow you to add AI generated desgins to your cut. Select which type of desgin you would like to generate, and type in the prompt you would like to generate. A loading menu will appear and eventually your design will appear. You can then choose to use the image as is, or edit the image with the tools provided. 
+This menu will allow you to add AI generated designs to your cut. Select which type of design you would like to generate, and type in the prompt you would like to generate. A loading menu will appear and eventually your design will appear. You can then choose to use the image as is, or edit the image with the tools provided. 
 
 #### Add Shape
 
@@ -98,7 +98,7 @@ If you have a style selected, clicking the button labeled *Options* will allow y
 
 Hitting the (icon) icon will open a new menu with more options.
 
-*Refresh Bed Image* will rescan the bed and show what is there.
+*Refresh Bed Image* will re-scan the bed and show what is there.
 
 *Set focus* will allow you to click somewhere on the bed to force the glowforge to focus on.
 
@@ -110,7 +110,7 @@ Hitting the (icon) icon will open a new menu with more options.
 
 *Keyboard Shortcuts* shows the list of keyboard shortcuts.
 
-*Preferences* opens up a menu of accesibility options
+*Preferences* opens up a menu of accessibility options
 
 *Pro Passthrough* is used to make longer designs, which will be reviewed more in the pro passthrough page.
 
@@ -122,7 +122,7 @@ Do not select *Glowforge Air Filter Attached* as we do not have that
 
 #### Moving
 
-To move an object arounf the screen, simply select it and drag
+To move an object around the screen, simply select it and drag
 
 Image
 
@@ -152,7 +152,7 @@ Selecting the (icon) icon in the bottom left will open up another menu
 
 Image
 
-This menu allows you to allign multiple objects to each other as is displayed in the buttons shown.
+This menu allows you to align multiple objects to each other as is displayed in the buttons shown.
 
 ### Side Bar
 
@@ -176,7 +176,7 @@ Hitting the (icon) icon will mirror the object vertically, and hitting the (icon
 
 #### Patterned line
 
-Hitting the (icon) icon will open another menu, which will allow you to created a patterened line from a regular line object.
+Hitting the (icon) icon will open another menu, which will allow you to create a patterned line from a regular line object.
 
 Image
 
@@ -188,13 +188,13 @@ Image
 
 *Seamless Pattern* will create a pattern along the line
 
-*Stiching Holes* will create holes along the line
+*Stitching Holes* will create holes along the line
 
 *Perforated Line* will cut a dashed line
 
-*Hold-in Tabs* will gibve the line small bits of material to keep it in place while cutting that are easy to remove afterwards.
+*Hold-in Tabs* will give the line small bits of material to keep it in place while cutting that are easy to remove afterwards.
 
-No matter what option you choose, there will be a list of customizations to edit your pattern below, with more availible after hitting the *Options* dropdown
+No matter what option you choose, there will be a list of customizations to edit your pattern below, with more available after hitting the *Options* dropdown
 
 #### Puzzle Maker
 
@@ -212,7 +212,7 @@ Hitting the (icon) icon will open another menu, which will allow you to create a
 
 Image
 
-*Padding* will dictate how far the stamp will extand past the design's edge.
+*Padding* will dictate how far the stamp will extend past the design's edge.
 
 *Keep Original Artwork* will keep the design as well as creating the stamp.
 

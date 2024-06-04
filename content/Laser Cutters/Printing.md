@@ -6,15 +6,15 @@ weight = 5
 +++
 ---
 
-### Cutter selection
+### Cutter Selection
 
-Before cutting make sure you have the right cutter selected by clicking the name of the glowforge in the top right and selecting which machine you are using
+Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using
 
 Image
 
 The "Glowforge" has the slot in the front for passthrough cutting while the "Glowforge II" does not.
 
-### Last rearrangment
+### Last Rearrangement
 
 Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.
 
