@@ -3,7 +3,7 @@
   <channel>
     <title>Uploading Files :: CID guide website</title>
     <link>http://localhost:1313/laser-cutters/upload/index.html</link>
-    <description>To bring your file into the Laser Cutters first go to glowforge.com. There you will see a website with many options.&#xA;image&#xA;If the computer is not signed into glowforge, have an adult sign you in.&#xA;If the computer is signed in, hit the Create button, which will take you to a new menu.&#xA;Image&#xA;there you will see a list of projects, which you can select to open, or in the top left, there is a Create a New Design button for your own designs.</description>
+    <description>To bring your file into the Laser Cutters first go to glowforge.com. There you will see a website with many options.&#xA;image&#xA;If the computer is not signed into glowforge, have an adult sign you in.&#xA;If the computer is signed in, hit the {{% badge %}}Create{{% /badge %}} button, which will take you to a new menu.&#xA;Image&#xA;there you will see a list of projects, which you can select to open, or in the top left, there is a {{% badge %}}Create a New Design{{% /badge %}} button for your own designs.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

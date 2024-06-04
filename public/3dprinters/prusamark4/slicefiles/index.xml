@@ -3,7 +3,7 @@
   <channel>
     <title>Slice Files :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</link>
-    <description>Once you have set up your print how you want it, press the slice button in the bottom right&#xA;insert picture&#xA;Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert image&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
+    <description>Once you have set up your print how you want it, press the Slice button in the bottom right&#xA;insert picture&#xA;Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert image&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
