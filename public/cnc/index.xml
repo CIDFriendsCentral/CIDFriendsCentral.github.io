@@ -23,18 +23,11 @@
       <description>Stuff isnt here</description>
     </item>
     <item>
-      <title>Absolute Zero</title>
-      <link>http://localhost:1313/cnc/abszero/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/cnc/abszero/index.html</guid>
-      <description>Stuff is here too</description>
-    </item>
-    <item>
-      <title>Orientation Project - CNC Machine</title>
-      <link>http://localhost:1313/cnc/orientationproject/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/cnc/orientationproject/index.html</guid>
-      <description>Stuff is here too</description>
+      <title>Zeroing and Cutting</title>
+      <link>http://localhost:1313/cnc/cutting/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/cutting/index.html</guid>
+      <description>Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.&#xA;Image&#xA;Then open the manual controll panel by clicking the yellow box&#xA;Image&#xA;You will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way.</description>
     </item>
     <item>
       <title>Securing Material</title>
@@ -48,14 +41,7 @@
       <link>http://localhost:1313/cnc/troubleshooting/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/cnc/troubleshooting/index.html</guid>
-      <description>Stuff is here too</description>
-    </item>
-    <item>
-      <title>Zeroing and Offset</title>
-      <link>http://localhost:1313/cnc/zeroing/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/cnc/zeroing/index.html</guid>
-      <description>Stuff is here too</description>
+      <description>The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong&#xA;USB Control Box Problems A USB control box problem happens when there is a yellow box on the computer that says there’s a “USB control box problem!”.&#xA;Image&#xA;When there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press “retry control box” on the computer.</description>
     </item>
   </channel>
 </rss>

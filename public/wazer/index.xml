@@ -9,11 +9,18 @@
     <lastBuildDate>Tue, 07 May 2024 15:15:22 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/wazer/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Uploading Files</title>
+      <link>http://localhost:1313/wazer/upload/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/wazer/upload/index.html</guid>
+      <description>To cut a file on the laser cutter, first open up link (wam.wazer.com)&#xA;image&#xA;There you will need to sign in, get an adult to sign into the website for you.&#xA;Once you sign in, the worksace will open up automatically&#xA;Image&#xA;Uploading To upload your file click Import File and select your SVG or DXF file&#xA;Image&#xA;Once you have done that, you will see the name of your part, as well as some options</description>
+    </item>
+    <item>
       <title>Cut Settings</title>
       <link>http://localhost:1313/wazer/cutsettings/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/wazer/cutsettings/index.html</guid>
-      <description>Stuff is here too</description>
+      <description>Once your file is set up properly, we will now set up the machine to cut it.&#xA;Material settings First click the tab labeled Material&#xA;Image&#xA;Then select the material currently loaded in the Water Cutter&#xA;Cutting Path Next select Cutting Path&#xA;Image&#xA;This will show the exact way that the cutter will cut your file. if you want to keep the piece outside of your file select inside, and if you want to keep the piece inside of your file select outside.</description>
     </item>
     <item>
       <title>Orientation Project - Wazer</title>
@@ -34,13 +41,6 @@
       <link>http://localhost:1313/wazer/transfer/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/wazer/transfer/index.html</guid>
-      <description>Stuff is here too</description>
-    </item>
-    <item>
-      <title>Uploading Files</title>
-      <link>http://localhost:1313/wazer/upload/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/wazer/upload/index.html</guid>
       <description>Stuff is here too</description>
     </item>
     <item>

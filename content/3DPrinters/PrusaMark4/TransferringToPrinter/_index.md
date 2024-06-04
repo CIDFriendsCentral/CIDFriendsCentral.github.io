@@ -2,7 +2,7 @@
 alwaysopen = false
 title = 'Transferring To Printer'
 date = 2024-05-08T09:34:10-04:00
-draft = true
+draft = false
 weight = 4
 +++
 ---

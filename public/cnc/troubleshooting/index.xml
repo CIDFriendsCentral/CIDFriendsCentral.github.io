@@ -3,7 +3,7 @@
   <channel>
     <title>Troubleshooting :: CID guide website</title>
     <link>http://localhost:1313/cnc/troubleshooting/index.html</link>
-    <description>Stuff is here too</description>
+    <description>The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong&#xA;USB Control Box Problems A USB control box problem happens when there is a yellow box on the computer that says there’s a “USB control box problem!”.&#xA;Image&#xA;When there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press “retry control box” on the computer.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

@@ -16,32 +16,18 @@
       <description>STUFFFFF</description>
     </item>
     <item>
-      <title>Cutting</title>
-      <link>http://localhost:1313/cnc/2d-cutting/cutting/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
-      <guid>http://localhost:1313/cnc/2d-cutting/cutting/index.html</guid>
-      <description>STUFFFFF</description>
-    </item>
-    <item>
-      <title>Material Selection</title>
-      <link>http://localhost:1313/cnc/2d-cutting/materialselection/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
-      <guid>http://localhost:1313/cnc/2d-cutting/materialselection/index.html</guid>
-      <description>STUFFFFF</description>
-    </item>
-    <item>
       <title>Path Settings</title>
       <link>http://localhost:1313/cnc/2d-cutting/path/index.html</link>
       <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/cnc/2d-cutting/path/index.html</guid>
-      <description>STUFFFFF</description>
+      <description>Once you have your vector file, we will create cut paths for the file&#xA;Once you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.&#xA;Open the toolpaths tab on the top right corner of Aspire. It will create a menu on the right side.&#xA;Image&#xA;Pin this menu by clicking the pin button in the top right corner of the menu that opens up so it’s easier to access.</description>
     </item>
     <item>
       <title>Uploading Files</title>
       <link>http://localhost:1313/cnc/2d-cutting/uploading/index.html</link>
       <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/cnc/2d-cutting/uploading/index.html</guid>
-      <description>STUFFFFF</description>
+      <description>How to use aspire (main) To start designing a part, go into Aspire and click File &gt; New. This will create a new Aspire file in the .crv3d format. It will also take you to the Job Setup menu.&#xA;Image&#xA;Here, you can set the width, height, and thickness of the material you will be cutting (in the Job Size section). Don’t change anything else in this menu. To confirm the size of the job, press OK at the bottom left.</description>
     </item>
   </channel>
 </rss>

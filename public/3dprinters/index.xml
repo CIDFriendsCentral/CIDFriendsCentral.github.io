@@ -36,12 +36,5 @@
       <guid>http://localhost:1313/3dprinters/lulzbot/index.html</guid>
       <description>Lulzbot stuff</description>
     </item>
-    <item>
-      <title>Orientation Project - 3D printing</title>
-      <link>http://localhost:1313/3dprinters/orientation/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/orientation/index.html</guid>
-      <description>Stuff is here too</description>
-    </item>
   </channel>
 </rss>

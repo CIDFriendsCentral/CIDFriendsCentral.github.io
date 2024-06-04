@@ -23,19 +23,19 @@
     <title>CNC Machine :: CID guide website</title>
     <link href="http://localhost:1313/cnc/index.html" rel="canonical" type="text/html" title="CNC Machine :: CID guide website">
     <link href="/cnc/index.xml" rel="alternate" type="application/rss+xml" title="CNC Machine :: CID guide website">
-    <link href="/images/favicon.png?1717177884" rel="icon" type="image/png">
-    <link href="/css/fontawesome-all.min.css?1717177931" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717177931" rel="stylesheet"></noscript>
-    <link href="/css/nucleus.css?1717177931" rel="stylesheet">
-    <link href="/css/auto-complete.css?1717177931" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717177931" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1717177931" rel="stylesheet">
-    <link href="/css/fonts.css?1717177931" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717177931" rel="stylesheet"></noscript>
-    <link href="/css/theme.css?1717177931" rel="stylesheet">
-    <link href="/css/theme-lightfcs.css?1717177931" rel="stylesheet" id="R-variant-style">
-    <link href="/css/chroma-learn.css?1717177931" rel="stylesheet" id="R-variant-chroma-style">
-    <link href="/css/variant.css?1717177931" rel="stylesheet">
-    <link href="/css/print.css?1717177931" rel="stylesheet" media="print">
-    <link href="/css/format-print.css?1717177931" rel="stylesheet">
-    <script src="/js/variant.js?1717177931"></script>
+    <link href="/images/favicon.png?1717509968" rel="icon" type="image/png">
+    <link href="/css/fontawesome-all.min.css?1717509968" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717509968" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1717509968" rel="stylesheet">
+    <link href="/css/auto-complete.css?1717509968" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717509968" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1717509968" rel="stylesheet">
+    <link href="/css/fonts.css?1717509968" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717509968" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1717509968" rel="stylesheet">
+    <link href="/css/theme-lightfcs.css?1717509968" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-learn.css?1717509968" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1717509968" rel="stylesheet">
+    <link href="/css/print.css?1717509968" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1717509968" rel="stylesheet">
+    <script src="/js/variant.js?1717509968"></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='..';
@@ -125,33 +125,30 @@
             <header class="headline">
             </header>
 
-<h1 id="cutting">Cutting</h1>
-
-<p>STUFFFFF</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="material-selection">Material Selection</h1>
-
-<p>STUFFFFF</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
 <h1 id="path-settings">Path Settings</h1>
 
-<p>STUFFFFF</p>
+<hr>
+<p>Once you have your vector file, we will create cut paths for the file</p>
+<p>Once you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.</p>
+<p>Open the toolpaths tab on the top right corner of Aspire. It will create a menu on the right side.</p>
+<p>Image</p>
+<p>Pin this menu by clicking the pin button in the top right corner of the menu that opens up so it&rsquo;s easier to access.</p>
+<p>Image</p>
+<p>To create a toolpath: first, select the vector that you would like to turn into a toolpath. Then, press one of the buttons in &ldquo;Toolpath Operations&rdquo; that look like wood (in the top three rows). This will make a toolpath out of the selected vector. There are some settings that you will have to adjust in the menu that appears.</p>
+<p>Image</p>
+<p>When the settings are correct, scroll down to the bottom of the tab with the scrollbar on the right and click the &ldquo;Calculate&rdquo; button to finish making the toolpath. This will display a preview of your cuts. Hit <em>Clear Preview</em> and then <em>Preview all Paths</em> to see what the paths will carve</p>
+<p>Image</p>
+<p>Repeat this step with each vactor part to create all of the toolpaths.</p>
+<p>If you want to edit a toolpath, press the edit toolpaths button. To delete a toolpath, right click it in the toolpaths section below and press delete &gt; this.</p>
+<p>When you are done with creating and editing the toolpaths, export them by pressing the save toolpaths button. Make sure the toolpaths you want to export have the checkmark next to them checked.</p>
+<p>Image</p>
+<p>In the menu that appears after clicking the save toolpaths button, make sure these settings are selected:
+Visible toolpaths to one file
+Machine: CID Shopbot
+Post Processor: ShopBot TC (inch)(*.sbp)</p>
+<p>Then press the &ldquo;Save Toolpath(s) &hellip;&rdquo; button at the bottom.</p>
+<p>This will export your toolpaths as a .sbp file.</p>
+<p>Once you have done this, move to the cutting page.</p>
 
             <footer class="footline">
             </footer>
@@ -163,7 +160,21 @@
 
 <h1 id="uploading-files">Uploading Files</h1>
 
-<p>STUFFFFF</p>
+<hr>
+<p>How to use aspire (main)
+To start designing a part, go into Aspire and click <em>File &gt; New</em>. This will create a new Aspire file in the .crv3d format. It will also take you to the Job Setup menu.</p>
+<p>Image</p>
+<p>Here, you can set the width, height, and thickness of the material you will be cutting (in the Job Size section). Don&rsquo;t change anything else in this menu. To confirm the size of the job, press OK at the bottom left. If you want to go back to this menu to edit the size of the cut, go to Edit &gt; Job Size and Position.</p>
+<p>Once you confirm, you will see the workspace.</p>
+<p>Image</p>
+<p>You can import vectors into Aspire by going into Aspire and clicking File &gt; Import&hellip; &gt; Import Vectors. You can then import a .svg vector file.</p>
+<p>Image</p>
+<p>You can also make vectors within Aspire. You can do this by pressing one of the buttons in the &ldquo;Create Vectors&rdquo; section of the &ldquo;Drawing&rdquo; tab.</p>
+<p>Image</p>
+<p>To move things around in Aspire, use &ldquo;Transform Mode&rdquo; - the third tool from the left of the &ldquo;Edit Objects&rdquo; section of the &ldquo;Drawing&rdquo; tab.</p>
+<p>Image</p>
+<p>You can save Aspire files by pressing File &gt; Save or pressing Ctrl + S. Aspire does not autosave your files, so remember to save them before you close the program.</p>
+<p>Once you have uploaded or created your vectors, move to the Path section</p>
 
             <footer class="footline">
             </footer>
@@ -200,43 +211,7 @@
             <header class="headline">
             </header>
 
-<h1 id="cutting">Cutting</h1>
-
-<p>STUFFFFF</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
 <h1 id="finishing">Finishing</h1>
-
-<p>STUFFFFF</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="material-selection">Material Selection</h1>
-
-<p>STUFFFFF</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="outline-cut">Outline Cut</h1>
 
 <p>STUFFFFF</p>
 
@@ -273,21 +248,27 @@
             <header class="headline">
             </header>
 
-<h1 id="absolute-zero">Absolute Zero</h1>
+<h1 id="zeroing-and-cutting">Zeroing and Cutting</h1>
 
-<p>Stuff is here too</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="orientation-project---cnc-machine">Orientation Project - CNC Machine</h1>
-
-<p>Stuff is here too</p>
+<p>Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you&rsquo;re in shopbot easy mode.</p>
+<p>Image</p>
+<p>Then open the manual controll panel by clicking the yellow box</p>
+<p>Image</p>
+<p>You will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way. Then use the right set of arrows to lift the head of the machine up so that the bit will not get caught or drag across any of the parts.</p>
+<p>Image</p>
+<p>Then use the left arrows to move the bit unitl it is exactly lined up with the bottom left corner of the area you want to cut.</p>
+<p>Image</p>
+<p>It will place 0,0 in your aspire file at this location. Click <em>Zero Axis</em>, select X and Y, and then hit <em>Zero</em>.</p>
+<p>Image</p>
+<p>Once the X and Y is zeroed, you can zero the Z. Open up the keypad and move the bit so that it is over the material. Place the metal Z-zero plate on the material beneath the bit.</p>
+<p>Image</p>
+<p>Close the keypad and click the Z-zero button on the computer controller, then press enter to confirm.</p>
+<p>Image</p>
+<p>The bit will go down until it hits the Z-zero plate, and then go back up, down again, and finally back up again. Once the bit stops moving, you can remove the Z-zero plate, and the Z is now zeroed. You should re-zero the Z before each cut.</p>
+<p>Image</p>
+<p>The machine now is properly zeroed. Press &ldquo;Cut Part&rdquo;. This will ask you to open a file. Select the .sbp file you want to cut.</p>
+<p>Image</p>
+<p>Finish this</p>
 
             <footer class="footline">
             </footer>
@@ -311,19 +292,16 @@
 
 <h1 id="troubleshooting">Troubleshooting</h1>
 
-<p>Stuff is here too</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-
-          <article class="default">
-            <header class="headline">
-            </header>
-
-<h1 id="zeroing-and-offset">Zeroing and Offset</h1>
-
-<p>Stuff is here too</p>
+<p>The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong</p>
+<h3 id="usb-control-box-problems">USB Control Box Problems</h3>
+<p>A USB control box problem happens when there is a yellow box on the computer that says there&rsquo;s a &ldquo;USB control box problem!&rdquo;.</p>
+<p>Image</p>
+<p>When there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press &ldquo;retry control box&rdquo; on the computer.</p>
+<p>If resetting the power box does not fix the problem, try these steps:
+Turning the shopbot on and off via the red on switch on the right side
+Closing and restarting the shopbot program on the computer (if it does not close, you may have to end the task in the task manager).
+Unplugging and then replugging the shopbot cord from the computer. The shopbot cord is the one on the left. You could try another port, but the one on the right seems to not work for the shopbot. So use the left one.
+Restarting the computer. Ask a CID co-director for the password when it turns back on.</p>
 
             <footer class="footline">
             </footer>
@@ -333,8 +311,8 @@
         </div>
       </main>
     </div>
-    <script src="/js/clipboard.min.js?1717177931" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1717177931" defer></script>
-    <script src="/js/theme.js?1717177931" defer></script>
+    <script src="/js/clipboard.min.js?1717509968" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1717509968" defer></script>
+    <script src="/js/theme.js?1717509968" defer></script>
   </body>
 </html>
