@@ -3,7 +3,7 @@
   <channel>
     <title>Smooth and Rough Carves :: CID guide website</title>
     <link>http://localhost:1313/cnc/3d-cutting/smoothrough/index.html</link>
-    <description>Once you have your file loaded into the program,</description>
+    <description>Once you have your file set up correctly, select both of your pieces and the rectangle around them and select the rough machining toolpath.&#xA;image&#xA;Select your bit and make sure that *Machining Limit Boundary is set to “Selected Vectors.” Then Hit calculate. Your toolpath should look like a rough outline of your shape&#xA;image&#xA;Now go back, select both pieces and the rectangle, and select Finish Machining Toolpath.&#xA;Image</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

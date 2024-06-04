@@ -23,19 +23,19 @@
     <title>CNC Machine (Shopbot) :: CID guide website</title>
     <link href="http://localhost:1313/cnc/index.html" rel="canonical" type="text/html" title="CNC Machine (Shopbot) :: CID guide website">
     <link href="/cnc/index.xml" rel="alternate" type="application/rss+xml" title="CNC Machine (Shopbot) :: CID guide website">
-    <link href="/images/favicon.png?1717524828" rel="icon" type="image/png">
-    <link href="/css/fontawesome-all.min.css?1717524829" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717524829" rel="stylesheet"></noscript>
-    <link href="/css/nucleus.css?1717524829" rel="stylesheet">
-    <link href="/css/auto-complete.css?1717524829" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717524829" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar.min.css?1717524829" rel="stylesheet">
-    <link href="/css/fonts.css?1717524829" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717524829" rel="stylesheet"></noscript>
-    <link href="/css/theme.css?1717524829" rel="stylesheet">
-    <link href="/css/theme-lightfcs.css?1717524829" rel="stylesheet" id="R-variant-style">
-    <link href="/css/chroma-learn.css?1717524829" rel="stylesheet" id="R-variant-chroma-style">
-    <link href="/css/variant.css?1717524829" rel="stylesheet">
-    <link href="/css/print.css?1717524829" rel="stylesheet" media="print">
-    <link href="/css/format-print.css?1717524829" rel="stylesheet">
-    <script src="/js/variant.js?1717524829"></script>
+    <link href="/images/favicon.png?1717524841" rel="icon" type="image/png">
+    <link href="/css/fontawesome-all.min.css?1717524842" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fontawesome-all.min.css?1717524842" rel="stylesheet"></noscript>
+    <link href="/css/nucleus.css?1717524842" rel="stylesheet">
+    <link href="/css/auto-complete.css?1717524842" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/auto-complete.css?1717524842" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar.min.css?1717524842" rel="stylesheet">
+    <link href="/css/fonts.css?1717524842" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/css/fonts.css?1717524842" rel="stylesheet"></noscript>
+    <link href="/css/theme.css?1717524842" rel="stylesheet">
+    <link href="/css/theme-lightfcs.css?1717524842" rel="stylesheet" id="R-variant-style">
+    <link href="/css/chroma-learn.css?1717524842" rel="stylesheet" id="R-variant-chroma-style">
+    <link href="/css/variant.css?1717524842" rel="stylesheet">
+    <link href="/css/print.css?1717524842" rel="stylesheet" media="print">
+    <link href="/css/format-print.css?1717524842" rel="stylesheet">
+    <script src="/js/variant.js?1717524842"></script>
     <script>
       window.relearn = window.relearn || {};
       window.relearn.relBasePath='..';
@@ -213,7 +213,17 @@ To start designing a part, go into Aspire and click <em>File &gt; New</em>. This
 
 <h1 id="smooth-and-rough-carves">Smooth and Rough Carves</h1>
 
-<p>Once you have your file loaded into the program,</p>
+<p>Once you have your file set up correctly, select both of your pieces and the rectangle around them and select the rough machining toolpath.</p>
+<p>image</p>
+<p>Select your bit and make sure that *Machining Limit Boundary is set to &ldquo;Selected Vectors.&rdquo; Then Hit calculate. Your toolpath should look like a rough outline of your shape</p>
+<p>image</p>
+<p>Now go back, select both pieces and the rectangle, and select <em>Finish Machining Toolpath</em>.</p>
+<p>Image</p>
+<p>Now for the bit selection, hit <em>Select</em> and then look for a bit that is the same size as the one you used for the first path, but says <em>(Smooth Carve)</em> on the end. If this bit exists, simply select it and use it. If not, create a new bit with the same settings as your original bit, but with a <em>Stepover</em> of 10% or less, a spindle speed of 12000 RPM, and a feed rate and plunge rate of 6. Rename it the name of your bit followed by &ldquo;(Smooth Carve)&rdquo;. Then select that bit you just made.</p>
+<p>image</p>
+<p>Make sure that *Machining Limit Boundary is set to &ldquo;Selected Vectors&rdquo; and calculate your path.</p>
+<p>Image</p>
+<p>You now have your cut file, and you are free to cut like any other piece. Go to the cutting section.</p>
 
             <footer class="footline">
             </footer>
@@ -319,8 +329,8 @@ Restarting the computer. Ask a CID co-director for the password when it turns ba
         </div>
       </main>
     </div>
-    <script src="/js/clipboard.min.js?1717524829" defer></script>
-    <script src="/js/perfect-scrollbar.min.js?1717524829" defer></script>
-    <script src="/js/theme.js?1717524829" defer></script>
+    <script src="/js/clipboard.min.js?1717524842" defer></script>
+    <script src="/js/perfect-scrollbar.min.js?1717524842" defer></script>
+    <script src="/js/theme.js?1717524842" defer></script>
   </body>
 </html>
