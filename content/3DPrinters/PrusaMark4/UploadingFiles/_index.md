@@ -132,7 +132,7 @@ image
 
 This will create a smooth cut into two pieces.
 
-If you want to instead have a more secure way of joining these pieces after you cut, press the *Add Connectors* button
+If you want to instead have a more secure way of joining these pieces after you cut, press the {{% badge %}}Add Connectors{{% /badge %}} button
 
 image
 
@@ -214,7 +214,7 @@ Image
 
 When you measure a length, a (icon) icon will appear, and allow you to change the length highlighted and scale the rest of the model to enforce that length.
 
-In the menu you can either hit the *Restart Selection* button to clear your selection, or click the (icon) icon next to the measures to copy the numbers there.
+In the menu you can either hit the {{% badge %}}Restart Selection{{% /badge %}} button to clear your selection, or click the (icon) icon next to the measures to copy the numbers there.
 
 ## Done?
 

@@ -7,7 +7,7 @@ weight = 2
 +++
 ---
 
-Now that you have your print set up, click the *Printer* button in the top left
+Now that you have your print set up, click the {{% badge %}}Printer{{% /badge %}} button in the top left
 
 ### Choose Printer
 
@@ -23,7 +23,7 @@ Image
 
 Select whatever material is currently loaded in the printer.
 
-### Choose layer thickness
+### Choose Layer Thickness
 
 Layer thickness will change how fast the file prints as well as the resolution of the product. Use 0.1 mm for most prints, or smaller if you need super precise detail.
 
@@ -31,4 +31,4 @@ Don't worry about the **Other Settings** as we do not have the hardware for thos
 
 ## Done?
 
-When you are happy with your settings, hit the *Apply* button in the bottom right and move to the printing section.
+When you are happy with your settings, hit the {{% badge %}}Apply{{% /badge %}} button in the bottom right and move to the printing section.

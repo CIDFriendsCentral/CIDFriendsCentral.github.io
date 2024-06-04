@@ -24,7 +24,7 @@ The simplest is to hit the (icon) icon and use *One Click Print*
 
 Image
 
-Hit the *Set Up Your Print* button and the app will automatically rotate your model and add supports for the best print generation. 
+Hit the {{% badge %}}Set Up Your Print{{% /badge %}} button and the app will automatically rotate your model and add supports for the best print generation. 
 
 Image
 
@@ -60,7 +60,7 @@ The *Auto-Orient Selected* will rotate the object to have the optimal setup.
 
 Picture
 
-The *Orient To Face* button will allow you to click on a face of the print and the program will lay it flat against the print bed such that the arrow that appears will point straight down into the bed.
+The {{% badge %}}Orient To Face{{% /badge %}} button will allow you to click on a face of the print and the program will lay it flat against the print bed such that the arrow that appears will point straight down into the bed.
 
 Picture
 
@@ -72,7 +72,7 @@ There also is a handful of options labeled *Orient To Bounding Box*. This will l
 
 Image
 
-Finally the *Reset Selected* Button will return the object to it's original orientation.
+Finally the {{% badge %}}Reset Selected{{% /badge %}} button will return the object to it's original orientation.
 
 ### Scaling
 
@@ -84,7 +84,7 @@ The text boxes allow you to set the scale of the object by a multiple of it's cu
 
 picture
 
-The *Reset* button will set the object to its original dimensions
+The {{% badge %}}Reset{{% /badge %}} button will set the object to its original dimensions
 
 Alternatively, when you select the object you can grab and drag the (icon) icon the scale it evenly.
 
@@ -96,7 +96,7 @@ Image
 
 #### Auto Layout
 
-To automatically layout your objects, you can change the *Model Spacing* and choose whether to select *Overlap Rafts* and *Lock Rotation*. Then hit the *Layout All* Button.
+To automatically layout your objects, you can change the *Model Spacing* and choose whether to select *Overlap Rafts* and *Lock Rotation*. Then hit the {{% badge %}}Layout All{{% /badge %}} button.
 
 *Model Spacing* Will dictate how close the pieces end up after placement.
 
@@ -110,7 +110,7 @@ Image
 
 #### Duplication
 
-To duplicate your model, first select how many copies you want, then hit the *Create* button
+To duplicate your model, first select how many copies you want, then hit the {{% badge %}}Create{{% /badge %}} button
 
 #### Array
  
@@ -118,7 +118,7 @@ Array will duplicate your models in a regular pattern, with a specified number o
 
 #### Mirroring
 
-Hit the *Mirror Models* button to mirror all selected models.
+Hit the {{% badge %}}Mirror Models{{% /badge %}} button to mirror all selected models.
 
 ### Supports
 
@@ -126,11 +126,11 @@ To generate supports for your model, hit the (icon) icon and a menu will appear.
 
 Image
 
-Firstly, you can automatically generate the supports by hitting the *Auto-Generate All* button.
+Firstly, you can automatically generate the supports by hitting the {{% badge %}}Auto-Generate All{{% /badge %}} button.
 
 Image
 
-You can paint on supports by hitting the *Edit* button, but the details of that will not be covered here. It is recommended to use the Auto-Generate option instead.
+You can paint on supports by hitting the {{% badge %}}Edit{{% /badge %}} button, but the details of that will not be covered here. It is recommended to use the Auto-Generate option instead.
 
 You can edit the way supports generate in the **Basic Settings** section.
 
@@ -150,7 +150,7 @@ Image
 
 **Advanced Settings** has more particular details but will not be covered on this guide.
 
-Hitting the *Reset* button will reset the objects completely.
+Hitting the {{% badge %}}Reset{{% /badge %}} button will reset the objects completely.
 
 Once you are happy with the object and support placement, move to the *Printer Settings* section.
 

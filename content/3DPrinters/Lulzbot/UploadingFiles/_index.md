@@ -27,7 +27,7 @@ You can also set it's exact position with the menu that appears next to the (ico
 
 picture
 
-there you will also see two checkboxes, *Lock Model* and two buttons *Center* and *Bottom*
+there you will also see two checkboxes, *Lock Model* and two buttons {{% badge %}}Center{{% /badge %}} and {{% badge %}}Bottom{{% /badge %}}
 
 *Lock Model* makes it so the model cannot move other than by changing the numbers in the menu, dragging the model or arrows will no longer move it 
 
@@ -49,7 +49,7 @@ Again a menu will pop up with certain options. The text boxes allow you to set t
 
 picture
 
-there you will also see two checkboxes, *Snap Scaling* and *Uniform Scaling* as well as a rewind icon, a (icon) icon, and a button that says *Bottom*
+there you will also see two checkboxes, *Snap Scaling* and *Uniform Scaling* as well as a rewind icon, a (icon) icon, and a button that says {{% badge %}}Bottom{{% /badge %}}
 
 *Snap Scaling* makes it so the object will snap between set sizes
 
@@ -129,7 +129,7 @@ To use this, click the model you want to remove supports from, click the (icon) 
 
 To duplicate your object, select the object and then hit the (icon) icon.
 
-A menu will appear and allow you to set how many copies you want. Hit the *Multiply* button once you have set the desired number
+A menu will appear and allow you to set how many copies you want. Hit the {{% badge %}}Multiply{{% /badge %}} button once you have set the desired number
 
 ### Pauses
 

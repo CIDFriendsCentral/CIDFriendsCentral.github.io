@@ -30,7 +30,7 @@ image
 
 ### Printing
 
-When you are ready to print, click the *Print* button in the top right
+When you are ready to print, click the {{% badge %}}Print{{% /badge %}} button in the top right
 
 Image
 
@@ -42,4 +42,4 @@ When this menu shows, check once again that your object is not over any holes as
 
 Once you are confident it will print correctly, move to the laser cutter and hit the flashing white button. Your design should begin printing.
 
-If you need to cancel at any time, just hit the cancel print button on the computer.
+If you need to cancel at any time, just hit the {{% badge %}}cancel print{{% /badge %}} button on the computer.

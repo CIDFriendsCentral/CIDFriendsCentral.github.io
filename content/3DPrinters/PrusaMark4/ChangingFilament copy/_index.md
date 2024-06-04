@@ -2,13 +2,13 @@
 alwaysopen = false
 title = 'Changing Filament'
 date = 2024-05-08T09:32:56-04:00
-draft = true
+draft = false
 weight = 1
 +++
 
 --- 
 
-To change filament, navigate to the *Filament* button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options,*Load*, *Unload*, *Change*, and *Purge*. 
+To change filament, navigate to the {{% badge %}}Filament{{% /badge %}} button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, *Load*, *Unload*, *Change*, and *Purge*. 
 
 image
 

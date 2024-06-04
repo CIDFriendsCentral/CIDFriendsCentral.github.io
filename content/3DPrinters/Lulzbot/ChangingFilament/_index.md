@@ -10,9 +10,9 @@ To change filament on the LulzBot, first open the **Cura LulzBot** application, 
 
 image
 
-Click the *Connect* button and wait a few seconds. Eventually the box at the top will read *Connected to Printer*.
+Click the {{% badge %}}Connect{{% /badge %}} button and wait a few seconds. Eventually the box at the top will read *Connected to Printer*.
 
-Once that happens move back to the right menu. Click the *Pre-Heat* buttons on the *Hot End* section only.
+Once that happens move back to the right menu. Click the {{% badge %}}Pre-Heat{{% /badge %}} buttons on the *Hot End* section only.
 
 Image
 
@@ -22,6 +22,6 @@ Now scroll down to the *Manual Printer Control* section.
 
 image
 
-Change the number in *Extrude Amount* to 100, then hit the *Retract* Button. Then gently pull upwards on the filament.
+Change the number in *Extrude Amount* to 100, then hit the {{% badge %}}Retract{{% /badge %}} button. Then gently pull upwards on the filament.
 
-To load filament, use the same process as above, but set the number to 80 instead of 100 and hit the *Extrude* button while gently pushing the filament in.
+To load filament, use the same process as above, but set the number to 80 instead of 100 and hit the {{% badge %}}Extrude{{% /badge %}} button while gently pushing the filament in.

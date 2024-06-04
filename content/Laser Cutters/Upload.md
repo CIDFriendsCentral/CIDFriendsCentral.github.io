@@ -12,11 +12,11 @@ image
 
 If the computer is not signed into glowforge, have an adult sign you in. 
 
-If the computer is signed in, hit the *Create* button, which will take you to a new menu.
+If the computer is signed in, hit the {{% badge %}}Create{{% /badge %}} button, which will take you to a new menu.
 
 Image
 
-there you will see a list of projects, which you can select to open, or in the top left, there is a *Create a New Design* button for your own designs. Hit the create button and it will open a dropdown menu.
+there you will see a list of projects, which you can select to open, or in the top left, there is a {{% badge %}}Create a New Design{{% /badge %}} button for your own designs. Hit the {{% badge %}}Create{{% /badge %}} button and it will open a dropdown menu.
 
 Image
 
@@ -92,7 +92,7 @@ You can edit the spacing between the letters by clicking the dropdown labeled *S
 
 You can make your text into different shapes by clicking the dropdown labeled *Style*
 
-If you have a style selected, clicking the button labeled *Options* will allow you to customize the style you selected.
+If you have a style selected, clicking the {{% badge %}}Options{{% /badge %}} button will allow you to customize the style you selected.
 
 #### More Options
 
@@ -204,7 +204,7 @@ Image
 
 You can specify how many rows and columns to add, whether you want a frame, and whether you want to keep the selected object or delete it after creating the puzzle around it.
 
-Hit the *Create Puzzle* button to create the puzzle.
+Hit the {{% badge %}}Create Puzzle{{% /badge %}} button to create the puzzle.
 
 #### Stamp maker
 
@@ -218,7 +218,7 @@ Image
 
 *Add Edge* will add a box around the stamp to make it easy to cut out of your material.
 
-Hit the *Create Stamp* button to create the Stamp.
+Hit the {{% badge %}}Create Stamp{{% /badge %}} button to create the Stamp.
 
 ## Done?
 

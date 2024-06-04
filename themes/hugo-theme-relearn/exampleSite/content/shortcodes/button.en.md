@@ -16,8 +16,8 @@ While the examples are using shortcodes with named parameter you are free to als
 {{% tab title="shortcode" %}}
 
 ````go
-{{%/* button href="https://gohugo.io/" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="warning" icon="dragon" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="warning" icon="dragon" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% /tab %}}
@@ -63,10 +63,10 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### By Severity
 
 ````go
-{{%/* button href="https://gohugo.io/" style="info" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="note" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="tip" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="warning" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="info" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="note" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="tip" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="warning" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" style="info" %}}Get Hugo{{% /button %}}
@@ -78,9 +78,9 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### By Brand Colors
 
 ````go
-{{%/* button href="https://gohugo.io/" style="primary" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="secondary" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="accent" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="primary" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="secondary" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="accent" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" style="primary" %}}Get Hugo{{% /button %}}
@@ -90,11 +90,11 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### By Color
 
 ````go
-{{%/* button href="https://gohugo.io/" style="blue" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="green" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="grey" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="orange" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="red" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="blue" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="green" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="grey" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="orange" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="red" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" style="blue" %}}Get Hugo{{% /button %}}
@@ -106,8 +106,8 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### By Special Color
 
 ````go
-{{%/* button href="https://gohugo.io/" style="default" %}}Get Hugo{{% /button */%}}
-{{%/* button href="https://gohugo.io/" style="transparent" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="default" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="transparent" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" style="default" %}}Get Hugo{{% /button %}}
@@ -118,7 +118,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### Empty
 
 ````go
-{{%/* button href="https://gohugo.io/" icon=" " %}}{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" icon=" " %}}{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" icon=" " %}}{{% /button %}}
@@ -126,7 +126,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### Only
 
 ````go
-{{%/* button href="https://gohugo.io/" icon="download" %}}{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" icon="download" %}}{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" icon="download" %}}{{% /button %}}
@@ -134,7 +134,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### To the Left
 
 ````go
-{{%/* button href="https://gohugo.io/" icon="download" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" icon="download" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" icon="download" %}}Get Hugo{{% /button %}}
@@ -142,7 +142,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### To the Right
 
 ````go
-{{%/* button href="https://gohugo.io/" icon="download" iconposition="right" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" icon="download" iconposition="right" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" icon="download" iconposition="right" %}}Get Hugo{{% /button %}}
@@ -150,7 +150,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### Override for Severity
 
 ````go
-{{%/* button href="https://gohugo.io/" icon="dragon" style="warning" %}}Get Hugo{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" icon="dragon" style="warning" %}}Get Hugo{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" icon="dragon" style="warning" %}}Get Hugo{{% /button %}}
@@ -158,8 +158,8 @@ Once the button is clicked, it opens another browser tab for the given URL.
 ### Target
 
 ````go
-{{%/* button href="https://gohugo.io/" target="_self" %}}Get Hugo in same window{{% /button */%}}
-{{%/* button href="https://gohugo.io/" %}}Get Hugo in new Window/Frame (default){{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" target="_self" %}}Get Hugo in same window{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" %}}Get Hugo in new Window/Frame (default){{% /button */%}}
 ````
 {{% button href="https://gohugo.io/" target="_self" %}}Get Hugo in same Window/Frame{{% /button %}}
 {{% button href="https://gohugo.io/" %}}Get Hugo in new Window/Frame (default){{% /button %}}
@@ -169,7 +169,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### With User-Defined Color, Font Awesome Brand Icon and Markdown Title
 
 ````go
-{{%/* button href="https://gohugo.io/" color="fuchsia" icon="fa-fw fab fa-hackerrank" %}}Get **Hugo**{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" color="fuchsia" icon="fa-fw fab fa-hackerrank" %}}Get **Hugo**{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" color="fuchsia" icon="fa-fw fab fa-hackerrank" %}}Get **Hugo**{{% /button %}}
@@ -177,7 +177,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### Severity Style with All Defaults
 
 ````go
-{{%/* button href="https://gohugo.io/" style="tip" %}}{{% /button */%}}
+{{%/{{% /badge %}} button href="https://gohugo.io/" style="tip" %}}{{% /button */%}}
 ````
 
 {{% button href="https://gohugo.io/" style="tip" %}}{{% /button %}}
@@ -185,7 +185,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 #### Button to Internal Page
 
 ````go
-{{%/* button href="/index.html" %}}Home{{% /button */%}}
+{{%/{{% /badge %}} button href="/index.html" %}}Home{{% /button */%}}
 ````
 
 {{% button href="/index.html" %}}Home{{% /button %}}
@@ -195,7 +195,7 @@ Once the button is clicked, it opens another browser tab for the given URL.
 If your JavaScript action does not change the focus afterwards, make sure to call `this.blur()` in the end to unselect the button.
 
 ````go
-{{%/* button style="primary" icon="bullhorn" href="javascript:alert('Hello world!');this.blur();" %}}Shout it out{{% /button */%}}
+{{%/{{% /badge %}} button style="primary" icon="bullhorn" href="javascript:alert('Hello world!');this.blur();" %}}Shout it out{{% /button */%}}
 ````
 
 {{% button style="primary" icon="bullhorn" href="javascript:alert('Hello world!');this.blur();" %}}Shout it out{{% /button %}}
@@ -212,7 +212,7 @@ To use native HTML elements in your Markdown, add this in your `hugo.toml`
 ````html
 <form action="../../search.html" method="get">
   <input name="search-by-detail" class="search-by" type="search">
-  {{%/* button type="submit" style="secondary" icon="search" %}}Search{{% /button */%}}
+  {{%/{{% /badge %}} button type="submit" style="secondary" icon="search" %}}Search{{% /button */%}}
 </form>
 ````
 

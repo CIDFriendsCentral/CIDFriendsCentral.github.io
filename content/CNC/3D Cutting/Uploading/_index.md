@@ -19,7 +19,7 @@ Within this box you can also rotate it with the profile buttons and the boxes fo
 
 Image
 
-When you are satisfied hit the "Position And Import" button.
+When you are satisfied hit the {{% badge %}}Position And Import{{% /badge %}} button.
 
 Image
 

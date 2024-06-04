@@ -7,7 +7,7 @@ weight = 3
 +++
 ---
 
-Once you have set up your print how you want it, press the *slice* button in the bottom right
+Once you have set up your print how you want it, press the {{% badge %}}Slice{{% /badge %}} button in the bottom right
 
 insert picture
 

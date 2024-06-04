@@ -6,7 +6,7 @@ draft = false
 weight = 3
 +++
 
-Once you have set up your print how you want it, press the *slice* button in the bottom right
+Once you have set up your print how you want it, press the {{% badge %}}Slice{{% /badge %}} button in the bottom right
 
 insert picture
 
@@ -26,7 +26,7 @@ If you choose to do a filament swap, make sure you are using the same type of fi
 
 ### View Settings
 
-You can also see specific parts of the print broken down by type of print and shaded different colors, as well as a menu of options at the bottom. This lets you view mroe specific information about the print.
+You can also see specific parts of the print broken down by type of print and shaded different colors, as well as a menu of options at the bottom. This lets you view more specific information about the print.
 
 Image
 
