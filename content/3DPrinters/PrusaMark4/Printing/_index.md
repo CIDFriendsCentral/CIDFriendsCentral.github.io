@@ -6,11 +6,11 @@ draft = false
 weight = 5
 +++
 
-Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically
+Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.
 
 ![image](/images/107.png)
 
-If this is the file you wish to print, simply click the knob and it will begin printing
+If this is the file you wish to print, simply click the knob and it will begin printing.
 
 ![image](/images/108.png)
 
@@ -18,7 +18,7 @@ If the file doesn't appear or the file that appears isn't the file you wish to p
 
 ![image](/images/109.png)
 
-Select `Print`
+Select `Print`.
 
 ![image](/images/110.png)
 
