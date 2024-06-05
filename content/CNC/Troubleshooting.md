@@ -3,7 +3,7 @@ title = 'Troubleshooting'
 date = 2024-05-07T15:15:22-04:00
 draft = false
 +++
-
+---
 The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong.
 
 ### USB Control Box Problems
