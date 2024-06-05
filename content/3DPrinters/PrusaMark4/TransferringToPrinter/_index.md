@@ -10,9 +10,9 @@ Once you have your gcode file, take the USB drive out of the printer and plug it
 
 ![image](/images/104.PNG)
 
-==SCREWUP==
+Wait until the box at the bottom reads `Exporting Finished` then hit the eject icon. It is safe to remove the USB once the box reads `Successfully Unmounted`.
 
 ![image](/images/105.PNG)
 ![image](/images/106.PNG)
 
-Finally plug the drive back into the printer. Once you have done this move to the Printing section.
+Finally plug the drive back into the printer. Once you have done this move to the [Printing](https://cid.friendscentral.org/3dprinters/prusamark4/printing/index.html) section.
