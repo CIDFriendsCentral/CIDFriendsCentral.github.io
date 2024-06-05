@@ -150,7 +150,7 @@ You can edit the way supports generate in the **Basic Settings** section.
 
 Hitting the {{% badge %}}Reset{{% /badge %}} button will reset the objects completely.
 
-Once you are happy with the object and support placement, move to the `Printer Settings` section.
+Once you are happy with the object and support placement, move to the [Printer Settings](https://cid.friendscentral.org/3dprinters/formlabs/printersettings/index.html) section.
 
 
 
