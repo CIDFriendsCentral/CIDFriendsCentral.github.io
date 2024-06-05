@@ -40,7 +40,7 @@ To move the print around the print bed, first click the item you wish to move, a
 
 Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.
 
-You can also rotate it by grabbing and dragging the quarter rings or the (![icon](/images/7.PNG)) icon
+You can also rotate it by grabbing and dragging the quarter rings or the (![icon](/images/7.PNG)) icon.
 
 
 
@@ -52,7 +52,7 @@ And there are no shapes that create cups:
 
 ![image](/images/9.png)
 
-Again a menu with certain options will also appear next to the (![icon](/images/10.PNG)) icon
+Again a menu with certain options will also appear next to the (![icon](/images/10.PNG)) icon.
 
 ![image](/images/11.PNG)
 
@@ -82,7 +82,7 @@ To scale your object, select the object, then select the (![icon](/images/16.PNG
 
 The text boxes allow you to set the scale of the object by a multiple of it's current size and scale it evenly across all axis, or scale the axis separately to the size you specify.
 
-The {{% badge %}}Reset{{% /badge %}} button will set the object to its original dimensions
+The {{% badge %}}Reset{{% /badge %}} button will set the object to its original dimensions.
 
 Alternatively, when you select the object you can grab and drag the (![icon](/images/18.1.PNG)) icon to scale it evenly.
 
@@ -100,7 +100,7 @@ To automatically layout your objects, you can change the `Model Spacing` and cho
 
 ![image](/images/21.png)
 
-`Overlap Rafts` dictates if the support rafts can overlap
+`Overlap Rafts` dictates if the support rafts can overlap.
 
 ![image](/images/22.png)
 
@@ -108,7 +108,7 @@ To automatically layout your objects, you can change the `Model Spacing` and cho
 
 #### Duplication
 
-To duplicate your model, first select how many copies you want, then hit the {{% badge %}}Create{{% /badge %}} button
+To duplicate your model, first select how many copies you want, then hit the {{% badge %}}Create{{% /badge %}} button.
 
 #### Array
  
@@ -132,19 +132,19 @@ You can paint on supports by hitting the {{% badge %}}Edit{{% /badge %}} button,
 
 You can edit the way supports generate in the **Basic Settings** section.
 
-`Raft Type` will change how the support raft generates, either Full Rafts, Mini Rafts, or None
+`Raft Type` will change how the support raft generates, either Full Rafts, Mini Rafts, or None.
 
 ![image](/images/26.png)
 
-`Raft Label` will place the name of the object on the rim of the raft
+`Raft Label` will place the name of the object on the rim of the raft.
 
 ![image](/images/27.PNG)
 
-`Density` Changes how often the supports will be placed
+`Density` Changes how often the supports will be placed.
 
-`Touchpoint Size` changes the area of the contact between the support and the object
+`Touchpoint Size` changes the area of the contact between the support and the object.
 
-`Internal Supports` will generate supports between different layers of the object
+`Internal Supports` will generate supports between different layers of the object.
 
 **Advanced Settings** has more particular details but will not be covered on this guide.
 
