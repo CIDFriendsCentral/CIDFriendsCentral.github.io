@@ -17,4 +17,4 @@ Once you have loaded the material into the cutter, go to the top left corner of 
 
 Use the search bar to select the type of material you are using. In general it is best to call anything less than 1/8 inch medium, and anything greater then or equal to 1/8 inch thick.
 
-Once you have selected your material, move to the settings page.
+Once you have selected your material, move to the [Cut Settings](https://cid.friendscentral.org/laser-cutters/settings/index.html) page.
