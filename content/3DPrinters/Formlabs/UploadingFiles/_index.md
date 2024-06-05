@@ -84,7 +84,7 @@ The text boxes allow you to set the scale of the object by a multiple of it's cu
 
 The {{% badge %}}Reset{{% /badge %}} button will set the object to its original dimensions.
 
-Alternatively, when you select the object you can grab and drag the (![icon](/images/18.1.PNG)) icon to scale it evenly.
+Alternatively, when you select the object you can grab and drag the (![icon](/images/18.PNG)) icon to scale it evenly.
 
 ### Layout
 
