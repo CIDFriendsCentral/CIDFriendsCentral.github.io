@@ -27,5 +27,5 @@ From there, get a scraper and carefully use it to pry the print off.
 
 ![image](/images/35.png).
 
-Once all of your pieces are detached from the bed, proceed to the Washing and Baking section.
+Once all of your pieces are detached from the bed, proceed to the [Washing and Baking](https://cid.friendscentral.org/3dprinters/formlabs/washingandbaking/index.html) section.
 
