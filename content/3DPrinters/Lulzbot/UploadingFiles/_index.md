@@ -12,13 +12,13 @@ To upload files to the Ultimaker first get the stl, obj, or other 3D file type a
 
 Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.
 
-![image](/images/147.PNG)
+![image](/images/147.png)
 
 ### Moving
 
 To move the print around the print bed, first click the item you wish to move, then click the (![icon](/images/115.PNG)) icon and you will see three arrows pop up around your shape.
 
-![image](/images/149.PNG)
+![image](/images/149.png)
 
 Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it. 
 
