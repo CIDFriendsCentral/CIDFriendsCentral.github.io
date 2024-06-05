@@ -11,7 +11,7 @@ To remove the print from the bed, first put on latex gloves as resin can be harm
 
 ![image](/images/31.png)
 
-Then open the casing around the printer by pulling up on the handle
+Then open the casing around the printer by pulling up on the handle.
 
 ![image](/images/32.png)
 
