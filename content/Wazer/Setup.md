@@ -50,4 +50,4 @@ Then replace the black panel.
 
 
 
-Make sure the water supply is on and you are ready to cut.
+Make sure the water supply is on and you are ready to cut. Go to the [Cutting](https://cid.friendscentral.org/wazer/transfer/index.html) section.
