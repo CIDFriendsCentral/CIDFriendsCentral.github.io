@@ -140,11 +140,11 @@ From there it will hide one of the two halves, and allow you to place connectors
 
 Plug creates a small protrusion from one side, and a matching hole in the other. You can select whether you would like a `prism` or `frustum` shape:
 
-![image](/images/78.PNG)
+![image](/images/78.png)
 
 As well as what shape you would like it to be, `triangle`, `square`, `hexagon`, or `circle`:
 
-![image](/images/79.PNG)
+![image](/images/79.png)
 
 Dowel creates holes in both halves of the print as well as a small dowel to join the two.
 
