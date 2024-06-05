@@ -122,7 +122,7 @@ The Ultimaker can print two materials in the same print, simply click the object
 
 ## Done?
 
-Once you are happy with the object's placement, move to the print settings section.
+Once you are happy with the object's placement, move to the [Printer Settings](https://cid.friendscentral.org/3dprinters/ultimaker/printersettings/index.html) section.
 
 
 
