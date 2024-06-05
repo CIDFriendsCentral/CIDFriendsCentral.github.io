@@ -15,8 +15,6 @@ Then open the manual control panel by clicking the yellow box.
 
 You will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way. Then use the right set of arrows to lift the head of the machine up so that the bit will not get caught or drag across any of the parts. 
 
-![image](/images/260.png)
-
 Then use the left arrows to move the bit until it is exactly lined up with the bottom left corner of the area you want to cut. 
 
 ![image](/images/261.png) 
@@ -42,6 +40,6 @@ The machine now is properly zeroed. Press "Cut Part". This will ask you to open 
 
 ![image](/images/266.png)
 
-Once the file loads in, you are ready to start the cut by hitting the __ button.
+Once the file loads in, you are ready to start the cut by hitting the {{% badge %}}Start{{% /badge %}} button.
 
 ![image](/images/267.png)
