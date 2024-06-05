@@ -121,5 +121,5 @@ Many other specific settings can be tuned by clicking `Show Custom` however ther
 
 ## Done?
 
-Once you have your preferred settings set, move to the slicing files section.
+Once you have your preferred settings set, move to the [Slicing Files](https://cid.friendscentral.org/3dprinters/ultimaker/slicefiles/index.html) section.
 
