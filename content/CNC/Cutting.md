@@ -4,7 +4,7 @@ title = 'Zeroing and Cutting'
 date = 2024-05-08T09:32:56-04:00
 draft = false
 +++
-
+---
 Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you're in shopbot easy mode. 
 
 ![image](/images/258.png)
