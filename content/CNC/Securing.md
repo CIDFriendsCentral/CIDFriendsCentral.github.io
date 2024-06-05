@@ -13,4 +13,4 @@ Then take superglue and put a thin spread on the tape on the bed. **DO NOT PUT S
 
 ![image](/images/269.png)
 
-Your object will be attached to the bed securely. Once you are done cutting, simply pull the tape off of the bed and your object.
+Your object will be attached to the bed securely. Move to the [Spindle Warmup](https://cid.friendscentral.org/cnc/warmup/index.html) section to begin your cutting process. Once you are done cutting, simply pull the tape off of the bed and your object. 
