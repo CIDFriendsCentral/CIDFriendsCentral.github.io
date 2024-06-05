@@ -22,7 +22,7 @@ there you will see a list of projects, which you can select to open, or in the t
 
 `Create a Blank Design` will open an empty workspace, where you can start from scratch and use the tools to create your design.
 
-`Upload a File` will let you upload one fo your own files, which will open up a menu to select your file. Once you select it it will open your file in the workspace to edit as you please
+`Upload a File` will let you upload one fo your own files, which will open up a menu to select your file. Once you select it it will open your file in the workspace to edit as you please.
 
 `Trace a design` will let you trace a design, which will be covered in a separate page, go to the Tracing Page.
 
@@ -34,11 +34,11 @@ No matter what you choose, you will eventually reach the workspace. There you wi
 
 #### Selection Tool
 
-Hitting the (![icon](/images/178.10.png)) icon will allow you to select objects in the frame by clicking them or dragging your mouse over them
+Hitting the (![icon](/images/178.10.png)) icon will allow you to select objects in the frame by clicking them or dragging your mouse over them.
 
 #### Pan Tool
 
-Hitting the (![icon](/images/179.10.png)) icon will allow you to pan the scene by dragging with your mouse
+Hitting the (![icon](/images/179.10.png)) icon will allow you to pan the scene by dragging with your mouse.
 
 #### Undo and Redo
 
@@ -54,7 +54,7 @@ Here you can select to import artwork from the computer, trace artwork, or use t
 
 #### Magic Canvas
 
-Hitting the (![icon](/images/184.png)) icon will open the Magic Canvas menu
+Hitting the (![icon](/images/184.png)) icon will open the Magic Canvas menu.
 
 ![image](/images/185.png)
 
@@ -72,25 +72,25 @@ There you can edit the number of points in your shape, change the sharpness of a
 
 #### Text
 
-Hitting the (![icon](/images/188.png)) icon will create text and open a menu to customize that text
+Hitting the (![icon](/images/188.png)) icon will create text and open a menu to customize that text.
 
 ![image](/images/189.png)
 
 Firstly put what you want the text to say in the first box.
 
-Then you can edit the font by clicking the dropdown labeled `Typeface`
+Then you can edit the font by clicking the dropdown labeled `Typeface`.
 
-You can edit the thickness of the letters by clicking the dropdown under `Weight`
+You can edit the thickness of the letters by clicking the dropdown under `Weight`.
 
-You can select the switch labeled `Italic` to make the text Italic
+You can select the switch labeled `Italic` to make the text Italic.
 
-You can edit the size of the text by clicking the dropdown labeled `Size`
+You can edit the size of the text by clicking the dropdown labeled `Size`.
 
-You can change the alignment in the box by clicking the dropdown labeled `Alignment`
+You can change the alignment in the box by clicking the dropdown labeled `Alignment`.
 
-You can edit the spacing between the letters by clicking the dropdown labeled `Spacing`
+You can edit the spacing between the letters by clicking the dropdown labeled `Spacing`.
 
-You can make your text into different shapes by clicking the dropdown labeled `Style`
+You can make your text into different shapes by clicking the dropdown labeled `Style`.
 
 If you have a style selected, clicking the {{% badge %}}Options{{% /badge %}} button will allow you to customize the style you selected.
 
@@ -104,17 +104,17 @@ Hitting the (![icon](/images/190.png)) icon will open a new menu with more optio
 
 `Design Details` will open up a panel of information about your design, as well as any instructions included with the design.
 
-`Export Design` will allow you to export your design to the computer
+`Export Design` will allow you to export your design to the computer.
 
-`Past Prints` will show all past print jobs on this file
+`Past Prints` will show all past print jobs on this file.
 
 `Keyboard Shortcuts` shows the list of keyboard shortcuts.
 
-`Preferences` opens up a menu of accessibility options
+`Preferences` opens up a menu of accessibility options.
 
 `Pro Passthrough` is used to make longer designs, which will be reviewed more in the pro passthrough page.
 
-Do not select `Glowforge Air Filter Attached` as we do not have that
+Do not select `Glowforge Air Filter Attached` as we do not have that.
 
 `Units` will switch from inches to centimeters for measuring.
 
@@ -122,7 +122,7 @@ Do not select `Glowforge Air Filter Attached` as we do not have that
 
 #### Moving
 
-To move an object around the screen, simply select it and drag
+To move an object around the screen, simply select it and drag.
 
 ![image](/images/191.png)
 
@@ -138,7 +138,7 @@ To rotate an object, select it and drag the (![icon](/images/194.png)) icon unti
 
 #### Arrangement Menu
 
-Selecting the (![icon](/images/195.png)) icon in the bottom left will open up a menu
+Selecting the (![icon](/images/195.png)) icon in the bottom left will open up a menu.
 
 ![image](/images/196.png)
 
@@ -146,7 +146,7 @@ Here you can select the exact position of the object and scale of the object, as
 
 #### Alignment Menu
 
-Selecting the (![icon](/images/198.png)) icon in the bottom left will open up another menu
+Selecting the (![icon](/images/198.png)) icon in the bottom left will open up another menu.
 
 ![image](/images/199.png)
 
@@ -154,7 +154,7 @@ This menu allows you to align multiple objects to each other as is displayed in 
 
 ### Side Bar
 
-After selecting an object, a side bar will appear
+After selecting an object, a side bar will appear.
 
 ![image](/images/screwup10.png)
 
@@ -170,7 +170,7 @@ Once you create the outline, you can adjust how far outside or inside the shape 
 
 #### Mirroring
 
-Hitting the (![icon](/images/203.png)) icon will mirror the object vertically, and hitting the (![icon](/images/204.png)) icon will mirror the image horizontally
+Hitting the (![icon](/images/203.png)) icon will mirror the object vertically, and hitting the (![icon](/images/204.png)) icon will mirror the image horizontally.
 
 #### Patterned line
 
@@ -178,21 +178,21 @@ Hitting the (![icon](/images/205.png)) icon will open another menu, which will a
 
 ![image](/images/206.png)
 
-Hitting the dropdown labeled `Mode` will allow you to choose from a list of options
+Hitting the dropdown labeled `Mode` will allow you to choose from a list of options.
 
 ![image](/images/207.png)
 
-`Repeating shapes` will allow you to place shapes along the line
+`Repeating shapes` will allow you to place shapes along the line.
 
-`Seamless Pattern` will create a pattern along the line
+`Seamless Pattern` will create a pattern along the line.
 
-`Stitching Holes` will create holes along the line
+`Stitching Holes` will create holes along the line.
 
-`Perforated Line` will cut a dashed line
+`Perforated Line` will cut a dashed line.
 
 `Hold-in Tabs` will give the line small bits of material to keep it in place while cutting that are easy to remove afterwards.
 
-No matter what option you choose, there will be a list of customizations to edit your pattern below, with more available after hitting the `Options` dropdown
+No matter what option you choose, there will be a list of customizations to edit your pattern below, with more available after hitting the `Options` dropdown.
 
 #### Puzzle Maker
 
