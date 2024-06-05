@@ -26,7 +26,7 @@ The simplest is to hit the (![icon](/images/3.PNG)) icon and use `One Click Prin
 
 Hit the {{% badge %}}Set Up Your Print{{% /badge %}} button and the app will automatically rotate your model and add supports for the best print generation. 
 
-![image](/images/5.png)
+![image](/images/5.PNG)
 
 It will also pop up the printing menu, which we will discuss in the **Printing** section.
 
@@ -36,11 +36,11 @@ It will also pop up the printing menu, which we will discuss in the **Printing**
 
 To move the print around the print bed, first click the item you wish to move, and you will see two arrows pop up around your shape, as well as 3 quarter rings.
 
-![image](/images/6.png)
+![image](/images/6.PNG)
 
 Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.
 
-You can also rotate it by grabbing and dragging the quarter rings or the (![icon](/images/7.png)) icon
+You can also rotate it by grabbing and dragging the quarter rings or the (![icon](/images/7.PNG)) icon
 
 
 
@@ -52,13 +52,13 @@ And there are no shapes that create cups:
 
 ![image](/images/9.png)
 
-Again a menu with certain options will also appear next to the (![icon](/images/10.png)) icon
+Again a menu with certain options will also appear next to the (![icon](/images/10.PNG)) icon
 
-![image](/images/11.png)
+![image](/images/11.PNG)
 
 The `Auto-Orient Selected` will rotate the object to have the optimal setup.
 
-![image](/images/12.png)
+![image](/images/12.PNG)
 
 The {{% badge %}}Orient To Face{{% /badge %}} button will allow you to click on a face of the print and the program will lay it flat against the print bed such that the arrow that appears will point straight down into the bed.
 
@@ -66,31 +66,31 @@ The {{% badge %}}Orient To Face{{% /badge %}} button will allow you to click on 
 
 You can also edit its rotation more precisely by clicking the arrows next to `Orient X`, `Orient Y`, and `Orient Z` to rotate it around those axes.
 
-![image](/images/14.png)
+![image](/images/14.PNG)
 
 There also is a handful of options labeled `Orient To Bounding Box`. This will lay the face of the rectangular box around the object flat against the bed.
 
-![image](/images/15.png)
+![image](/images/15.PNG)
 
 Finally the {{% badge %}}Reset Selected{{% /badge %}} button will return the object to it's original orientation.
 
 ### Scaling
 
-To scale your object, select the object, then select the (![icon](/images/16.png)) icon. A menu will appear next to the icon.
+To scale your object, select the object, then select the (![icon](/images/16.PNG)) icon. A menu will appear next to the icon.
 
-![image](/images/17.png)
+![image](/images/17.PNG)
 
 The text boxes allow you to set the scale of the object by a multiple of it's current size and scale it evenly across all axis, or scale the axis separately to the size you specify.
 
 The {{% badge %}}Reset{{% /badge %}} button will set the object to its original dimensions
 
-Alternatively, when you select the object you can grab and drag the (![icon](/images/18.png)) icon to scale it evenly.
+Alternatively, when you select the object you can grab and drag the (![icon](/images/18.1.PNG)) icon to scale it evenly.
 
 ### Layout
 
-To manage the layout of the bed, select your object and hit the (![icon](/images/19.png)) icon. A menu will then appear.
+To manage the layout of the bed, select your object and hit the (![icon](/images/19.PNG)) icon. A menu will then appear.
 
-![image](/images/20.png)
+![image](/images/20.PNG)
 
 #### Auto Layout
 
@@ -120,13 +120,13 @@ Hit the {{% badge %}}Mirror Models{{% /badge %}} button to mirror all selected m
 
 ### Supports
 
-To generate supports for your model, hit the (![icon](/images/23.png)) icon and a menu will appear. If you select an object or objects, you can generate supports only for the selected objects, or alternatively generate supports for all objects by not selecting any one particular object. 
+To generate supports for your model, hit the (![icon](/images/23.PNG)) icon and a menu will appear. If you select an object or objects, you can generate supports only for the selected objects, or alternatively generate supports for all objects by not selecting any one particular object. 
 
-![image](/images/24.png)
+![image](/images/24.PNG)
 
 Firstly, you can automatically generate the supports by hitting the {{% badge %}}Auto-Generate All{{% /badge %}} button.
 
-![image](/images/25.png)
+![image](/images/25.PNG)
 
 You can paint on supports by hitting the {{% badge %}}Edit{{% /badge %}} button, but the details of that will not be covered here. It is recommended to use the Auto-Generate option instead.
 
@@ -134,11 +134,13 @@ You can edit the way supports generate in the **Basic Settings** section.
 
 `Raft Type` will change how the support raft generates, either Full Rafts, Mini Rafts, or None
 
-![image](/images/26.png)
+![image](/images/26.1.PNG)
+![image](/images/26.2.PNG)
+![image](/images/26.3.PNG)
 
 `Raft Label` will place the name of the object on the rim of the raft
 
-![image](/images/27.png)
+![image](/images/27.PNG)
 
 `Density` Changes how often the supports will be placed
 
