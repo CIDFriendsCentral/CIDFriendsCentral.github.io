@@ -15,11 +15,11 @@ Once you are satified with the object placement, move to the right menu.
 
 Here you will see a list of settings for layer heights:
 
-0.1 mm will be the most precise setting, good for visual detail or mechanical functionality
+0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.
 
 0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.
 
-0.2 mm has the same options, but both will be faster but lower quality than their 0.15 mm counterparts
+0.2 mm has the same options, but both will be faster but lower quality than their 0.15 mm counterparts.
 
 ### Filament
 
@@ -31,15 +31,15 @@ Here you select which printer to use. Select **Original Prusa MK4 Input Shaper 0
 
 ### Supports
 
-Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print
+Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print.
 
 The options in the dropdown designate where supports generate, and gives 4 options, `None`, `Support on Buildplate Only`, `For Support Enforcers Only`, and `Everywhere`.
 
-`None` will not create any supports
+`None` will not create any supports.
 
 ![image](/images/92.PNG)
 
-`Support on Buildplate Only` will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support
+`Support on Buildplate Only` will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support.
 
 ![image](/images/93.PNG)
 
@@ -53,7 +53,7 @@ It is recommended to use `Everywhere` when overhangs are present.
 
 ### Infill
 
-This will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full
+This will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full.
 
 ![image](/images/95.png)
 
@@ -67,7 +67,7 @@ The brim helps prints stick to the print bed and avoid shifting and warping off 
 
 ### Part Specific Settings.
 
-In the part menu, you can select and change settings for specific parts by clicking the (![icon](/images/97.PNG)) icon
+In the part menu, you can select and change settings for specific parts by clicking the (![icon](/images/97.PNG)) icon.
 
 The full scope of this will not be covered on this website.
 
