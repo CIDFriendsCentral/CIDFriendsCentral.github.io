@@ -14,15 +14,15 @@ Welcome to the CID, Friends Central's newest space, built to inspire creation an
 
 
 
-Look through the side menu for different machine guides, use the search bar to find specific sections or continue on this page for an introduction to the website
+Look through the side menu for different machine guides, use the search bar to find specific sections or continue on this page for an introduction to the website.
 
 ---
 
 ## What is this place?
 
-This is the official CID tool documentation webstie, cataloging many of the tools found in the different areas of the CID. If you are new to the CID these guides can help you learn the basic functionality of these tools and give you simple projects to build your understanding.
+This is the official CID tool documentation website, cataloging many of the tools found in the different areas of the CID. If you are new to the CID these guides can help you learn the basic functionality of these tools and give you simple projects to build your understanding.
 
-Guides Availible
+Guides Available
 
 [3D printers](https://cid.friendscentral.org/3dprinters/index.html)
 
