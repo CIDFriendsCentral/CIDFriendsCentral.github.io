@@ -9,7 +9,7 @@ weight = 3
 
 Once you are ready to print, hit the {{% badge %}}Upload Print{{% /badge %}} button and a menu will appear. This is the same menu that will appear when you use the `One-Click Print` feature.
 
-![image](/images/30.png)
+![image](/images/30.PNG)
 
 In this menu you can either press `Add to Queue` or `Print Now`.
 
