@@ -222,4 +222,4 @@ Hit the {{% badge %}}Create Stamp{{% /badge %}} button to create the Stamp.
 
 ## Done?
 
-Once you are happy with your design, move to the Material Selection page.
+Once you are happy with your design, move to the [Material Selection](https://cid.friendscentral.org/laser-cutters/material/index.html) page.
