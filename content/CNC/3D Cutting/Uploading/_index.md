@@ -23,7 +23,7 @@ Since the Shopbot cannot cut both the top and bottom of a piece at the same time
 
 ![image](/images/250.jpg)
 
-When you do that, the models will appear on top of each other in the 2d view, choose the move tool (cursor with a cross) and move one of the 2 objects away so they do not overlap
+When you do that, the models will appear on top of each other in the 2d view, choose the move tool (cursor with a cross) and move one of the 2 objects away so they do not overlap.
 
 ![image](/images/251.jpg)
 
