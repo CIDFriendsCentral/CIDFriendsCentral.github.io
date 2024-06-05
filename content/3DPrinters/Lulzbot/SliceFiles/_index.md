@@ -16,4 +16,4 @@ Once you do this, you will see a new tab appear, **Preview**. This allows you to
 
 Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.
 
-Once you have done this, move to the transferring files section.
+Once you have done this, move to the [Transferring and Printing](https://cid.friendscentral.org/3dprinters/lulzbot/transferringtoprinter/index.html) section.
