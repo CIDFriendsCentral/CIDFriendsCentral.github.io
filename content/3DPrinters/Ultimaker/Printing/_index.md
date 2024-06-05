@@ -7,7 +7,7 @@ weight = 6
 +++
 ---
 
-Once you plug the USB into the printer, you should be greeted with this image
+Once you plug the USB into the printer, you should be greeted with this image.
 
 ![image](/images/143.png)
 
