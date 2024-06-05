@@ -8,7 +8,7 @@ weight = 5
 
 ### Cutter Selection
 
-Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using
+Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using.
 
 ![image](/images/227.png)
 
@@ -30,7 +30,7 @@ The two things to look out for are:
 
 ### Printing
 
-When you are ready to print, click the {{% badge %}}Print{{% /badge %}} button in the top right
+When you are ready to print, click the {{% badge %}}Print{{% /badge %}} button in the top right.
 
 ![image](/images/230.png)
 
