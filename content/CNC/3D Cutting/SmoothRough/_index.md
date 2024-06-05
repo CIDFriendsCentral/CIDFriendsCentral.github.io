@@ -3,8 +3,9 @@ alwaysopen = false
 title = 'Smooth and Rough Carves'
 date = 2024-05-08T09:32:56-04:00
 draft = false
+weight=2
 +++
-
+---
 Once you have your file set up correctly, select both of your pieces and the rectangle around them and select the rough machining toolpath.
 
 ![image](/images/253.jpg)
