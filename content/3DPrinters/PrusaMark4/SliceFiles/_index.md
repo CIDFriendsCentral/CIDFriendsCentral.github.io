@@ -32,4 +32,4 @@ You can also see specific parts of the print broken down by type of print and sh
 
 ![image](/images/102.PNG)
 
-Once you have done this, move to the transferring files section.
+Once you have done this, move to the [Transferring to Printer](https://cid.friendscentral.org/3dprinters/prusamark4/transferringtoprinter/index.html) section.
