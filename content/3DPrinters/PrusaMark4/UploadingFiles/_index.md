@@ -218,7 +218,7 @@ In the menu you can either hit the {{% badge %}}Restart Selection{{% /badge %}} 
 
 ## Done?
 
-Once you are happy with the object's placement, move to the print settings section.
+Once you are happy with the object's placement, move to the [Printer Settings](https://cid.friendscentral.org/3dprinters/prusamark4/printersettings/index.html) section.
 
 
 
