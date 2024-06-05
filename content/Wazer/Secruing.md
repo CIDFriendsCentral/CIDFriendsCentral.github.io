@@ -10,7 +10,7 @@ To secure the material, place it on the print bed, roughly centered. Then take t
 
 
 
-![image](/images/279.png)
+![image](/images/279.jpg)
 
 
 
