@@ -137,4 +137,4 @@ There a menu will pop up, with a box to specify what layer you want the filament
 
 ## Done?
 
-Once you are happy with the object's placement, move to the print settings section.
+Once you are happy with the object's placement, move to the [Print Settings](https://cid.friendscentral.org/3dprinters/lulzbot/printersettings/index.html) section.
