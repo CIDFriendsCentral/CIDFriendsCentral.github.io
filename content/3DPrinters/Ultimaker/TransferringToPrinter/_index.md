@@ -18,7 +18,7 @@ Once you do this a saving progress bar will appear, and then a box that says `Fi
 ![icon](/images/142.1.PNG)
 ![icon](/images/142.2.PNG)
 
-Finally plug the drive back into the printer. Once you have done this move to the Printing section.
+Finally plug the drive back into the printer. Once you have done this move to the [Printing](https://cid.friendscentral.org/3dprinters/ultimaker/printing/index.html) section.
 
 
 
