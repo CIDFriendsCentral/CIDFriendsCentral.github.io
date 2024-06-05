@@ -4,7 +4,7 @@ date = 2024-05-07T15:15:22-04:00
 draft = false
 weight = 1
 +++
-
+---
 To cut a file on the water cutter, first open up https://wam.wazer.com.
 
 There you will need to sign in, get an adult to sign into the website for you.
@@ -43,4 +43,4 @@ You can scale it to a percentage of the original size with the `Scale` box or se
 
 ## Done?
 
-Once you are happy with the positioning, move to the Cut Settings page.
+Once you are happy with the positioning, move to the [Cut Settings](https://cid.friendscentral.org/wazer/cutsettings/index.html) page.
