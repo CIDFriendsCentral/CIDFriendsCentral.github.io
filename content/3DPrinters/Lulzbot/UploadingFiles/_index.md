@@ -79,8 +79,6 @@ And the maximum amount of the print is touching the build plate, shown by the li
 
 Again a menu with certain options will also appear next to the (![icon](/images/122.PNG)) icon.
 
-![image](/images/160.png)
-
 The rewind icon will return the object to it's original orientation.
 
 the (![icon](/images/127.PNG)) icon will rotate the model as little as possible to ensure a flat surface is laying against the print bed.
