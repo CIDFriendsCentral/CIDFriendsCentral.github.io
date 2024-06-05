@@ -2,6 +2,7 @@
 title = 'Cutting'
 date = 2024-05-07T15:15:22-04:00
 draft = false
+weight=7
 +++
 
 Once you have your file created, remove the SD card from the Wazer and plug it into your computer. Drag your file onto the SD card, eject it, and plug it back into the machine. Turn the machine on and use the keypad to navigate to select cut file. From there, select the file you wish to cut.
