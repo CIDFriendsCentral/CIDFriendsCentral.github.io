@@ -31,4 +31,4 @@ To move things around in Aspire, use "Transform Mode" - the third tool from the 
 
 You can save Aspire files by pressing File > Save or pressing Ctrl + S. Aspire does not autosave your files, so remember to save them before you close the program.
 
-Once you have uploaded or created your vectors, move to the Path section
+Once you have uploaded or created your vectors, move to the Path section.
