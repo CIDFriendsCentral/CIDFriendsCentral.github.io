@@ -18,7 +18,7 @@ Click to show the options for material selection and select the one currently lo
 
 ## Print Settings
 
-Now move to the print settings menu. There you will see lots of options, which I will briefly review here 
+Now move to the print settings menu. There you will see lots of options, which I will briefly review here .
 
 ![image](/images/170.png)
 
@@ -34,13 +34,13 @@ Firstly you will see a list of **Profiles**. These are the easiest way to select
 
 ### Other Settings
 
-There are lots of other settings that can be adapted, we will briefly review the most important
+There are lots of other settings that can be adapted, we will briefly review the most important.
 
 #### Infill
 
 ##### Infill Density
 
-Int the infill section, the `Infill Density` dropdown will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full
+Int the infill section, the `Infill Density` dropdown will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full.
 
 ![image](/images/135.png)
 
@@ -85,11 +85,11 @@ Triangle is the recommended setting but this choice has little effect on the ove
 
 #### Support 
 
-Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print
+Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print.
 
 #### Adhesion
 
-Adhesion provides a way for you to help the print stick to the print bed better. There are a few options for this
+Adhesion provides a way for you to help the print stick to the print bed better. There are a few options for this.
 
 `Skirt` Simply outlines the shape before printing it, this does not help much with adhesion though.
 
@@ -99,13 +99,13 @@ Adhesion provides a way for you to help the print stick to the print bed better.
 
 ![image](/images/174.png)
 
-`Raft` creates a small 3d bubble below your print that is very large
+`Raft` creates a small 3d bubble below your print that is very large.
 
 ![image](/images/175.png)
 
 `None` generates no adhesion support
 
-It is recommended to select `Brim` for any print with only a small area touching the bed
+It is recommended to select `Brim` for any print with only a small area touching the bed.
 
 
 #### Vase Mode
@@ -120,4 +120,4 @@ Many other specific settings can be tuned however there are far too many to cove
 
 ## Done?
 
-Once you have your preferred settings set, move to the slicing files section
+Once you have your preferred settings set, move to the slicing files section.
