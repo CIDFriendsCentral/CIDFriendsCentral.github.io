@@ -9,7 +9,7 @@ Once you have your file created, remove the SD card from the Wazer and plug it i
 
 
 
-![image](/images/284.png)
+![image](/images/284.jpg)
 
 
 
@@ -17,13 +17,13 @@ You will then be prompted to lift the nozzle when a screen pops up.
 
 
 
-![image](/images/285.png)
+![image](/images/285.jpg)
 
 
 Loosen the silver knob on the cut head and lift up the nozzle.
 
 
-![image](/images/286.png)
+![image](/images/286.jpg)
 
 
 Once you are done that, hit OK
@@ -42,14 +42,14 @@ The screen will then prompt you to set the nozzle height.
 
 
 
-![image](/images/287.png)
+![image](/images/287.jpg)
 
 
 
 Use the arrow keys to move the nozzle head above your material and loosen the silver knob again. Then remove the black cap and place it with the tab under the nozzle
 
 
-![image](/images/288.png)
+![image](/images/288.jpg)
 
 
 
