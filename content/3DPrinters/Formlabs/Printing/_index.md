@@ -17,4 +17,4 @@ In this menu you can either press `Add to Queue` or `Print Now`.
 
 `Print Now` starts the job immediately. Your object should print shortly.
 
-Once the print has finished, go to the removing print section.
+Once the print has finished, go to the [Removing From Bed](https://cid.friendscentral.org/3dprinters/formlabs/removingfrombed/index.html) section.
