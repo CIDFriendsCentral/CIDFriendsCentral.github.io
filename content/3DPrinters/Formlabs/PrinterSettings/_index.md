@@ -31,4 +31,4 @@ Don't worry about the **Other Settings** as we do not have the hardware for thos
 
 ## Done?
 
-When you are happy with your settings, hit the {{% badge %}}Apply{{% /badge %}} button in the bottom right and move to the printing section.
+When you are happy with your settings, hit the {{% badge %}}Apply{{% /badge %}} button in the bottom right and move to the [Printing](https://cid.friendscentral.org/3dprinters/formlabs/printing/index.html) section.
