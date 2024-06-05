@@ -10,7 +10,7 @@ weight = 1
 
 To upload files to the FormLabs printer first open the **PreForm** application.
 
-![image](/images/1.png)
+![image](/images/pres.png)
 
 Then drag and drop your intended file into the work area of the window
 
