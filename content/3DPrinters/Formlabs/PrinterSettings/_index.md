@@ -7,7 +7,7 @@ weight = 2
 +++
 ---
 
-Now that you have your print set up, click the {{% badge %}}Printer{{% /badge %}} button in the top left
+Now that you have your print set up, click the {{% badge %}}Printer{{% /badge %}} button in the top left.
 
 ### Choose Printer
 
