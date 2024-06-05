@@ -11,7 +11,7 @@ Once your file is set up properly, we will now set up the machine to cut it.
 
 First click the tab labeled `Material` 
 
-![image](/images/1.png)
+![image](/images/275.png)
 
 Then select the material currently loaded in the Water Cutter
 
@@ -19,7 +19,7 @@ Then select the material currently loaded in the Water Cutter
 
 Next select `Cutting Path`
 
-![image](/images/1.png)
+![image](/images/276.png)
 
 This will show the exact way that the cutter will cut your file. if you want to keep the piece outside of your file select inside, and if you want to keep the piece inside of your file select outside. Otherwise hit centerline.
 
@@ -29,7 +29,7 @@ This will show the exact way that the cutter will cut your file. if you want to 
 
 Select `Tabs and Leads` next.
 
-![image](/images/1.png)
+![image](/images/277.png)
 
 Tabs will be little bits of material that keep the material steady while cutting. You can either choose to manually place tabs by clicking along your path, or choose a number of tabs in the `Tab count` box and click `Automatic Tab Placement`
 
@@ -39,7 +39,7 @@ Leads will tell the machine to stray off the cut path to make more precise cuts 
 
 FInally select `Cut`
 
-![image](/images/1.png)
+![image](/images/278.png)
 
 There you can select the quality of your cut, where higher quality takes more time and sediment.
 
