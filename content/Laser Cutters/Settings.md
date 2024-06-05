@@ -102,5 +102,5 @@ Ignore will make the cutter completely ignore the object and not cut it at all.
 
 ## Done?
 
-Once you have your settings set, move to the Process Ordering page.
+Once you have your settings set, move to the [Process Ordering](https://cid.friendscentral.org/laser-cutters/process/index.html) page.
 
