@@ -7,8 +7,6 @@ weight = 1
 
 To cut a file on the water cutter, first open up https://wam.wazer.com
 
-![image](/images/271.png)
-
 There you will need to sign in, get an adult to sign into the website for you.
 
 Once you sign in, the workspace will open up automatically
@@ -33,7 +31,7 @@ You can also import another file by clicking `Import File` again.
 
 To scale and position your file, click `Scale and Position` and then click the object you wish to manipulate.
 
-Image
+![image](/images/271.png)
 
 A menu will pop up wil a few options.
 
