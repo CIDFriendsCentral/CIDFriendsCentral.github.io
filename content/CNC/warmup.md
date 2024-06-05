@@ -8,7 +8,7 @@ weight=6
 Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn't break.
 
 
-First, go to shopbot full mode by pressing the blue question mark button [?] and then pressing "Switch to FULL" at the bottom of the menu that comes up afterwards. In shopbot full mode, press the keyboard keys, "C", and then "5" to start the process, or navigate there with the top menu.
+First, go to shopbot full mode by pressing the blue question mark button {{% badge %}}?{{% /badge %}} and then pressing {{% badge %}}Switch to FULL{{% /badge %}} at the bottom of the menu that comes up afterwards. In shopbot full mode, press the keyboard keys, `C`, and then `5` to start the process, or navigate there with the top menu.
 
 
-The process consists of the spindle spinning at 3 different speeds for 3 minutes each. After roughly 9 minutes and 3 seconds, the warm-up routine will be complete. When you are done, be sure to change the shopbot controls back to easy mode by pressing the blue "EASY" button.
+The process consists of the spindle spinning at 3 different speeds for 3 minutes each. After roughly 9 minutes and 3 seconds, the warm-up routine will be complete. When you are done, be sure to change the shopbot controls back to easy mode by pressing the blue {{% badge %}}EASY{{% /badge %}} button.
