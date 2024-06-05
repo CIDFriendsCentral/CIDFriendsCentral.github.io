@@ -15,5 +15,5 @@ The cutter will do the steps in the left bar from top to bottom.
 
 Take any engraving and scoring steps, and drag them upwards, and take any cutting steps and drag them downwards. This way pieces will not move after being cut and be misaligned for engraving.
 
-Once you are done this, move to Printing.
+Once you are done this, move to [Printing](https://cid.friendscentral.org/laser-cutters/printing/index.html).
 
