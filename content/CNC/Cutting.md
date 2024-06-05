@@ -9,7 +9,7 @@ Once you have the file, and have secured your material and warmed up the machine
 
 ![image](/images/258.png)
 
-Then open the manual control panel by clicking the yellow box
+Then open the manual control panel by clicking the yellow box.
 
 ![image](/images/259.png)
 
