@@ -26,4 +26,4 @@ Now for the bit selection, hit `Select` and then look for a bit that is the same
 
  ![image](/images/257.jpg)
 
-You now have your cut file, and you are free to cut like any other piece. Go to the cutting section. 
+You now have your cut file, and you are free to cut like any other piece. Go to the [Securing Material](https://cid.friendscentral.org/cnc/securing/index.html) section. 
