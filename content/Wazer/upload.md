@@ -9,21 +9,21 @@ To cut a file on the water cutter, first open up https://wam.wazer.com
 
 There you will need to sign in, get an adult to sign into the website for you.
 
-Once you sign in, the workspace will open up automatically
+Once you sign in, the workspace will open up automatically.
 
 ![image](/images/272.png)
 
 ### Uploading
 
-To upload your file click `Import File` and select your SVG or DXF file
+To upload your file click `Import File` and select your SVG or DXF file.
 
 ![image](/images/273.png)
 
-Once you have done that, you will see the name of your part, as well as some options
+Once you have done that, you will see the name of your part, as well as some options.
 
 ![image](/images/274.png)
 
-You can add or subtract copies by hitting the + or - buttons, or split a file into it's individual components by hitting the rectangle under `Split`
+You can add or subtract copies by hitting the + or - buttons, or split a file into it's individual components by hitting the rectangle under `Split`.
 
 You can also import another file by clicking `Import File` again.
 
@@ -43,4 +43,4 @@ You can scale it to a percentage of the original size with the `Scale` box or se
 
 ## Done?
 
-Once you are happy with the positioning, move to the Cut Settings page
+Once you are happy with the positioning, move to the Cut Settings page.
