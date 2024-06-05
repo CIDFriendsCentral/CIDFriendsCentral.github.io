@@ -120,4 +120,4 @@ Many other specific settings can be tuned however there are far too many to cove
 
 ## Done?
 
-Once you have your preferred settings set, move to the slicing files section.
+Once you have your preferred settings set, move to the [Slicing Files](https://cid.friendscentral.org/3dprinters/lulzbot/slicefiles/index.html) section.
