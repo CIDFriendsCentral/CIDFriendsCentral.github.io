@@ -49,4 +49,4 @@ Once you are done that, hit `Generate Job File` and the g-code will download to 
 
 ## Done?
 
-Once you have done this, move to the securing section.
+Once you have done this, move to the [Securing Material](https://cid.friendscentral.org/wazer/secruing/index.html) section.
