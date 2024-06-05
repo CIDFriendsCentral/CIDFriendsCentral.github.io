@@ -9,7 +9,7 @@ weight = 2
 
 Once you are satified with the object placement, move to the right menu.
 
-![image](/images/91.png)
+![image](/images/91.PNG)
 
 ### Print settings
 
@@ -37,17 +37,17 @@ The options in the dropdown designate where supports generate, and gives 4 optio
 
 `None` will not create any supports
 
-![image](/images/92.png)
+![image](/images/92.PNG)
 
 `Support on Buildplate Only` will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support
 
-![image](/images/93.png)
+![image](/images/93.PNG)
 
 `For Support Enforcers Only` only puts supports in specified spots, either by you or the model itself.
 
 `Everywhere` means any overhang will be supported, no matter where on the print it is.
 
-![image](/images/94.png)
+![image](/images/94.PNG)
 
 It is recommended to use `Everywhere` when overhangs are present.
 
@@ -63,11 +63,11 @@ Anything down to `10%` will be self supporting enough, although `20%` is recomme
 
 The brim helps prints stick to the print bed and avoid shifting and warping off of the bed. It is recommended to keep this setting selected for any print.
 
-![image](/images/96.png)
+![image](/images/96.PNG)
 
 ### Part Specific Settings.
 
-In the part menu, you can select and change settings for specific parts by clicking the (![icon](/images/97.png)) icon
+In the part menu, you can select and change settings for specific parts by clicking the (![icon](/images/97.PNG)) icon
 
 The full scope of this will not be covered on this website.
 
