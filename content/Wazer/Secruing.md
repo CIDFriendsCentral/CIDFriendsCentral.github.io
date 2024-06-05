@@ -6,7 +6,7 @@ weight=3
 +++
 ---
 
-To secure the material, place it on the print bed, roughly centered. Then take the screws that are with the Wazer and screw them in on each side of you material 
+To secure the material, place it on the print bed, roughly centered. Then take the screws that are with the Wazer and screw them in on each side of you material.
 
 
 
@@ -14,4 +14,4 @@ To secure the material, place it on the print bed, roughly centered. Then take t
 
 
 
-Your material is now ready to cut
+Your material is now ready to cut.
