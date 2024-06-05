@@ -6,7 +6,7 @@ draft = false
 +++
 ---
 
-Once you have your vector file, we will create cut paths for the file
+Once you have your vector file, we will create cut paths for the file.
 
 Once you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.
 
@@ -22,7 +22,7 @@ To create a toolpath: first, select the vector that you would like to turn into 
 
 ![image](/images/244.png)
 
-When the settings are correct, scroll down to the bottom of the tab with the scrollbar on the right and click the {{% badge %}}Calculate{{% /badge %}} button to finish making the toolpath. This will display a preview of your cuts. Hit `Clear Preview` and then `Preview all Paths` to see what the paths will carve
+When the settings are correct, scroll down to the bottom of the tab with the scrollbar on the right and click the {{% badge %}}Calculate{{% /badge %}} button to finish making the toolpath. This will display a preview of your cuts. Hit `Clear Preview` and then `Preview all Paths` to see what the paths will carve.
 
 ![image](/images/245.png)
 
