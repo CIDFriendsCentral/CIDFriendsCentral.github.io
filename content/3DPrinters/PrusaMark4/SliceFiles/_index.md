@@ -5,7 +5,7 @@ date = 2024-05-08T09:33:55-04:00
 draft = false
 weight = 3
 +++
-
+---
 Once you have set up your print how you want it, press the {{% badge %}}Slice{{% /badge %}} button in the bottom right.
 
 insert ![image](/images/98.PNG)
