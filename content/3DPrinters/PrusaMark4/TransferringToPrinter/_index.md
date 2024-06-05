@@ -6,7 +6,7 @@ draft = false
 weight = 4
 +++
 ---
-Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to **PrusaSlicer** and look to the bottom right. Click the (![icon](/images/103.PNG)) icon and hit `Save` when the window appears
+Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to **PrusaSlicer** and look to the bottom right. Click the (![icon](/images/103.PNG)) icon and hit `Save` when the window appears.
 
 ![image](/images/104.PNG)
 
