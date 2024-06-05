@@ -5,25 +5,25 @@ draft = false
 weight = 1
 +++
 
-To cut a file on the laser cutter, first open up link (wam.wazer.com)
+To cut a file on the water cutter, first open up https://wam.wazer.com
 
-![image](/images/1.png)
+![image](/images/271.png)
 
 There you will need to sign in, get an adult to sign into the website for you.
 
 Once you sign in, the workspace will open up automatically
 
-![image](/images/1.png)
+![image](/images/272.png)
 
 ### Uploading
 
 To upload your file click `Import File` and select your SVG or DXF file
 
-![image](/images/1.png)
+![image](/images/273.png)
 
 Once you have done that, you will see the name of your part, as well as some options
 
-![image](/images/1.png)
+![image](/images/274.png)
 
 You can add or subtract copies by hitting the + or - buttons, or split a file into it's individual components by hitting the rectangle under `Split`
 
