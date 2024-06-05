@@ -72,7 +72,7 @@ It is recommended to rotate the object so that the least amount of overhang is a
 
 And the maximum amount of the print is touching the build plate, shown by the light blue highlight:
 
-![image](/images/125.PNG)
+![image](/images/125.png)
 
 Again a menu with certain options will also appear next to the (![icon](/images/122.PNG)) icon
 
