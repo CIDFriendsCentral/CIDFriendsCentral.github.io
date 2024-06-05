@@ -53,33 +53,33 @@ This allows for a selection of how the infill will be created, and the options a
 
 
 Grid
-![image](/images/136.1.png)
+![image](/images/136.1.PNG)
 Lines
-![image](/images/136.2.png)
+![image](/images/136.2.PNG)
 Triangles
-![image](/images/136.3.png)
+![image](/images/136.3.PNG)
 Trihexagon
-![image](/images/136.4.png)
+![image](/images/136.4.PNG)
 Cubic
-![image](/images/136.5.png)
+![image](/images/136.5.PNG)
 Cubic Subdivision
-![image](/images/136.6.png)
+![image](/images/136.6.PNG)
 Octet
-![image](/images/136.7.png)
+![image](/images/136.7.PNG)
 Quarter Cubic
-![image](/images/136.8.png)
+![image](/images/136.8.PNG)
 Concentric
-![image](/images/136.9.png)
+![image](/images/136.9.PNG)
 Zig Zag
-![image](/images/136.10.png)
+![image](/images/136.10.PNG)
 Cross
-![image](/images/136.11.png)
+![image](/images/136.11.PNG)
 Cross 3d
-![image](/images/136.12.png)
+![image](/images/136.12.PNG)
 Gyroid
-![image](/images/136.13.png)
+![image](/images/136.13.PNG)
 Lightning
-![image](/images/136.14.png)
+![image](/images/136.14.PNG)
 
 Triangle is the recommended setting but this choice has little effect on the overall print.
 
