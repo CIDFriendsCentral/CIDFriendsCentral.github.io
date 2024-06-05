@@ -6,7 +6,7 @@ draft = false
 weight = 2
 +++
 
-Once you have your object oriented as desired, select your material
+Once you have your object oriented as desired, select your material.
 
 ## Material selection
 
@@ -18,7 +18,7 @@ Click to show the options for material selection and select the one currently lo
 
 ## Print Settings
 
-Now move to the print settings menu. There you will see lots of options, which I will briefly review here .
+Now move to the print settings menu. There you will see lots of options, which I will briefly review here.
 
 ![image](/images/170.png)
 
