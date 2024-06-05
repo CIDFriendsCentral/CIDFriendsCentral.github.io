@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/3dprinters/index.html</loc>
+    <lastmod>2024-05-08T09:34:44-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/3dprinters/formlabs/index.html</loc>
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
@@ -33,11 +37,11 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+    <loc>http://localhost:1313/laser-cutters/upload/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/upload/index.html</loc>
+    <loc>http://localhost:1313/wazer/upload/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -61,16 +65,16 @@
     <lastmod>2024-05-08T09:33:28-04:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/wazer/cutsettings/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/laser-cutters/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/laser-cutters/material/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/index.html</loc>
-    <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</loc>
@@ -145,6 +149,10 @@
     <lastmod>2024-05-08T09:33:43-04:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</loc>
+    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/3dprinters/formlabs/changingfilament/index.html</loc>
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
@@ -177,30 +185,6 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cnc/2d-cutting/cutting/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/3d-cutting/cutting/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/3d-cutting/finishing/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/2d-cutting/materialselection/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/3d-cutting/materialselection/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/3d-cutting/outline/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/cnc/2d-cutting/path/index.html</loc>
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
@@ -217,27 +201,11 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cnc/abszero/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
+    <loc>http://localhost:1313/cnc/cutting/index.html</loc>
+    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/wazer/cutsettings/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/orientation/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/orientationproject/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/laser-cutters/orientation/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/wazer/orientation/index.html</loc>
+    <loc>http://localhost:1313/wazer/transfer/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -249,23 +217,11 @@
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/wazer/transfer/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/cnc/troubleshooting/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/wazer/upload/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/wazer/setup/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/zeroing/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
