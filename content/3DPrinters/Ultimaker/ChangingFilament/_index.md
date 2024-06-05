@@ -11,7 +11,7 @@ To change the filament on the printer, go to the home menu and click the (![icon
 
 ![image](/images/145.PNG)
 
-To change the filament, go to the extruder that you wish to change, and press the top button over that extruder number. Another menu will appear then
+To change the filament, go to the extruder that you wish to change, and press the top button over that extruder number. Another menu will appear then.
 
 ![image](/images/146.PNG) 
 
