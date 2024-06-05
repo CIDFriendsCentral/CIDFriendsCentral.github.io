@@ -77,6 +77,6 @@ In the top left you will see tabs wil more settings. These can affect more speci
 
 ## Done?
 
-Once your settings are as desired, move to the slicing section.
+Once your settings are as desired, move to the [Slicing Files](https://cid.friendscentral.org/3dprinters/prusamark4/slicefiles/index.html) section.
 
 
