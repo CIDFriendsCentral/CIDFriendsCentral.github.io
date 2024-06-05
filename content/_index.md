@@ -8,7 +8,7 @@ title: Home
 
 ## Welcome!
 
-Welcome to the CID, Friends Central's newest space, built to inspire creation and creativity.
+Welcome to the CID, Friends' Central's newest space, built to inspire creation and creativity.
 
 ![image](/images/pres.png)
 
