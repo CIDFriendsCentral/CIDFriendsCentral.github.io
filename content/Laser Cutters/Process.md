@@ -4,7 +4,7 @@ date = 2024-05-07T15:15:22-04:00
 draft = false
 weight = 4
 +++
-
+---
 Once you have your cut settings set, close out any open menus. 
 
 Now it is important to order the cuts in an appropriate order. 
