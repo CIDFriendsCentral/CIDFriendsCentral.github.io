@@ -134,9 +134,7 @@ You can edit the way supports generate in the **Basic Settings** section.
 
 `Raft Type` will change how the support raft generates, either Full Rafts, Mini Rafts, or None
 
-![image](/images/26.1.PNG)
-![image](/images/26.2.PNG)
-![image](/images/26.3.PNG)
+![image](/images/26.png)
 
 `Raft Label` will place the name of the object on the rim of the raft
 
