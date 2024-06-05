@@ -10,19 +10,19 @@ weight = 1
 
 To upload files to the FormLabs printer first open the **PreForm** application.
 
-![image](/images/pres.png)
+![image](/images/1.PNG)
 
 Then drag and drop your intended file into the work area of the window
 
-![image](/images/2.png)
+![image](/images/2.PNG)
 
 From here you have a few options about how to set up your print. 
 
 ### One Click Print
 
-The simplest is to hit the (![icon](/images/3.png)) icon and use `One Click Print`
+The simplest is to hit the (![icon](/images/3.PNG)) icon and use `One Click Print`
 
-![image](/images/4.png)
+![image](/images/4.PNG)
 
 Hit the {{% badge %}}Set Up Your Print{{% /badge %}} button and the app will automatically rotate your model and add supports for the best print generation. 
 
