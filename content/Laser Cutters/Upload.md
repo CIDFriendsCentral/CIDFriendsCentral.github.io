@@ -6,7 +6,7 @@ weight = 1
 +++
 ---
 
-To bring your file into the Laser Cutters first go to `glowforge.com`. There you will see a website with many options. 
+To bring your file into the Laser Cutters first go to https://glowforge.com There you will see a website with many options. 
 
 ![image](/images/174.10.png)
 
