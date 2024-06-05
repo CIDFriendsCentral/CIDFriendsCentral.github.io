@@ -5,7 +5,7 @@ draft = false
 weight = 1
 +++
 
-To cut a file on the water cutter, first open up https://wam.wazer.com
+To cut a file on the water cutter, first open up https://wam.wazer.com.
 
 There you will need to sign in, get an adult to sign into the website for you.
 
