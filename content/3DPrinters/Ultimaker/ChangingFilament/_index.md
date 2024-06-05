@@ -9,11 +9,11 @@ weight = 7
 
 To change the filament on the printer, go to the home menu and click the (![icon](/images/screwup3.png)) icon. The following menu should then appear.
 
-![image](/images/145.png)
+![image](/images/145.PNG)
 
 To change the filament, go to the extruder that you wish to change, and press the top button over that extruder number. Another menu will appear then
 
-![image](/images/146.png) 
+![image](/images/146.PNG) 
 
 `Load` will let you load a filament into the printer. Follow the instructions on the screen.
 
