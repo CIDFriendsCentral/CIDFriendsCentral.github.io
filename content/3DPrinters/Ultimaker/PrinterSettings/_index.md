@@ -10,7 +10,7 @@ weight = 2
 
 Once you have your object oriented as desired, move to the print settings menu.
 
-There you will see lots of options, which I will briefly review here 
+There you will see lots of options, which I will briefly review here.
 
 ![image](/images/134.PNG)
 
@@ -36,7 +36,7 @@ Below it may say "Recommended settings for _____ were altered". Clicking the rew
 
 ##### Infill Density
 
-This slider will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full
+This slider will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full.
 
 ![image](/images/135.png)
 
@@ -81,15 +81,15 @@ Triangles is the recommended setting but this choice has little effect on the ov
 
 ##### Shell Thickness
 
-This lets you set the thickness of the outer shells of the print, with the first box designating the side walls, and the second designating the top and bottom
+This lets you set the thickness of the outer shells of the print, with the first box designating the side walls, and the second designating the top and bottom.
 
 ### Support 
 
-Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print
+Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print.
 
 ##### Support Type
 
-This box allows for two choices, `Normal` and `Tree`
+This box allows for two choices, `Normal` and `Tree`.
 
 `Normal` creates sheets of support under your print, connected at top and bottom:
 
@@ -99,15 +99,15 @@ This box allows for two choices, `Normal` and `Tree`
 
 ![image](/images/138.PNG)
 
-`Normal` is the recommended setting unless it creates particularly hard to remove sections with print trapped between support on all sides
+`Normal` is the recommended setting unless it creates particularly hard to remove sections with print trapped between support on all sides.
 
 ##### Placement
 
-Placement designates where supports generate, and gives two options, `Everywhere` and `Touching Buildplate`
+Placement designates where supports generate, and gives two options, `Everywhere` and `Touching Buildplate`.
 
 `Everywhere` means any overhang will be supported, no matter where on the print it is.
 
-`Touching Buildplate` will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support
+`Touching Buildplate` will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support.
 
 It is recommended to use `Everywhere` when overhangs are present.
 
@@ -117,9 +117,9 @@ Adhesion helps prints stick to the print bed and avoid shifting and warping off 
 
 ### Custom Settings
 
-Many other specific settings can be tuned by clicking `Show Custom` however there are far too many to cover in this guide, so look to a more specific guide on the Cura Slicer for information on that
+Many other specific settings can be tuned by clicking `Show Custom` however there are far too many to cover in this guide, so look to a more specific guide on the Cura Slicer for information on that.
 
 ## Done?
 
-Once you have your preferred settings set, move to the slicing files section
+Once you have your preferred settings set, move to the slicing files section.
 
