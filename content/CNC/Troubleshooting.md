@@ -10,7 +10,7 @@ The two most common things to go wrong are a USB Control Box Problem or True Zer
 
 A USB control box problem happens when there is a yellow box on the computer that says there's a "USB control box problem!".
 
-![image](/images/1.png)
+![image](/images/270.png)
 
 When there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press "retry control box" on the computer.
 
