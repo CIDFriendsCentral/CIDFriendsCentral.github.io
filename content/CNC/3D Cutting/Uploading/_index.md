@@ -3,8 +3,9 @@ alwaysopen = false
 title = 'Uploading Files'
 date = 2024-05-08T09:32:56-04:00
 draft = false
+weight=1
 +++
-
+---
 To begin to create a 3D part, meaning any shape that is not a flat design or simple prism, you will want to create the file outside of Aspire first. There is some modeling functionality in Aspire but it will be much easier to create the part with a different software.Once you have your 3d part created, export it as an .obj or .stl file.
 
 Once you have your file, open it with Aspire, edit the job settings as you would with a 2d part, and you will have your file, likely much larger than you intended.
