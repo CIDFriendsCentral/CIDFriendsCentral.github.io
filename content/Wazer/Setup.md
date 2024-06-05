@@ -18,7 +18,7 @@ Then to set up the sediment, go to the left side of the Wazer and pull out the d
 
 
 
-Image
+![image](/images/280.png)
 
 
 
@@ -26,7 +26,7 @@ Then slowly pour the abrasive through the screens on top of the cups until the c
 
 
 
-Image
+![image](/images/281.png)
 
 
 
@@ -34,7 +34,7 @@ Next we will remove the used sediment. Open the lid and remove the front black p
 
 
 
-Image
+![image](/images/282.png)
 
 
 
@@ -42,7 +42,7 @@ Inside you will see two buckets. Empty them into the used sediment bin.
 
 
 
-Image
+![image](/images/283.png)
 
 
 
