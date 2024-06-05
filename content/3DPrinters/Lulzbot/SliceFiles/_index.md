@@ -6,7 +6,7 @@ draft = false
 weight = 3
 +++
 
-Once you have set up your print how you want it, press the {{% badge %}}slice{{% /badge %}} button in the bottom right
+Once you have set up your print how you want it, press the {{% badge %}}slice{{% /badge %}} button in the bottom right.
 
 insert ![image](/images/177.png)
 
@@ -16,4 +16,4 @@ insert ![image](/images/178.png)
 
 Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.
 
-Once you have done this, move to the transferring files section
+Once you have done this, move to the transferring files section.
