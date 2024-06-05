@@ -32,7 +32,7 @@ Next go to the drawing tools and get the rectangle tool. Create a rectangle arou
 
 ![image](/images/252.jpg)
 
-Then move to the rough/smooth carve section.
+Then move to the [Smooth and Rough Carving](https://cid.friendscentral.org/cnc/3d-cutting/smoothrough/index.html) section.
 
 
 
