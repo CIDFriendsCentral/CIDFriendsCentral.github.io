@@ -3,7 +3,7 @@
   <channel>
     <title>Changing Filament :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/changingfilament/index.html</link>
-    <description>To change the filament on the printer, go to the home menu and click the (icon) icon. The following menu should then appear.&#xA;image&#xA;To change the filament, go to the extruder that you wish to change, and press the top button over that extruder number. Another menu will appear then&#xA;image&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament.</description>
+    <description>To change the filament on the printer, go to the home menu and click the ( ) icon. The following menu should then appear.&#xA;To change the filament, go to the extruder that you wish to change, and press the top button over that extruder number. Another menu will appear then&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

@@ -10,7 +10,7 @@ weight = 5
 
 Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using
 
-Image
+![image](/images/227.png)
 
 The "Glowforge" has the slot in the front for passthrough cutting while the "Glowforge II" does not.
 
@@ -22,21 +22,21 @@ The two things to look out for are:
 
 1. Make sure your object is not over any holes in your material.
 
-image
+![image](/images/228.png)
 
 2. If possible, try to move your object to leave the biggest space possible for others to cut.
 
-image
+![image](/images/229.png)
 
 ### Printing
 
 When you are ready to print, click the {{% badge %}}Print{{% /badge %}} button in the top right
 
-Image
+![image](/images/230.png)
 
 From there the printer will begin the printing process, and eventually show a menu. 
 
-Image
+![image](/images/231.png)
 
 When this menu shows, check once again that your object is not over any holes as the bed image often shifts slightly when you do this.
 

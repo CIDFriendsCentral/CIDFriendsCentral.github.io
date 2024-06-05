@@ -8,11 +8,11 @@ weight = 3
 
 Once you have set up your print how you want it, press the {{% badge %}}slice{{% /badge %}} button in the bottom right
 
-insert picture
+insert ![image](/images/177.png)
 
 Once you do this, you will se a new tab appear, **Preview**. This allows you to look at the exact printing path of the printer.
 
-insert image
+insert ![image](/images/178.png)
 
 Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.
 

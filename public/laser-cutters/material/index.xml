@@ -3,7 +3,7 @@
   <channel>
     <title>Material Selection :: CID guide website</title>
     <link>http://localhost:1313/laser-cutters/material/index.html</link>
-    <description>Once your design is ready, select what material you wish to use from the bins near the laser cutters.&#xA;Image&#xA;Once you have loaded the material into the cutter, go to the top left corner of your workspace and click the button which will either be labeled Unknown Material or some other material name. This will open up a menu.&#xA;Image&#xA;Use the search bar to select the type of material you are using.</description>
+    <description>Once your design is ready, select what material you wish to use from the bins near the laser cutters.&#xA;Once you have loaded the material into the cutter, go to the top left corner of your workspace and click the button which will either be labeled Unknown Material or some other material name. This will open up a menu.&#xA;Use the search bar to select the type of material you are using.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

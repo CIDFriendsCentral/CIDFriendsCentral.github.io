@@ -43,7 +43,7 @@ This is the official CID tool documentation webstie, cataloging many of the tool
 
 
 
-This is **bold** text, and this is *emphasized* text.
+This is **bold** text, and this is `emphasized` text.
 
 
 # H1

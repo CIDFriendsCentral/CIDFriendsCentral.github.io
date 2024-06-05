@@ -8,22 +8,22 @@ weight = 5
 
 Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically
 
-Image
+![image](/images/107.png)
 
 If this is the file you wish to print, simply click the knob and it will begin printing
 
-Image
+![image](/images/108.png)
 
-If the file doesnt appear or the file that appears isn't the file you wish to print, navigate to the home menu.
+If the file doesn't appear or the file that appears isn't the file you wish to print, navigate to the home menu.
 
-Image
+![image](/images/109.png)
 
-Select *Print*
+Select `Print`
 
-Image
+![image](/images/110.png)
 
 then select the name of your file you wish to print. A menu will appear allowing you to confirm your selection.
 
-Image
+![image](/images/107.png)
 
 Hit print once you confirm it is the right file.

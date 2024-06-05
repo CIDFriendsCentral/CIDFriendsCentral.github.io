@@ -6,10 +6,10 @@ draft = false
 ---
 Once you are ready to secure your material to the bed, first take blue tape or painters tape and cover the bottom surface of your material in the area of your cut and the area on the bed where you want to attach the object. 
 
-Image
+![image](/images/1.png)
 
 Then take superglue and put a thin spread on the tape on the bed. **DO NOT PUT SUPERGLUE ON THE BED ITSELF**. Take the accelerant and spray it onto the tape on the bottom of your object, and push the object down onto the bed and hold it there for a few seconds. 
 
-Image
+![image](/images/1.png)
 
 Your object will be attached to the bed securely. Once you are done cutting, simply pull the tape off of the bed and your object.

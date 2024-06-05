@@ -3,7 +3,7 @@
   <channel>
     <title>Adjust Settings :: CID guide website</title>
     <link>http://localhost:1313/laser-cutters/settings/index.html</link>
-    <description>Once you have your material selected, we can start choosing how we want each shape to be cut.&#xA;Image&#xA;On the left of the screen will show all individual objects in the workspace. Click on the object you wish to change the settings of.&#xA;Image&#xA;Cut Options A menu will appear, with various options. First let’s look at the top menu. Each of the options on the top menu will cut the object in a different way.</description>
+    <description>Once you have your material selected, we can start choosing how we want each shape to be cut.&#xA;On the left of the screen will show all individual objects in the workspace. Click on the object you wish to change the settings of.&#xA;Cut Options A menu will appear, with various options. First let’s look at the top menu. Each of the options on the top menu will cut the object in a different way.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

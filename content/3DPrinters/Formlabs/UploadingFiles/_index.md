@@ -10,23 +10,23 @@ weight = 1
 
 To upload files to the FormLabs printer first open the **PreForm** application.
 
-Image
+![image](/images/1.png)
 
 Then drag and drop your intended file into the work area of the window
 
-Image
+![image](/images/2.png)
 
 From here you have a few options about how to set up your print. 
 
 ### One Click Print
 
-The simplest is to hit the (icon) icon and use *One Click Print*
+The simplest is to hit the (![icon](/images/3.png)) icon and use `One Click Print`
 
-Image
+![image](/images/4.png)
 
 Hit the {{% badge %}}Set Up Your Print{{% /badge %}} button and the app will automatically rotate your model and add supports for the best print generation. 
 
-Image
+![image](/images/5.png)
 
 It will also pop up the printing menu, which we will discuss in the **Printing** section.
 
@@ -36,77 +36,75 @@ It will also pop up the printing menu, which we will discuss in the **Printing**
 
 To move the print around the print bed, first click the item you wish to move, and you will see two arrows pop up around your shape, as well as 3 quarter rings.
 
-picture
+![image](/images/6.png)
 
 Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.
 
-You can also rotate it by grabbing and dragging the quarter rings or the (icon) icon
+You can also rotate it by grabbing and dragging the quarter rings or the (![icon](/images/7.png)) icon
 
-picture
+
 
 It is recommended to rotate the object so that the least amount of overhang is achieved:
 
-image
+![image](/images/8.png)
 
 And there are no shapes that create cups:
 
-image
+![image](/images/9.png)
 
-Again a menu with certain options will also appear next to the (icon) icon
+Again a menu with certain options will also appear next to the (![icon](/images/10.png)) icon
 
-Picture
+![image](/images/11.png)
 
-The *Auto-Orient Selected* will rotate the object to have the optimal setup.
+The `Auto-Orient Selected` will rotate the object to have the optimal setup.
 
-Picture
+![image](/images/12.png)
 
 The {{% badge %}}Orient To Face{{% /badge %}} button will allow you to click on a face of the print and the program will lay it flat against the print bed such that the arrow that appears will point straight down into the bed.
 
-Picture
+![image](/images/13.png)
 
-You can also edit its rotation more precisely by clicking the arrows next to *Orient X*, *Orient Y*, and *Orient Z* to rotate it around those axes.
+You can also edit its rotation more precisely by clicking the arrows next to `Orient X`, `Orient Y`, and `Orient Z` to rotate it around those axes.
 
-Picture
+![image](/images/14.png)
 
-There also is a handful of options labeled *Orient To Bounding Box*. This will lay the face of the rectangular box around the object flat against the bed.
+There also is a handful of options labeled `Orient To Bounding Box`. This will lay the face of the rectangular box around the object flat against the bed.
 
-Image
+![image](/images/15.png)
 
 Finally the {{% badge %}}Reset Selected{{% /badge %}} button will return the object to it's original orientation.
 
 ### Scaling
 
-To scale your object, select the object, then select the (icon) icon. A menu will appear next to the icon.
+To scale your object, select the object, then select the (![icon](/images/16.png)) icon. A menu will appear next to the icon.
 
-Picture
+![image](/images/17.png)
 
 The text boxes allow you to set the scale of the object by a multiple of it's current size and scale it evenly across all axis, or scale the axis separately to the size you specify.
 
-picture
-
 The {{% badge %}}Reset{{% /badge %}} button will set the object to its original dimensions
 
-Alternatively, when you select the object you can grab and drag the (icon) icon the scale it evenly.
+Alternatively, when you select the object you can grab and drag the (![icon](/images/18.png)) icon to scale it evenly.
 
 ### Layout
 
-To manage the layout of the bed, select your object and hit the (icon) icon. A menu will then appear.
+To manage the layout of the bed, select your object and hit the (![icon](/images/19.png)) icon. A menu will then appear.
 
-Image
+![image](/images/20.png)
 
 #### Auto Layout
 
-To automatically layout your objects, you can change the *Model Spacing* and choose whether to select *Overlap Rafts* and *Lock Rotation*. Then hit the {{% badge %}}Layout All{{% /badge %}} button.
+To automatically layout your objects, you can change the `Model Spacing` and choose whether to select `Overlap Rafts` and `Lock Rotation`. Then hit the {{% badge %}}Layout All{{% /badge %}} button.
 
-*Model Spacing* Will dictate how close the pieces end up after placement.
+`Model Spacing` Will dictate how close the pieces end up after placement.
 
-Image
+![image](/images/21.png)
 
-*Overlap Rafts* dictates if the support rafts can overlap
+`Overlap Rafts` dictates if the support rafts can overlap
 
-Image
+![image](/images/22.png)
 
-*Lock Rotation* stops the program from rotating the models while arranging them.
+`Lock Rotation` stops the program from rotating the models while arranging them.
 
 #### Duplication
 
@@ -122,37 +120,37 @@ Hit the {{% badge %}}Mirror Models{{% /badge %}} button to mirror all selected m
 
 ### Supports
 
-To generate supports for your model, hit the (icon) icon and a menu will appear. If you select an object or objects, you can generate supports only for the selected objects, or alternatively generate supports for all objects by not selecting any one particular object. 
+To generate supports for your model, hit the (![icon](/images/23.png)) icon and a menu will appear. If you select an object or objects, you can generate supports only for the selected objects, or alternatively generate supports for all objects by not selecting any one particular object. 
 
-Image
+![image](/images/24.png)
 
 Firstly, you can automatically generate the supports by hitting the {{% badge %}}Auto-Generate All{{% /badge %}} button.
 
-Image
+![image](/images/25.png)
 
 You can paint on supports by hitting the {{% badge %}}Edit{{% /badge %}} button, but the details of that will not be covered here. It is recommended to use the Auto-Generate option instead.
 
 You can edit the way supports generate in the **Basic Settings** section.
 
-*Raft Type* will change how the support raft generates, either Full Rafts, Mini Rafts, or None
+`Raft Type` will change how the support raft generates, either Full Rafts, Mini Rafts, or None
 
-Image
+![image](/images/26.png)
 
-*Raft Label* will place the name of the object on the rim of the raft
+`Raft Label` will place the name of the object on the rim of the raft
 
-Image
+![image](/images/27.png)
 
-*Density* Changes how often the supports will be placed
+`Density` Changes how often the supports will be placed
 
-*Touchpoint Size* changes the area of the contact between the support and the object
+`Touchpoint Size` changes the area of the contact between the support and the object
 
-*Internal Supports* will generate supports between different layers of the object
+`Internal Supports` will generate supports between different layers of the object
 
 **Advanced Settings** has more particular details but will not be covered on this guide.
 
 Hitting the {{% badge %}}Reset{{% /badge %}} button will reset the objects completely.
 
-Once you are happy with the object and support placement, move to the *Printer Settings* section.
+Once you are happy with the object and support placement, move to the `Printer Settings` section.
 
 
 

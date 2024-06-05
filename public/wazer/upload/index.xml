@@ -3,7 +3,7 @@
   <channel>
     <title>Uploading Files :: CID guide website</title>
     <link>http://localhost:1313/wazer/upload/index.html</link>
-    <description>To cut a file on the laser cutter, first open up link (wam.wazer.com)&#xA;image&#xA;There you will need to sign in, get an adult to sign into the website for you.&#xA;Once you sign in, the worksace will open up automatically&#xA;Image&#xA;Uploading To upload your file click Import File and select your SVG or DXF file&#xA;Image&#xA;Once you have done that, you will see the name of your part, as well as some options</description>
+    <description>To cut a file on the laser cutter, first open up link (wam.wazer.com)&#xA;There you will need to sign in, get an adult to sign into the website for you.&#xA;Once you sign in, the workspace will open up automatically&#xA;Uploading To upload your file click Import File and select your SVG or DXF file&#xA;Once you have done that, you will see the name of your part, as well as some options</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

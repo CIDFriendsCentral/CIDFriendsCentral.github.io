@@ -11,13 +11,13 @@ Now that you have your print set up, click the {{% badge %}}Printer{{% /badge %}
 
 ### Choose Printer
 
-Under the choose printer section, select the dropdown and select *Form 3/3+*.
+Under the choose printer section, select the dropdown and select `Form 3/3+`.
 
-Image
+![image](/images/28.png)
 
-Then underneath should appear a row named *AzureGoshawk* which you should select.
+Then underneath should appear a row named `AzureGoshawk` which you should select.
 
-Image
+![image](/images/29.png)
 
 ### Choose Material
 

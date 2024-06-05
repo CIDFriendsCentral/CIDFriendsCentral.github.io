@@ -6,14 +6,14 @@ draft = false
 weight = 4
 +++
 
-To transfer your print to the printer, first make sure the computer is connected to the printer by USB cable, and the printer is on. Then press *Print via USB* in the box in the bottom right and a new menu will appear with the print settings
+To transfer your print to the printer, first make sure the computer is connected to the printer by USB cable, and the printer is on. Then press `Print via USB` in the box in the bottom right and a new menu will appear with the print settings
 
-image
+![image](/images/179.png)
 
-Click the {{% badge %}}Connect{{% /badge %}} button and wait a few seconds. Eventually the box at the top will read *Connected to Printer*
+Click the {{% badge %}}Connect{{% /badge %}} button and wait a few seconds. Eventually the box at the top will read `Connected to Printer`
 
-Once that happens move back to the right menu. Click the {{% badge %}}Pre-Heat{{% /badge %}} buttons in the *Hot End* and *Build Plate* Sections
+Once that happens move back to the right menu. Click the {{% badge %}}Pre-Heat{{% /badge %}} buttons in the `Hot End` and `Build Plate` Sections
 
-image
+![image](/images/180.png)
 
 Once the printer is heated, hit the {{% badge %}}Start Print{{% /badge %}} button to begin the print

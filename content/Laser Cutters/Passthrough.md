@@ -1,5 +1,5 @@
 +++
-title = 'Passthorugh Usage'
+title = 'Passthrough Usage'
 date = 2024-05-07T15:15:22-04:00
 draft = false
 weight = 7
@@ -12,15 +12,16 @@ To activate passthrough, first set up the cutter to let objects pass through it.
 
 To do this, first open the lid, open the front compartment, and pull out the black tray.
 
-Image
+![image](/images/miscount4.png)
 
 You will then see in the front and back 2 black screws.
 
-Image
+![image](/images/miscount5.1.png)
+![image](/images/miscount5.2.png)
 
 Twist these to remove them and the attached bar, and set them aside somewhere safe.
 
-Image
+![image](/images/miscount6.png)
 
 You can then place the tray back in, and close the front and the lid.
 
@@ -28,9 +29,9 @@ Now insert your material so that the closest edge to you is lined up with the fr
 
 ### Software Setup
 
-Open a workspace on the computer and click the (icon) icon on the top bar, then select the Pro Passthrough option. This will extend the workspace upwards as far as you want. Now simply create your extra long design, following the other steps as you normally would.
+Open a workspace on the computer and click the (![icon](/images/190.png)) icon on the top bar, then select the Pro Passthrough option. This will extend the workspace upwards as far as you want. Now simply create your extra long design, following the other steps as you normally would.
 
-Image
+![image](/images/236.png)
 
 ### Printing
 

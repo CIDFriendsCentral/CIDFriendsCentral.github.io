@@ -9,23 +9,23 @@ weight = 4
 
 To remove the print from the bed, first put on latex gloves as resin can be harmful to your skin with frequent contact. 
 
-Image
+![image](/images/31.png)
 
 Then open the casing around the printer by pulling up on the handle
 
-image
+![image](/images/32.png)
 
-inside, you will see you print attached upside-down to the print bed, and a mechanism holding the bed.
+Inside, you will see your print attached upside-down to the print bed, and a mechanism holding the bed.
 
-Image
+![image](/images/33.png)
 
 Unhook the latch holding the bed on and remove the print bed.
 
-image
+![image](/images/34.png)
 
-From there, get a scraper and carfully use it to pry the print off.
+From there, get a scraper and carefully use it to pry the print off.
 
-Image.
+![image](/images/35.png).
 
 Once all of your pieces are detached from the bed, proceed to the Washing and Baking section.
 

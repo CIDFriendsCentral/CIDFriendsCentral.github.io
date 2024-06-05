@@ -3,7 +3,7 @@
   <channel>
     <title>Uploading Files :: CID guide website</title>
     <link>http://localhost:1313/cnc/2d-cutting/uploading/index.html</link>
-    <description>How to use aspire (main) To start designing a part, go into Aspire and click File &gt; New. This will create a new Aspire file in the .crv3d format. It will also take you to the Job Setup menu.&#xA;Image&#xA;Here, you can set the width, height, and thickness of the material you will be cutting (in the Job Size section). Don’t change anything else in this menu. To confirm the size of the job, press OK at the bottom left.</description>
+    <description>How to use aspire (main) To start designing a part, go into Aspire and click File &gt; New. This will create a new Aspire file in the .crv3d format. It will also take you to the Job Setup menu.&#xA;Here, you can set the width, height, and thickness of the material you will be cutting (in the Job Size section). Don’t change anything else in this menu. To confirm the size of the job, press OK at the bottom left.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

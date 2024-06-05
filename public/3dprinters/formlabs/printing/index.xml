@@ -3,7 +3,7 @@
   <channel>
     <title>Printing :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/formlabs/printing/index.html</link>
-    <description>Once you are ready to print, hit the Upload Print button and a menu will appear. This is the same menu that will appear when you use the One-Click Print feature.&#xA;Image&#xA;In this menu you can either press Add to Queue or Print Now.&#xA;Add to Queue adds it to the list of prints available on the printer.&#xA;Print Now starts the job immediately. Your object should print shortly.</description>
+    <description>Once you are ready to print, hit the Upload Print button and a menu will appear. This is the same menu that will appear when you use the One-Click Print feature.&#xA;In this menu you can either press Add to Queue or Print Now.&#xA;Add to Queue adds it to the list of prints available on the printer.&#xA;Print Now starts the job immediately. Your object should print shortly.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>
