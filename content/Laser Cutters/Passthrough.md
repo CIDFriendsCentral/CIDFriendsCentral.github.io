@@ -39,7 +39,7 @@ Hit the {{% badge %}}Print{{% /badge %}} button as you would for any print and s
 
 Once it finishes it will show a new menu as it scans your cut so far.
 
-Then once it has finished a new menu will appear. Simply pull your print forwards about 8 inches, then hit continue
+Then once it has finished a new menu will appear. Simply pull your print forwards about 8 inches, then hit continue.
 
 The print will re-scan and then continue with your design. Hit the button once it begins glowing.
 
