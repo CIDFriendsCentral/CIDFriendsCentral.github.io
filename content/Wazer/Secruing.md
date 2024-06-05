@@ -14,4 +14,4 @@ To secure the material, place it on the print bed, roughly centered. Then take t
 
 
 
-Your material is now ready to cut.
+Your material is now ready to cut. Go to the [Water and Sediment Setup](https://cid.friendscentral.org/wazer/setup/index.html) section.
