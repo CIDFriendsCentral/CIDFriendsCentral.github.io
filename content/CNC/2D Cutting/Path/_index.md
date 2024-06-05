@@ -47,6 +47,6 @@ Then press the {{% badge %}}Save Toolpath(s) ...{{% /badge %}} button at the bot
 
 This will export your toolpaths as a .sbp file.
 
-Once you have done this, move to the cutting page.
+Once you have done this, move to the [Securing Material](https://cid.friendscentral.org/cnc/securing/index.html) page.
 
 
