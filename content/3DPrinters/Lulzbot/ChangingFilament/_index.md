@@ -5,7 +5,7 @@ date = 2024-05-08T09:32:56-04:00
 draft = false
 weight = 5
 +++
-
+---
 To change filament on the LulzBot, first open the **Cura LulzBot** application, and navigate to the monitor tab.
 
 ![image](/images/179.png)
