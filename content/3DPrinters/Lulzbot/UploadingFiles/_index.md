@@ -5,8 +5,7 @@ date = 2024-05-08T09:34:44-04:00
 draft = false
 weight = 1
 +++
-
-__
+---
 To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with **Cura LulzBot Edition** either through opening through File Explorer or dragging the file into the **Cura LulzBot Edition** application. 
 
 ![image](/images/miscount1.png)
