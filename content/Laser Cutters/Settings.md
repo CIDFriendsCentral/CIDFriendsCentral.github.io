@@ -38,7 +38,7 @@ Clicking the arrow next to the default setting will open up a menu of more optio
 
 `Speed` controls how fast the laser moves, and `Power` controls how much power the laser outputs. 
 
-If you have an image, there will be a panel labeled `Bitmap Options`
+If you have an image, there will be a panel labeled `Bitmap Options`.
 
 ![image](/images/221.png)
 
@@ -46,7 +46,7 @@ The dropdown labeled `Grayscale` will let you choose how darkness is interpreted
 
 `Convert To Dots` will add more small dots in darker areas and less in lighter areas.
 
-`Convert To Patterns` will add a darker pattern in darker areas and a lighter pattern in lighter areas
+`Convert To Patterns` will add a darker pattern in darker areas and a lighter pattern in lighter areas.
 
 `Vary Power` will use more power in darker areas and more in lighter areas, with the maximum power being the number specified in the previous panel and the minimum power being specified in a box just below the dropdown.
 
@@ -56,15 +56,15 @@ For any of the three options, there is a slider that will change how the edge of
 
 Finally there will be options labeled `Engrave`
 
-`Lines Per Inch` designates how many lines the laser will make per inch
+`Lines Per Inch` designates how many lines the laser will make per inch.
 
-`# of Passes`  designates how many passes the laser will do during the engraving process
+`# of Passes`  designates how many passes the laser will do during the engraving process.
 
-`Focus Height` can be changed from a manual to automatic focus. It is recommended to set it to `Auto`
+`Focus Height` can be changed from a manual to automatic focus. It is recommended to set it to `Auto`.
 
 #### Cutting
 
-The cut setting will cut the outline of the selected object
+The cut setting will cut the outline of the selected object.
 
 ![image](/images/222.png)
 
@@ -74,11 +74,11 @@ Clicking the arrow next to the default setting will open up a menu of more optio
 
 `Speed` controls how fast the laser moves, and `Power` controls how much power the laser outputs. 
 
-If the laser does not cut all the way through, turn down the speed by 10-20 and try again
+If the laser does not cut all the way through, turn down the speed by 10-20 and try again.
 
-`# of Passes`  designates how many passes the laser will do during the cutting process
+`# of Passes` designates how many passes the laser will do during the cutting process.
 
-`Focus Height` can be changed from a manual to automatic focus. It is recommended to set it to `Auto`
+`Focus Height` can be changed from a manual to automatic focus. It is recommended to set it to `Auto`.
 
 #### Scoring
 
@@ -92,13 +92,13 @@ Clicking the arrow next to the default setting will open up a menu of more optio
 
 `Speed` controls how fast the laser moves, and `Power` controls how much power the laser outputs. 
 
-`# of Passes`  designates how many passes the laser will do during the engraving process
+`# of Passes`  designates how many passes the laser will do during the engraving process.
 
 `Focus Height` can be changed from a manual to automatic focus. It is recommended to set it to `Auto`
 
 #### Ignoring
 
-Ignore will make the cutter completely ignore the object and not cut it at all
+Ignore will make the cutter completely ignore the object and not cut it at all.
 
 ## Done?
 
