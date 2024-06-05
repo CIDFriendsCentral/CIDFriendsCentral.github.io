@@ -24,13 +24,13 @@ This is the official CID tool documentation webstie, cataloging many of the tool
 
 Guides Availible
 
-[3D printers] (https://cid.friendscentral.org/3dprinters/index.html)
+[3D printers](https://cid.friendscentral.org/3dprinters/index.html)
 
-[Laser Cutters] (https://cid.friendscentral.org/laser-cutters/index.html)
+[Laser Cutters](https://cid.friendscentral.org/laser-cutters/index.html)
 
-[CNC Machine] (https://cid.friendscentral.org/cnc/index.html)
+[CNC Machine](https://cid.friendscentral.org/cnc/index.html)
 
-[Water Jet Cutter] (https://cid.friendscentral.org/wazer/index.html)
+[Water Jet Cutter](https://cid.friendscentral.org/wazer/index.html)
 
 
 ---
