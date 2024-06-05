@@ -12,11 +12,11 @@ To upload files to the Prusa Printers first get the stl, obj, or other 3D file t
 
 ![image](/images/45.PNG)
 
-Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window
+Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.
 
 ### Tools
 
-In the top menu you will see a list of options
+In the top menu you will see a list of options.
 
 (![icon](/images/44.PNG)) will allow you to add a file from file explorer
 
@@ -49,13 +49,13 @@ In the top menu you will see a list of options
 
 ### Moving
 
-To move the print around the print bed, first click the item you wish to move, then either drag your shape to its intended position, or click the (![icon](/images/60.PNG)) icon and you will see three arrows pop up around your shape
+To move the print around the print bed, first click the item you wish to move, then either drag your shape to its intended position, or click the (![icon](/images/60.PNG)) icon and you will see three arrows pop up around your shape.
 
 ![image](/images/61.PNG)
 
 Once that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it. 
 
-You can also set its exact position with the menu on the bottom right of the screen
+You can also set its exact position with the menu on the bottom right of the screen.
 
 ![image](/images/62.PNG)
 
@@ -74,7 +74,7 @@ To scale your object, select the object, then select the (![icon](/images/63.PNG
 
 You can grab any of the three to stretch the object in the direction of that line, or instead grab one of the orange boxes to stretch in all directions equally. 
 
-You can also set its exact scale with the menu on the bottom right of the screen
+You can also set its exact scale with the menu on the bottom right of the screen.
 
 ![image](/images/65.PNG)
 
@@ -84,7 +84,7 @@ You can also set its exact scale with the menu on the bottom right of the screen
 
 If the lock icon is closed, the object will retain it's original proportions and scale axis equally. If it is open you can manipulate the three separately.
 
-The rewind icon will set the object to it's original dimensions
+The rewind icon will set the object to it's original dimensions.
 
 ### Rotation
 
@@ -102,7 +102,7 @@ And the maximum amount of the print is touching the build plate:
 
 ![image](/images/69.png)
 
-You can also set its exact rotation with the menu on the bottom right of the screen
+You can also set its exact rotation with the menu on the bottom right of the screen.
 
 ![image](/images/70.PNG)
 
@@ -118,7 +118,7 @@ To cut your object in 2 pieces, hit the (![icon](/images/73.PNG)) icon, and a me
 
 ![image](/images/74.1.PNG)
 
-In the menu you will see a selection box labeled `Mode`. Inside there are two options, `Planar` and `Dovetail`
+In the menu you will see a selection box labeled `Mode`. Inside there are two options, `Planar` and `Dovetail`.
 
 ##### Planar
 
@@ -126,13 +126,13 @@ When you select planar, you should first select where you would like to cut the 
 
 ![image](/images/74.2.PNG)
 
-You can also set the height of the cut off of the buildplate automatically in the menu
+You can also set the height of the cut off of the buildplate automatically in the menu.
 
 ![image](/images/76.PNG)
 
 This will create a smooth cut into two pieces.
 
-If you want to instead have a more secure way of joining these pieces after you cut, press the {{% badge %}}Add Connectors{{% /badge %}} button
+If you want to instead have a more secure way of joining these pieces after you cut, press the {{% badge %}}Add Connectors{{% /badge %}} button.
 
 ![image](/images/77.PNG)
 
@@ -170,7 +170,7 @@ The plane will automatically appear and shade the two halves of the object diffe
 
 ![image](/images/81.PNG)
 
-You can also set the height of the cut off of the buildplate automatically in the menu
+You can also set the height of the cut off of the buildplate automatically in the menu.
 
 ![image](/images/82.PNG)
 
@@ -184,7 +184,7 @@ Below the other settings, you will see a section named `Cut Result`. There you w
 
 You can then select how to place the object once it cuts. `Keep Orientation` will keep the object as it is before that cut. `Place On Cut` will lay the object along the plane of the cut. `Flip Upside Down` will invert the object.
 
-If you have selected planar and not added connectors, you can at the bottom select to cut into parts instead of objects, which will leave the two sides connected but allow them to have their settings edited separately with the left parts menu
+If you have selected planar and not added connectors, you can at the bottom select to cut into parts instead of objects, which will leave the two sides connected but allow them to have their settings edited separately with the left parts menu.
 
 ![image](/images/84.PNG)
 
