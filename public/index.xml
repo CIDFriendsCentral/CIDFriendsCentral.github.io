@@ -3,7 +3,7 @@
   <channel>
     <title>Home :: CID guide website</title>
     <link>http://localhost:1313/index.html</link>
-    <description>Friends’ Central CID Documentation Website Welcome! Welcome to the CID, Friends Central’s newest space, built for (insert propaganda here)&#xA;Look through the side menu for different machine guides, use the search bar to find specific sections or continue on this page for an introduction to the website&#xA;What is this place? This is the official CID tool documentation webstie, cataloging many of the tools found in the different areas of the CID.</description>
+    <description>Friends’ Central CID Documentation Website Welcome! Welcome to the CID, Friends’ Central’s newest space, built to inspire creation and creativity.&#xA;Look through the side menu for different machine guides, use the search bar to find specific sections or continue on this page for an introduction to the website.&#xA;What is this place? This is the official CID tool documentation website, cataloging many of the tools found in the different areas of the CID.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
@@ -13,28 +13,28 @@
       <link>http://localhost:1313/3dprinters/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/3dprinters/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>We haev a large collection of 3D printers here in the CID, where you can design and print anything you can imagine!&#xA;The pinters availible in the CID are:&#xA;FormLabs Resin Printer&#xA;Ultimaker with Dual Extrusion&#xA;Prusa Mark 4&#xA;Lulzbot Mini</description>
     </item>
     <item>
       <title>Laser Cutter</title>
       <link>http://localhost:1313/laser-cutters/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/laser-cutters/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>The laser cutters are the best tool for quickly cutting small intricate 2D shapes in thin materials, and can be used for many projects. These machines use lasers to cut and engrave and so can give a unique style to your projects. Follow these guides to use the laser cutters:&#xA;Uploading Files&#xA;Material Selection&#xA;Cut Settings&#xA;Process Ordering&#xA;Printing&#xA;Tracing&#xA;Passthrough Usage</description>
     </item>
     <item>
       <title>CNC Machine (Shopbot)</title>
       <link>http://localhost:1313/cnc/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/cnc/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>The CNC is the biggest and most heavy-duty piece of machinery in the CID. It can cut very large objects and is good for both 2D and 3D pieces, although it has some limitations when working in 3D. It can be used to cut wood, acrylic, stone, metal, and many more materials. It is also the most dangerous of the machines so please take extreme care when using it:</description>
     </item>
     <item>
       <title>Wazer</title>
       <link>http://localhost:1313/wazer/index.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/wazer/index.html</guid>
-      <description>This is a new chapter.</description>
+      <description>The wazer is a very powerful tool, used mostly for cutting metal this machine is a little harder to use but very effective, and less dangerous and easy to break than the CNC. To use this machine, follow these guides:&#xA;Uploading Files&#xA;Cut Settings&#xA;Securing Material&#xA;Water and Sediment Setup&#xA;Cutting</description>
     </item>
   </channel>
 </rss>

@@ -37,6 +37,14 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/cnc/2d-cutting/uploading/index.html</loc>
+    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cnc/3d-cutting/uploading/index.html</loc>
+    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/laser-cutters/upload/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
@@ -63,6 +71,14 @@
   <url>
     <loc>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</loc>
     <lastmod>2024-05-08T09:33:28-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cnc/2d-cutting/path/index.html</loc>
+    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/cnc/3d-cutting/smoothrough/index.html</loc>
+    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/wazer/cutsettings/index.html</loc>
@@ -101,6 +117,14 @@
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/cnc/securing/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wazer/secruing/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/3dprinters/lulzbot/index.html</loc>
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
@@ -122,6 +146,10 @@
   </url>
   <url>
     <loc>http://localhost:1313/laser-cutters/process/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wazer/setup/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -157,12 +185,20 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
+    <loc>http://localhost:1313/cnc/warmup/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
+  </url>
+  <url>
     <loc>http://localhost:1313/laser-cutters/tracing/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/3dprinters/ultimaker/changingfilament/index.html</loc>
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/wazer/transfer/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/laser-cutters/passthrough/index.html</loc>
@@ -185,43 +221,11 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cnc/2d-cutting/path/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/3d-cutting/smoothrough/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/2d-cutting/uploading/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/3d-cutting/uploading/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/cnc/cutting/index.html</loc>
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/wazer/transfer/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/securing/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/wazer/secruing/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/cnc/troubleshooting/index.html</loc>
-    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/wazer/setup/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>

@@ -3,7 +3,7 @@
   <channel>
     <title>Prusa Mark 4 :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/index.html</link>
-    <description>Cura m3 stuff</description>
+    <description>The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
@@ -13,35 +13,35 @@
       <link>http://localhost:1313/3dprinters/prusamark4/uploadingfiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/uploadingfiles/index.html</guid>
-      <description>To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the ( ) icon and selecting the file.&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window</description>
+      <description>To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the ( ) icon and selecting the file.&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.</description>
     </item>
     <item>
       <title>Printer Settings</title>
       <link>http://localhost:1313/3dprinters/prusamark4/printersettings/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/printersettings/index.html</guid>
-      <description>Once you are satified with the object placement, move to the right menu.&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most precise setting, good for visual detail or mechanical functionality&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.&#xA;0.2 mm has the same options, but both will be faster but lower quality than their 0.</description>
+      <description>Once you are satified with the object placement, move to the right menu.&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.&#xA;0.2 mm has the same options, but both will be faster but lower quality than their 0.</description>
     </item>
     <item>
       <title>Slice Files</title>
       <link>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</guid>
-      <description>Once you have set up your print how you want it, press the Slice button in the bottom right&#xA;insert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
+      <description>Once you have set up your print how you want it, press the Slice button in the bottom right.&#xA;insert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
     </item>
     <item>
       <title>Transferring to Printer</title>
       <link>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</guid>
-      <description>Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the ( ) icon and hit Save when the window appears&#xA;==SCREWUP==&#xA;Finally plug the drive back into the printer. Once you have done this move to the Printing section.</description>
+      <description>Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the ( ) icon and hit Save when the window appears.&#xA;Wait until the box at the bottom reads Exporting Finished then hit the eject icon. It is safe to remove the USB once the box reads Successfully Unmounted.</description>
     </item>
     <item>
       <title>Printing</title>
       <link>http://localhost:1313/3dprinters/prusamark4/printing/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/printing/index.html</guid>
-      <description>Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically&#xA;If this is the file you wish to print, simply click the knob and it will begin printing&#xA;If the file doesn’t appear or the file that appears isn’t the file you wish to print, navigate to the home menu.&#xA;Select Print&#xA;then select the name of your file you wish to print.</description>
+      <description>Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.&#xA;If this is the file you wish to print, simply click the knob and it will begin printing.&#xA;If the file doesn’t appear or the file that appears isn’t the file you wish to print, navigate to the home menu.&#xA;Select Print.</description>
     </item>
     <item>
       <title>Changing Filament</title>

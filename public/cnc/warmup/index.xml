@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CNC Spindle Warmup :: CID guide website</title>
+    <link>http://localhost:1313/cnc/warmup/index.html</link>
+    <description>Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn’t break.&#xA;First, go to shopbot full mode by pressing the blue question mark button ? and then pressing Switch to FULL at the bottom of the menu that comes up afterwards.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/cnc/warmup/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

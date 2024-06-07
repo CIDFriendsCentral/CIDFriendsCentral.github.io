@@ -3,7 +3,7 @@
   <channel>
     <title>Laser Cutter :: CID guide website</title>
     <link>http://localhost:1313/laser-cutters/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>The laser cutters are the best tool for quickly cutting small intricate 2D shapes in thin materials, and can be used for many projects. These machines use lasers to cut and engrave and so can give a unique style to your projects. Follow these guides to use the laser cutters:&#xA;Uploading Files&#xA;Material Selection&#xA;Cut Settings&#xA;Process Ordering&#xA;Printing&#xA;Tracing&#xA;Passthrough Usage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 May 2024 15:15:22 -0400</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/laser-cutters/upload/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/laser-cutters/upload/index.html</guid>
-      <description>To bring your file into the Laser Cutters first go to glowforge.com. There you will see a website with many options.&#xA;If the computer is not signed into glowforge, have an adult sign you in.&#xA;If the computer is signed in, hit the Create button, which will take you to a new menu.&#xA;there you will see a list of projects, which you can select to open, or in the top left, there is a Create a New Design button for your own designs.</description>
+      <description>To bring your file into the Laser Cutters first go to https://glowforge.com. There you will see a website with many options.&#xA;If the computer is not signed into glowforge, have an adult sign you in.&#xA;If the computer is signed in, hit the Create button, which will take you to a new menu.&#xA;there you will see a list of projects, which you can select to open, or in the top left, there is a Create a New Design button for your own designs.</description>
     </item>
     <item>
       <title>Material Selection</title>
@@ -41,7 +41,7 @@
       <link>http://localhost:1313/laser-cutters/printing/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/laser-cutters/printing/index.html</guid>
-      <description>Cutter Selection Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using&#xA;The “Glowforge” has the slot in the front for passthrough cutting while the “Glowforge II” does not.&#xA;Last Rearrangement Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.</description>
+      <description>Cutter Selection Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using.&#xA;The “Glowforge” has the slot in the front for passthrough cutting while the “Glowforge II” does not.&#xA;Last Rearrangement Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.</description>
     </item>
     <item>
       <title>Tracing</title>

@@ -3,7 +3,7 @@
   <channel>
     <title>Zeroing and Cutting :: CID guide website</title>
     <link>http://localhost:1313/cnc/cutting/index.html</link>
-    <description>Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.&#xA;Then open the manual control panel by clicking the yellow box&#xA;You will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way.</description>
+    <description>Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.&#xA;Then open the manual control panel by clicking the yellow box.&#xA;You will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

@@ -3,7 +3,7 @@
   <channel>
     <title>Printer Settings :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</link>
-    <description>Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strength, and accuracy. Use this for general projects.&#xA;Visual prioritizes the outwards appearance to optimize visual properties. Use this for projects that need to look good.</description>
+    <description>Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here.&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strength, and accuracy. Use this for general projects.&#xA;Visual prioritizes the outwards appearance to optimize visual properties. Use this for projects that need to look good.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

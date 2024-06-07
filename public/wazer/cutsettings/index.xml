@@ -3,7 +3,7 @@
   <channel>
     <title>Cut Settings :: CID guide website</title>
     <link>http://localhost:1313/wazer/cutsettings/index.html</link>
-    <description>Once your file is set up properly, we will now set up the machine to cut it.&#xA;Material settings First click the tab labeled Material&#xA;Then select the material currently loaded in the Water Cutter&#xA;Cutting Path Next select Cutting Path&#xA;This will show the exact way that the cutter will cut your file. if you want to keep the piece outside of your file select inside, and if you want to keep the piece inside of your file select outside.</description>
+    <description>Once your file is set up properly, we will now set up the machine to cut it.&#xA;Material settings First click the tab labeled Material.&#xA;Then select the material currently loaded in the Water Cutter.&#xA;Cutting Path Next select Cutting Path.&#xA;This will show the exact way that the cutter will cut your file. if you want to keep the piece outside of your file select inside, and if you want to keep the piece inside of your file select outside.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

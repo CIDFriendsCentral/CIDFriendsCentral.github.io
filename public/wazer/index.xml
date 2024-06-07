@@ -3,7 +3,7 @@
   <channel>
     <title>Wazer :: CID guide website</title>
     <link>http://localhost:1313/wazer/index.html</link>
-    <description>This is a new chapter.</description>
+    <description>The wazer is a very powerful tool, used mostly for cutting metal this machine is a little harder to use but very effective, and less dangerous and easy to break than the CNC. To use this machine, follow these guides:&#xA;Uploading Files&#xA;Cut Settings&#xA;Securing Material&#xA;Water and Sediment Setup&#xA;Cutting</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 07 May 2024 15:15:22 -0400</lastBuildDate>
@@ -13,35 +13,35 @@
       <link>http://localhost:1313/wazer/upload/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/wazer/upload/index.html</guid>
-      <description>To cut a file on the laser cutter, first open up link (wam.wazer.com)&#xA;There you will need to sign in, get an adult to sign into the website for you.&#xA;Once you sign in, the workspace will open up automatically&#xA;Uploading To upload your file click Import File and select your SVG or DXF file&#xA;Once you have done that, you will see the name of your part, as well as some options</description>
+      <description>To cut a file on the water cutter, first open up https://wam.wazer.com.&#xA;There you will need to sign in, get an adult to sign into the website for you.&#xA;Once you sign in, the workspace will open up automatically.&#xA;Uploading To upload your file click Import File and select your SVG or DXF file.&#xA;Once you have done that, you will see the name of your part, as well as some options.</description>
     </item>
     <item>
       <title>Cut Settings</title>
       <link>http://localhost:1313/wazer/cutsettings/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/wazer/cutsettings/index.html</guid>
-      <description>Once your file is set up properly, we will now set up the machine to cut it.&#xA;Material settings First click the tab labeled Material&#xA;Then select the material currently loaded in the Water Cutter&#xA;Cutting Path Next select Cutting Path&#xA;This will show the exact way that the cutter will cut your file. if you want to keep the piece outside of your file select inside, and if you want to keep the piece inside of your file select outside.</description>
-    </item>
-    <item>
-      <title>Cutting</title>
-      <link>http://localhost:1313/wazer/transfer/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/wazer/transfer/index.html</guid>
-      <description>Once you have your file created, remove the SD card from the Wazer and plug it into your computer. Drag your file onto the SD card, eject it, and</description>
+      <description>Once your file is set up properly, we will now set up the machine to cut it.&#xA;Material settings First click the tab labeled Material.&#xA;Then select the material currently loaded in the Water Cutter.&#xA;Cutting Path Next select Cutting Path.&#xA;This will show the exact way that the cutter will cut your file. if you want to keep the piece outside of your file select inside, and if you want to keep the piece inside of your file select outside.</description>
     </item>
     <item>
       <title>Securing Material</title>
       <link>http://localhost:1313/wazer/secruing/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/wazer/secruing/index.html</guid>
-      <description>Stuff is here too</description>
+      <description>To secure the material, place it on the print bed, roughly centered. Then take the screws that are with the Wazer and screw them in on each side of you material.&#xA;Your material is now ready to cut. Go to the Water and Sediment Setup section.</description>
     </item>
     <item>
       <title>Water and Sediment Setup</title>
       <link>http://localhost:1313/wazer/setup/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/wazer/setup/index.html</guid>
-      <description>Stuff is here too</description>
+      <description>Before you start your cut, make sure that the water and sediment are set up properly.&#xA;Firstly, if the water level in the wazer is too low, use the hose to fill it until the water level is even with the cut bed.&#xA;Then to set up the sediment, go to the left side of the Wazer and pull out the drawer.&#xA;Then slowly pour the abrasive through the screens on top of the cups until the cups are full.</description>
+    </item>
+    <item>
+      <title>Cutting</title>
+      <link>http://localhost:1313/wazer/transfer/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/wazer/transfer/index.html</guid>
+      <description>Once you have your file created, remove the SD card from the Wazer and plug it into your computer. Drag your file onto the SD card, eject it, and plug it back into the machine. Turn the machine on and use the keypad to navigate to select cut file. From there, select the file you wish to cut.&#xA;You will then be prompted to lift the nozzle when a screen pops up.</description>
     </item>
   </channel>
 </rss>
