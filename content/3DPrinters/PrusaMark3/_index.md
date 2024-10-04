@@ -1,5 +1,5 @@
 +++
-title = "Prusa Mark 3"
+title = "Prusa Mark 4"
 weight = 2
 alwaysopen = false
 +++
