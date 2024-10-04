@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tracing :: CID guide website</title>
+    <link>http://localhost:1313/laser-cutters/glowforge/tracing/index.html</link>
+    <description> To trace an image into the laser cutter, place the drawing or art you wish to trace in the machine and close the lid.&#xA;Then either go to the Glowforge home menu and hit Create New Design and Trace Artwork or open a workspace and hit the (&#xD;) icon and then the Trace button in the top right. This will open up an image of the bed and anything in it.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/laser-cutters/glowforge/tracing/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

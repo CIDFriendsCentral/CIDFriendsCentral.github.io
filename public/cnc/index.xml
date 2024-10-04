@@ -3,7 +3,7 @@
   <channel>
     <title>CNC Machine (Shopbot) :: CID guide website</title>
     <link>http://localhost:1313/cnc/index.html</link>
-    <description>The CNC is the biggest and most heavy-duty piece of machinery in the CID. It can cut very large objects and is good for both 2D and 3D pieces, although it has some limitations when working in 3D. It can be used to cut wood, acrylic, stone, metal, and many more materials. It is also the most dangerous of the machines so please take extreme care when using it:</description>
+    <description> The CNC is the biggest and most heavy-duty piece of machinery in the CID. It can cut very large objects and is good for both 2D and 3D pieces, although it has some limitations when working in 3D. It can be used to cut wood, acrylic, stone, metal, and many more materials. It is also the most dangerous of the machines so please take extreme care when using it:&#xA;2D Design and Setup</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:32:56 -0400</lastBuildDate>
@@ -11,44 +11,44 @@
     <item>
       <title>2D Cutting</title>
       <link>http://localhost:1313/cnc/2d-cutting/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/cnc/2d-cutting/index.html</guid>
-      <description>The CNC machine’s primary functionality is cutting 2D parts. It can create cuts of many types and outline, engrave, and carve designs into almost any material. To prepare 2d files use these guides:&#xA;Uploading 2D Files&#xA;Creating 2D Paths</description>
+      <description> The CNC machine’s primary functionality is cutting 2D parts. It can create cuts of many types and outline, engrave, and carve designs into almost any material. To prepare 2d files use these guides:&#xA;Uploading 2D Files&#xA;Creating 2D Paths</description>
     </item>
     <item>
       <title>3D Cutting</title>
       <link>http://localhost:1313/cnc/3d-cutting/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/cnc/3d-cutting/index.html</guid>
-      <description>The CNC machine has some good options for cutting simple but large 3D parts. Careful use of the settings is important here to get good results. Use these guides for 3D file setup:&#xA;Uploading 3D Files&#xA;Smooth and Rough Carving</description>
+      <description> The CNC machine has some good options for cutting simple but large 3D parts. Careful use of the settings is important here to get good results. Use these guides for 3D file setup:&#xA;Uploading 3D Files&#xA;Smooth and Rough Carving</description>
     </item>
     <item>
       <title>Securing Material</title>
       <link>http://localhost:1313/cnc/securing/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/cnc/securing/index.html</guid>
-      <description>Once you are ready to secure your material to the bed, first take blue tape or painters tape and cover the bottom surface of your material in the area of your cut and the area on the bed where you want to attach the object.&#xA;Then take superglue and put a thin spread on the tape on the bed. DO NOT PUT SUPERGLUE ON THE BED ITSELF. Take the accelerant and spray it onto the tape on the bottom of your object, and push the object down onto the bed and hold it there for a few seconds.</description>
+      <description> Once you are ready to secure your material to the bed, first take blue tape or painters tape and cover the bottom surface of your material in the area of your cut and the area on the bed where you want to attach the object.&#xA;Then take superglue and put a thin spread on the tape on the bed. DO NOT PUT SUPERGLUE ON THE BED ITSELF. Take the accelerant and spray it onto the tape on the bottom of your object, and push the object down onto the bed and hold it there for a few seconds.</description>
     </item>
     <item>
       <title>CNC Spindle Warmup</title>
       <link>http://localhost:1313/cnc/warmup/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/cnc/warmup/index.html</guid>
-      <description>Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn’t break.&#xA;First, go to shopbot full mode by pressing the blue question mark button ? and then pressing Switch to FULL at the bottom of the menu that comes up afterwards.</description>
+      <description> Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn’t break.&#xA;First, go to shopbot full mode by pressing the blue question mark button ? and then pressing Switch to FULL at the bottom of the menu that comes up afterwards. In shopbot full mode, press the keyboard keys, C, and then 5 to start the process, or navigate there with the top menu.</description>
     </item>
     <item>
       <title>Zeroing and Cutting</title>
       <link>http://localhost:1313/cnc/cutting/index.html</link>
       <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/cnc/cutting/index.html</guid>
-      <description>Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.&#xA;Then open the manual control panel by clicking the yellow box.&#xA;You will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way.</description>
+      <description> Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.&#xA;Then open the manual control panel by clicking the yellow box.&#xA;You will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way. Then use the right set of arrows to lift the head of the machine up so that the bit will not get caught or drag across any of the parts.</description>
     </item>
     <item>
       <title>Troubleshooting</title>
       <link>http://localhost:1313/cnc/troubleshooting/index.html</link>
       <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
       <guid>http://localhost:1313/cnc/troubleshooting/index.html</guid>
-      <description>The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong.&#xA;USB Control Box Problems A USB control box problem happens when there is a yellow box on the computer that says there’s a “USB control box problem!”.&#xA;When there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press “retry control box” on the computer.</description>
+      <description> The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong.&#xA;USB Control Box Problems A USB control box problem happens when there is a yellow box on the computer that says there’s a “USB control box problem!”.&#xA;When there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press “retry control box” on the computer.</description>
     </item>
   </channel>
 </rss>

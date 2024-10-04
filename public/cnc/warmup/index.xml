@@ -3,7 +3,7 @@
   <channel>
     <title>CNC Spindle Warmup :: CID guide website</title>
     <link>http://localhost:1313/cnc/warmup/index.html</link>
-    <description>Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn’t break.&#xA;First, go to shopbot full mode by pressing the blue question mark button ? and then pressing Switch to FULL at the bottom of the menu that comes up afterwards.</description>
+    <description> Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn’t break.&#xA;First, go to shopbot full mode by pressing the blue question mark button ? and then pressing Switch to FULL at the bottom of the menu that comes up afterwards. In shopbot full mode, press the keyboard keys, C, and then 5 to start the process, or navigate there with the top menu.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

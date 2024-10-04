@@ -3,7 +3,7 @@
   <channel>
     <title>Transferring to Printer :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/transferringtoprinter/index.html</link>
-    <description>Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the ( ) icon and hit Save when the window appears.&#xA;Wait until the box at the bottom reads Exporting Finished then hit the eject icon. It is safe to remove the USB once the box reads Successfully Unmounted.</description>
+    <description> Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (&#xD;) icon and hit Save when the window appears.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Printing :: CID guide website</title>
+    <link>http://localhost:1313/laser-cutters/glowforge/printing/index.html</link>
+    <description> Cutter Selection Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using.&#xA;The “Glowforge” has the slot in the front for passthrough cutting while the “Glowforge II” does not.&#xA;Last Rearrangement Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/laser-cutters/glowforge/printing/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

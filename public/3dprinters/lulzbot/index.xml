@@ -3,7 +3,7 @@
   <channel>
     <title>Lulzbot :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/lulzbot/index.html</link>
-    <description>The lulzbot is the simplest printer, although has some filament limitations. To use it use these guides:&#xA;Uploading Files&#xA;Print Settings&#xA;Slicing Files&#xA;Transferring and Printing&#xA;Changing Filament</description>
+    <description> The lulzbot is the simplest printer, although has some filament limitations. To use it use these guides:&#xA;Uploading Files&#xA;Print Settings&#xA;Slicing Files&#xA;Transferring and Printing&#xA;Changing Filament</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
@@ -13,35 +13,35 @@
       <link>http://localhost:1313/3dprinters/lulzbot/uploadingfiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/lulzbot/uploadingfiles/index.html</guid>
-      <description>To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with Cura LulzBot Edition either through opening through File Explorer or dragging the file into the Cura LulzBot Edition application.&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.&#xA;Moving To move the print around the print bed, first click the item you wish to move, then click the ( ) icon and you will see three arrows pop up around your shape.</description>
+      <description> To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with Cura LulzBot Edition either through opening through File Explorer or dragging the file into the Cura LulzBot Edition application.&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.</description>
     </item>
     <item>
       <title>Printer Settings</title>
       <link>http://localhost:1313/3dprinters/lulzbot/printersettings/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/lulzbot/printersettings/index.html</guid>
-      <description>Once you have your object oriented as desired, select your material.&#xA;Material selection At the top of the display there will be a dropdown menu to select material type.&#xA;Click to show the options for material selection and select the one currently loaded in the printer.&#xA;Print Settings Now move to the print settings menu. There you will see lots of options, which I will briefly review here.&#xA;Profiles Firstly you will see a list of Profiles.</description>
+      <description> Once you have your object oriented as desired, select your material.&#xA;Material selection At the top of the display there will be a dropdown menu to select material type.&#xA;Click to show the options for material selection and select the one currently loaded in the printer.&#xA;Print Settings Now move to the print settings menu. There you will see lots of options, which I will briefly review here.</description>
     </item>
     <item>
       <title>Slicing Files</title>
       <link>http://localhost:1313/3dprinters/lulzbot/slicefiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/lulzbot/slicefiles/index.html</guid>
-      <description>Once you have set up your print how you want it, press the slice button in the bottom right.&#xA;Once you do this, you will see a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
+      <description> Once you have set up your print how you want it, press the slice button in the bottom right.&#xA;Once you do this, you will see a new tab appear, Preview. This allows you to look at the exact printing path of the printer.</description>
     </item>
     <item>
       <title>Transferring and Printng</title>
       <link>http://localhost:1313/3dprinters/lulzbot/transferringtoprinter/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/lulzbot/transferringtoprinter/index.html</guid>
-      <description>To transfer your print to the printer, first make sure the computer is connected to the printer by USB cable, and the printer is on. Then press Print via USB in the box in the bottom right and a new menu will appear with the print settings.&#xA;Click the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer.&#xA;Once that happens move back to the right menu.</description>
+      <description> To transfer your print to the printer, first make sure the computer is connected to the printer by USB cable, and the printer is on. Then press Print via USB in the box in the bottom right and a new menu will appear with the print settings.&#xA;Click the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer.</description>
     </item>
     <item>
       <title>Changing Filament</title>
       <link>http://localhost:1313/3dprinters/lulzbot/changingfilament/index.html</link>
       <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/lulzbot/changingfilament/index.html</guid>
-      <description>To change filament on the LulzBot, first open the Cura LulzBot application, and navigate to the monitor tab.&#xA;Click the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer.&#xA;Once that happens move back to the right menu. Click the Pre-Heat buttons on the Hot End section only.&#xA;Then wait until the larger black number changes to match the smaller grey number.</description>
+      <description> To change filament on the LulzBot, first open the Cura LulzBot application, and navigate to the monitor tab.&#xA;Click the Connect button and wait a few seconds. Eventually the box at the top will read Connected to Printer.&#xA;Once that happens move back to the right menu. Click the Pre-Heat buttons on the Hot End section only.</description>
     </item>
   </channel>
 </rss>

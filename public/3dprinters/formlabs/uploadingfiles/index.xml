@@ -3,7 +3,7 @@
   <channel>
     <title>Uploading Files :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/formlabs/uploadingfiles/index.html</link>
-    <description>To upload files to the FormLabs printer first open the PreForm application.&#xA;Then drag and drop your intended file into the work area of the window&#xA;From here you have a few options about how to set up your print.&#xA;One Click Print The simplest is to hit the ( ) icon and use One Click Print&#xA;Hit the Set Up Your Print button and the app will automatically rotate your model and add supports for the best print generation.</description>
+    <description> To upload files to the FormLabs printer first open the PreForm application.&#xA;Then drag and drop your intended file into the work area of the window&#xA;From here you have a few options about how to set up your print.&#xA;One Click Print The simplest is to hit the (&#xD;) icon and use One Click Print</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

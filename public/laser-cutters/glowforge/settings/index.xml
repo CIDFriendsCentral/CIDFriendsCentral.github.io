@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adjust Settings :: CID guide website</title>
+    <link>http://localhost:1313/laser-cutters/glowforge/settings/index.html</link>
+    <description> Once you have your material selected, we can start choosing how we want each shape to be cut.&#xA;On the left of the screen will show all individual objects in the workspace. Click on the object you wish to change the settings of.&#xA;Cut Options A menu will appear, with various options. First let’s look at the top menu. Each of the options on the top menu will cut the object in a different way.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/laser-cutters/glowforge/settings/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

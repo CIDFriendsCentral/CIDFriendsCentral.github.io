@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glowforge :: CID guide website</title>
+    <link>http://localhost:1313/laser-cutters/glowforge/index.html</link>
+    <description>The laser cutters are the best tool for quickly cutting small intricate 2D shapes in thin materials, and can be used for many projects. These machines use lasers to cut and engrave and so can give a unique style to your projects. Follow these guides to use the laser cutters:&#xA;Uploading Files&#xA;Material Selection&#xA;Cut Settings&#xA;Process Ordering&#xA;Printing&#xA;Tracing&#xA;Passthrough Usage</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 07 May 2024 15:15:22 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/laser-cutters/glowforge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uploading Files</title>
+      <link>http://localhost:1313/laser-cutters/glowforge/upload/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/glowforge/upload/index.html</guid>
+      <description> To bring your file into the Laser Cutters first go to https://glowforge.com. There you will see a website with many options.&#xA;If the computer is not signed into glowforge, have an adult sign you in.&#xA;If the computer is signed in, hit the Create button, which will take you to a new menu.</description>
+    </item>
+    <item>
+      <title>Material Selection</title>
+      <link>http://localhost:1313/laser-cutters/glowforge/material/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/glowforge/material/index.html</guid>
+      <description> Once your design is ready, select what material you wish to use from the bins near the laser cutters.&#xA;Once you have loaded the material into the cutter, go to the top left corner of your workspace and click the button which will either be labeled Unknown Material or some other material name. This will open up a menu.</description>
+    </item>
+    <item>
+      <title>Adjust Settings</title>
+      <link>http://localhost:1313/laser-cutters/glowforge/settings/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/glowforge/settings/index.html</guid>
+      <description> Once you have your material selected, we can start choosing how we want each shape to be cut.&#xA;On the left of the screen will show all individual objects in the workspace. Click on the object you wish to change the settings of.&#xA;Cut Options A menu will appear, with various options. First let’s look at the top menu. Each of the options on the top menu will cut the object in a different way.</description>
+    </item>
+    <item>
+      <title>Process Ordering</title>
+      <link>http://localhost:1313/laser-cutters/glowforge/process/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/glowforge/process/index.html</guid>
+      <description> Once you have your cut settings set, close out any open menus.&#xA;Now it is important to order the cuts in an appropriate order.&#xA;The cutter will do the steps in the left bar from top to bottom.&#xA;Take any engraving and scoring steps, and drag them upwards, and take any cutting steps and drag them downwards. This way pieces will not move after being cut and be misaligned for engraving.</description>
+    </item>
+    <item>
+      <title>Printing</title>
+      <link>http://localhost:1313/laser-cutters/glowforge/printing/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/glowforge/printing/index.html</guid>
+      <description> Cutter Selection Before cutting make sure you have the right cutter selected by clicking the name of the Glowforge in the top right and selecting which machine you are using.&#xA;The “Glowforge” has the slot in the front for passthrough cutting while the “Glowforge II” does not.&#xA;Last Rearrangement Once you are ready to print, look at the material image on the workspace and make sure that the object is in the right location.</description>
+    </item>
+    <item>
+      <title>Tracing</title>
+      <link>http://localhost:1313/laser-cutters/glowforge/tracing/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/glowforge/tracing/index.html</guid>
+      <description> To trace an image into the laser cutter, place the drawing or art you wish to trace in the machine and close the lid.&#xA;Then either go to the Glowforge home menu and hit Create New Design and Trace Artwork or open a workspace and hit the (&#xD;) icon and then the Trace button in the top right. This will open up an image of the bed and anything in it.</description>
+    </item>
+    <item>
+      <title>Passthrough Usage</title>
+      <link>http://localhost:1313/laser-cutters/glowforge/passthrough/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/glowforge/passthrough/index.html</guid>
+      <description> Cutter Setup To activate passthrough, first set up the cutter to let objects pass through it.&#xA;To do this, first open the lid, open the front compartment, and pull out the black tray.&#xA;You will then see in the front and back 2 black screws.</description>
+    </item>
+  </channel>
+</rss>

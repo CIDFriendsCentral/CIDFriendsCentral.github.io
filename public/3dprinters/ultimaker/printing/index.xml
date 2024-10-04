@@ -3,7 +3,7 @@
   <channel>
     <title>Printing :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/printing/index.html</link>
-    <description>Once you plug the USB into the printer, you should be greeted with this image.&#xA;To print, hit the Print from USB button, then scroll until you see the file you wish to print. Press the file name and another menu will appear.&#xA;Check that the time, and two filament types match what you expect, and then press start print. Your file should then print! If the filament types do not match what is in the printer, go to the Changing Filament Section.</description>
+    <description> Once you plug the USB into the printer, you should be greeted with this image.&#xA;To print, hit the Print from USB button, then scroll until you see the file you wish to print. Press the file name and another menu will appear.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

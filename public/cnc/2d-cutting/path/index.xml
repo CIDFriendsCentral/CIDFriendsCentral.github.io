@@ -3,7 +3,7 @@
   <channel>
     <title>Path Settings :: CID guide website</title>
     <link>http://localhost:1313/cnc/2d-cutting/path/index.html</link>
-    <description>Once you have your vector file, we will create cut paths for the file.&#xA;Once you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.&#xA;Open the toolpaths tab on the top right corner of Aspire. It will create a menu on the right side.&#xA;Pin this menu by clicking the pin button in the top right corner of the menu that opens up so it’s easier to access.</description>
+    <description> Once you have your vector file, we will create cut paths for the file.&#xA;Once you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.&#xA;Open the toolpaths tab on the top right corner of Aspire. It will create a menu on the right side.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

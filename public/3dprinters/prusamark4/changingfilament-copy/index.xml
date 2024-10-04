@@ -3,7 +3,7 @@
   <channel>
     <title>Changing Filament :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/changingfilament-copy/index.html</link>
-    <description>To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament. Follow the instructions on the screen.&#xA;Change will first unload and then load filament.</description>
+    <description> To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament. Follow the instructions on the screen.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

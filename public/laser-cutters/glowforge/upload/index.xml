@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Uploading Files :: CID guide website</title>
+    <link>http://localhost:1313/laser-cutters/glowforge/upload/index.html</link>
+    <description> To bring your file into the Laser Cutters first go to https://glowforge.com. There you will see a website with many options.&#xA;If the computer is not signed into glowforge, have an adult sign you in.&#xA;If the computer is signed in, hit the Create button, which will take you to a new menu.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/laser-cutters/glowforge/upload/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

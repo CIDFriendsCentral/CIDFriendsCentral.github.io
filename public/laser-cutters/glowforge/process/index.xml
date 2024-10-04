@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Process Ordering :: CID guide website</title>
+    <link>http://localhost:1313/laser-cutters/glowforge/process/index.html</link>
+    <description> Once you have your cut settings set, close out any open menus.&#xA;Now it is important to order the cuts in an appropriate order.&#xA;The cutter will do the steps in the left bar from top to bottom.&#xA;Take any engraving and scoring steps, and drag them upwards, and take any cutting steps and drag them downwards. This way pieces will not move after being cut and be misaligned for engraving.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/laser-cutters/glowforge/process/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

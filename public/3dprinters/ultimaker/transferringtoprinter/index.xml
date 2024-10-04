@@ -3,7 +3,7 @@
   <channel>
     <title>Transferring to Printer :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</link>
-    <description>Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to UltiMaker Cura and look to the bottom right. If the button says Save To Removable Drive click it. If not, click the up arrow, then click Save To Removable Drive to make the button read Save To Removable Drive, then click the button.</description>
+    <description> Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to UltiMaker Cura and look to the bottom right. If the button says Save To Removable Drive click it. If not, click the up arrow, then click Save To Removable Drive to make the button read Save To Removable Drive, then click the button.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

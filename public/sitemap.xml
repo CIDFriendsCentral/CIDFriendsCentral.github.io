@@ -45,7 +45,7 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/upload/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/upload/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -85,12 +85,15 @@
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/material/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/material/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/laser-cutters/other-new-one/index.html</loc>
   </url>
   <url>
     <loc>http://localhost:1313/3dprinters/prusamark4/slicefiles/index.html</loc>
@@ -113,7 +116,7 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/settings/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/settings/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -145,7 +148,7 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/process/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/process/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -169,7 +172,7 @@
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/printing/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/printing/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -189,19 +192,15 @@
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/tracing/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/tracing/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/3dprinters/ultimaker/changingfilament/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/wazer/transfer/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/laser-cutters/passthrough/index.html</loc>
+    <loc>http://localhost:1313/laser-cutters/glowforge/passthrough/index.html</loc>
     <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
@@ -213,16 +212,12 @@
     <lastmod>2024-05-08T09:34:44-04:00</lastmod>
   </url>
   <url>
-    <loc>http://localhost:1313/cnc/2d-cutting/bitselection/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
-    <loc>http://localhost:1313/cnc/3d-cutting/bitselection/index.html</loc>
-    <lastmod>2024-05-08T09:32:56-04:00</lastmod>
-  </url>
-  <url>
     <loc>http://localhost:1313/cnc/cutting/index.html</loc>
     <lastmod>2024-05-08T09:32:56-04:00</lastmod>
+  </url>
+  <url>
+    <loc>http://localhost:1313/laser-cutters/index.html</loc>
+    <lastmod>2024-05-07T15:15:22-04:00</lastmod>
   </url>
   <url>
     <loc>http://localhost:1313/cnc/troubleshooting/index.html</loc>

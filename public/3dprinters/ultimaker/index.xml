@@ -3,7 +3,7 @@
   <channel>
     <title>UltiMaker :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/ultimaker/index.html</link>
-    <description>The ultimaker is the biggest printer here in the CID and has the biggest build volume. It is also in my opinion the easiest to use. These guides are used to print with this printer:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to printer&#xA;Printing</description>
+    <description> The ultimaker is the biggest printer here in the CID and has the biggest build volume. It is also in my opinion the easiest to use. These guides are used to print with this printer:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to printer&#xA;Printing</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
@@ -13,49 +13,42 @@
       <link>http://localhost:1313/3dprinters/ultimaker/uploadingfiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/uploadingfiles/index.html</guid>
-      <description>To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the UltiMaker Cura application.&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.&#xA;Moving To move the print around the print bed, first click the item you wish to move, then click the ( ) icon and you will see three arrows pop up around your shape.</description>
+      <description> To upload files to the Ultimaker first get the stl, obj, or other 3D file type and open it with UltiMaker Cura either through opening through File Explorer or dragging the file into the UltiMaker Cura application.&#xA;Once the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.</description>
     </item>
     <item>
       <title>Printer Settings</title>
       <link>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/printersettings/index.html</guid>
-      <description>Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here.&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strength, and accuracy. Use this for general projects.&#xA;Visual prioritizes the outwards appearance to optimize visual properties. Use this for projects that need to look good.</description>
+      <description> Once you have your object oriented as desired, move to the print settings menu.&#xA;There you will see lots of options, which I will briefly review here.&#xA;Profiles Firstly you will see a list of Profiles. These are the easiest way to select your settings.&#xA;Balanced strikes a balance of productivity, quality, strength, and accuracy. Use this for general projects.</description>
     </item>
     <item>
       <title>Slicing Files</title>
       <link>http://localhost:1313/3dprinters/ultimaker/slicefiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/slicefiles/index.html</guid>
-      <description>Once you have set up your print how you want it, press the Slice button in the bottom right.&#xA;Once you do this, you will see a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.</description>
+      <description> Once you have set up your print how you want it, press the Slice button in the bottom right.&#xA;Once you do this, you will see a new tab appear, Preview. This allows you to look at the exact printing path of the printer.</description>
     </item>
     <item>
       <title>Transferring to Printer</title>
       <link>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/transferringtoprinter/index.html</guid>
-      <description>Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to UltiMaker Cura and look to the bottom right. If the button says Save To Removable Drive click it. If not, click the up arrow, then click Save To Removable Drive to make the button read Save To Removable Drive, then click the button.</description>
+      <description> Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to UltiMaker Cura and look to the bottom right. If the button says Save To Removable Drive click it. If not, click the up arrow, then click Save To Removable Drive to make the button read Save To Removable Drive, then click the button.</description>
     </item>
     <item>
       <title>Printing</title>
       <link>http://localhost:1313/3dprinters/ultimaker/printing/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/printing/index.html</guid>
-      <description>Once you plug the USB into the printer, you should be greeted with this image.&#xA;To print, hit the Print from USB button, then scroll until you see the file you wish to print. Press the file name and another menu will appear.&#xA;Check that the time, and two filament types match what you expect, and then press start print. Your file should then print! If the filament types do not match what is in the printer, go to the Changing Filament Section.</description>
-    </item>
-    <item>
-      <title>Changing Filament</title>
-      <link>http://localhost:1313/3dprinters/ultimaker/changingfilament/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/ultimaker/changingfilament/index.html</guid>
-      <description>To change the filament on the printer, go to the home menu and click the ( ) icon. The following menu should then appear.&#xA;To change the filament, go to the extruder that you wish to change, and press the top button over that extruder number. Another menu will appear then.&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament.</description>
+      <description> Once you plug the USB into the printer, you should be greeted with this image.&#xA;To print, hit the Print from USB button, then scroll until you see the file you wish to print. Press the file name and another menu will appear.</description>
     </item>
     <item>
       <title>Troubleshooting</title>
       <link>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:27 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/troubleshootingandrecalibration/index.html</guid>
-      <description>Most errors with the UltiMaker will create an error message accompanied by the QR code. If this happens scan the QR code to find out how to fix the error.&#xA;The most common errors occur when:&#xA;The white silicone cover is not on the print heads: To fix this reinsert the silicone cover.&#xA;The printer thinks it does not have filament loaded but does: To fix hit the OK button and hit resume when it returns to the printing screen, the printer will figure out that it does in fact have filament.</description>
+      <description> Most errors with the UltiMaker will create an error message accompanied by the QR code. If this happens scan the QR code to find out how to fix the error.&#xA;The most common errors occur when:&#xA;The white silicone cover is not on the print heads: To fix this reinsert the silicone cover.&#xA;The printer thinks it does not have filament loaded but does: To fix hit the OK button and hit resume when it returns to the printing screen, the printer will figure out that it does in fact have filament.</description>
     </item>
   </channel>
 </rss>

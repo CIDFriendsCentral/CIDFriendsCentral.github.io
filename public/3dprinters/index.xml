@@ -3,7 +3,7 @@
   <channel>
     <title>3D Printers :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/index.html</link>
-    <description>We haev a large collection of 3D printers here in the CID, where you can design and print anything you can imagine!&#xA;The pinters availible in the CID are:&#xA;FormLabs Resin Printer&#xA;Ultimaker with Dual Extrusion&#xA;Prusa Mark 4&#xA;Lulzbot Mini</description>
+    <description> We haev a large collection of 3D printers here in the CID, where you can design and print anything you can imagine!&#xA;The pinters availible in the CID are:&#xA;FormLabs Resin Printer&#xA;Ultimaker with Dual Extrusion&#xA;Prusa Mark 4&#xA;Lulzbot Mini</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
@@ -11,30 +11,30 @@
     <item>
       <title>Formlabs</title>
       <link>http://localhost:1313/3dprinters/formlabs/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/formlabs/index.html</guid>
-      <description>The FormLabs resin printer is the highest detail printer here in the CID and can create incredibly fine figures. Printing upside-down on the print bed, the FormLabs printer is one of the slower but more precise printers. To use it follow these guides:&#xA;Uploading Files&#xA;Print Settings&#xA;Printing&#xA;Removing From Bed&#xA;Washing and Baking&#xA;Changing Resin</description>
+      <description> The FormLabs resin printer is the highest detail printer here in the CID and can create incredibly fine figures. Printing upside-down on the print bed, the FormLabs printer is one of the slower but more precise printers. To use it follow these guides:&#xA;Uploading Files&#xA;Print Settings&#xA;Printing&#xA;Removing From Bed&#xA;Washing and Baking&#xA;Changing Resin</description>
     </item>
     <item>
       <title>UltiMaker</title>
       <link>http://localhost:1313/3dprinters/ultimaker/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/ultimaker/index.html</guid>
-      <description>The ultimaker is the biggest printer here in the CID and has the biggest build volume. It is also in my opinion the easiest to use. These guides are used to print with this printer:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to printer&#xA;Printing</description>
+      <description> The ultimaker is the biggest printer here in the CID and has the biggest build volume. It is also in my opinion the easiest to use. These guides are used to print with this printer:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to printer&#xA;Printing</description>
     </item>
     <item>
       <title>Prusa Mark 4</title>
       <link>http://localhost:1313/3dprinters/prusamark4/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/index.html</guid>
-      <description>The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
+      <description> The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
     </item>
     <item>
       <title>Lulzbot</title>
       <link>http://localhost:1313/3dprinters/lulzbot/index.html</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/lulzbot/index.html</guid>
-      <description>The lulzbot is the simplest printer, although has some filament limitations. To use it use these guides:&#xA;Uploading Files&#xA;Print Settings&#xA;Slicing Files&#xA;Transferring and Printing&#xA;Changing Filament</description>
+      <description> The lulzbot is the simplest printer, although has some filament limitations. To use it use these guides:&#xA;Uploading Files&#xA;Print Settings&#xA;Slicing Files&#xA;Transferring and Printing&#xA;Changing Filament</description>
     </item>
   </channel>
 </rss>
