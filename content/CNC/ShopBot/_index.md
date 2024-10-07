@@ -1,6 +1,6 @@
 +++
-archetype = "chapter"
-title = "CNC Machine (Shopbot)"
+alwaysopen=false
+title = "Shopbot"
 weight = 3
 +++
 ---

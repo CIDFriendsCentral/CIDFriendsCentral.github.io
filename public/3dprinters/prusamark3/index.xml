@@ -1,61 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prusa Mark 3 :: CID guide website</title>
+    <title>Prusa Mark 4 :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark3/index.html</link>
-    <description>Cura m3 stuff</description>
+    <description> The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 08 May 2024 09:34:44 -0400</lastBuildDate>
     <atom:link href="http://localhost:1313/3dprinters/prusamark3/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>UploadingFiles</title>
+      <title>Uploading Files</title>
       <link>http://localhost:1313/3dprinters/prusamark3/uploadingfiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark3/uploadingfiles/index.html</guid>
-      <description></description>
+      <description> To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (&#xD;) icon and selecting the file.</description>
     </item>
     <item>
-      <title>TroubleshootingAndRecalibration</title>
-      <link>http://localhost:1313/3dprinters/prusamark3/troubleshootingandrecalibration/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:34:27 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark3/troubleshootingandrecalibration/index.html</guid>
-      <description></description>
+      <title>Printer Settings</title>
+      <link>http://localhost:1313/3dprinters/prusamark3/printersettings/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark3/printersettings/index.html</guid>
+      <description> Once you are satified with the object placement, move to the right menu.&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.</description>
     </item>
     <item>
-      <title>TransferringToPrinter</title>
-      <link>http://localhost:1313/3dprinters/prusamark3/transferringtoprinter/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark3/transferringtoprinter/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>SliceFiles</title>
+      <title>Slice Files</title>
       <link>http://localhost:1313/3dprinters/prusamark3/slicefiles/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:55 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark3/slicefiles/index.html</guid>
-      <description></description>
+      <description> Once you have set up your print how you want it, press the Slice button in the bottom right.&#xA;insert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert </description>
+    </item>
+    <item>
+      <title>Transferring to Printer</title>
+      <link>http://localhost:1313/3dprinters/prusamark3/transferringtoprinter/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:10 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark3/transferringtoprinter/index.html</guid>
+      <description> Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (&#xD;) icon and hit Save when the window appears.</description>
     </item>
     <item>
       <title>Printing</title>
       <link>http://localhost:1313/3dprinters/prusamark3/printing/index.html</link>
       <pubDate>Wed, 08 May 2024 09:33:43 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark3/printing/index.html</guid>
-      <description></description>
+      <description> Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.&#xA;If this is the file you wish to print, simply click the knob and it will begin printing.</description>
     </item>
     <item>
-      <title>PrinterSettings</title>
-      <link>http://localhost:1313/3dprinters/prusamark3/printersettings/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:33:28 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark3/printersettings/index.html</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>ChangingFilament</title>
-      <link>http://localhost:1313/3dprinters/prusamark3/changingfilament/index.html</link>
+      <title>Changing Filament</title>
+      <link>http://localhost:1313/3dprinters/prusamark3/changingfilament-copy/index.html</link>
       <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
-      <guid>http://localhost:1313/3dprinters/prusamark3/changingfilament/index.html</guid>
-      <description></description>
+      <guid>http://localhost:1313/3dprinters/prusamark3/changingfilament-copy/index.html</guid>
+      <description> To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.&#xA;Load will let you load a filament into the printer. Follow the instructions on the screen.&#xA;Unload will let you unload the currently stored filament. Follow the instructions on the screen.</description>
     </item>
   </channel>
 </rss>

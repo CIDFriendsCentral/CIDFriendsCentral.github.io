@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>TransferringToPrinter :: CID guide website</title>
+    <title>Transferring to Printer :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark3/transferringtoprinter/index.html</link>
-    <description></description>
+    <description> Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (&#xD;) icon and hit Save when the window appears.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

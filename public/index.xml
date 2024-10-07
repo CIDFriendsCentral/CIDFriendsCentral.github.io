@@ -16,11 +16,11 @@
       <description> We haev a large collection of 3D printers here in the CID, where you can design and print anything you can imagine!&#xA;The pinters availible in the CID are:&#xA;FormLabs Resin Printer&#xA;Ultimaker with Dual Extrusion&#xA;Prusa Mark 4&#xA;Lulzbot Mini</description>
     </item>
     <item>
-      <title>CNC Machine (Shopbot)</title>
-      <link>http://localhost:1313/cnc/index.html</link>
-      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
-      <guid>http://localhost:1313/cnc/index.html</guid>
-      <description> The CNC is the biggest and most heavy-duty piece of machinery in the CID. It can cut very large objects and is good for both 2D and 3D pieces, although it has some limitations when working in 3D. It can be used to cut wood, acrylic, stone, metal, and many more materials. It is also the most dangerous of the machines so please take extreme care when using it:&#xA;2D Design and Setup</description>
+      <title>Laser Cutters</title>
+      <link>http://localhost:1313/laser-cutters/index.html</link>
+      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
+      <guid>http://localhost:1313/laser-cutters/index.html</guid>
+      <description></description>
     </item>
     <item>
       <title>Wazer</title>
@@ -30,10 +30,10 @@
       <description> The wazer is a very powerful tool, used mostly for cutting metal this machine is a little harder to use but very effective, and less dangerous and easy to break than the CNC. To use this machine, follow these guides:&#xA;Uploading Files&#xA;Cut Settings&#xA;Securing Material&#xA;Water and Sediment Setup&#xA;Cutting</description>
     </item>
     <item>
-      <title>Laser Cutters</title>
-      <link>http://localhost:1313/laser-cutters/index.html</link>
-      <pubDate>Tue, 07 May 2024 15:15:22 -0400</pubDate>
-      <guid>http://localhost:1313/laser-cutters/index.html</guid>
+      <title>CNCs</title>
+      <link>http://localhost:1313/cnc/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/index.html</guid>
       <description></description>
     </item>
   </channel>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Printer Settings :: CID guide website</title>
+    <link>http://localhost:1313/3dprinters/prusaxl/printersettings/index.html</link>
+    <description> Once you are satified with the object placement, move to the right menu.&#xA;Print settings Here you will see a list of settings for layer heights:&#xA;0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.&#xA;0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/3dprinters/prusaxl/printersettings/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

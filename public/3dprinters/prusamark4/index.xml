@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Prusa Mark 4 :: CID guide website</title>
+    <title>Prusa Mark 3 :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark4/index.html</link>
     <description> The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
     <generator>Hugo</generator>

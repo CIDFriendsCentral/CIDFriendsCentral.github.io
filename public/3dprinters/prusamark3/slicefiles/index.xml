@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>SliceFiles :: CID guide website</title>
+    <title>Slice Files :: CID guide website</title>
     <link>http://localhost:1313/3dprinters/prusamark3/slicefiles/index.html</link>
-    <description></description>
+    <description> Once you have set up your print how you want it, press the Slice button in the bottom right.&#xA;insert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.&#xA;insert </description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate></lastBuildDate>

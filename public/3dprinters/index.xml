@@ -23,10 +23,24 @@
       <description> The ultimaker is the biggest printer here in the CID and has the biggest build volume. It is also in my opinion the easiest to use. These guides are used to print with this printer:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to printer&#xA;Printing</description>
     </item>
     <item>
-      <title>Prusa Mark 4</title>
+      <title>Prusa Mark 3</title>
       <link>http://localhost:1313/3dprinters/prusamark4/index.html</link>
       <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
       <guid>http://localhost:1313/3dprinters/prusamark4/index.html</guid>
+      <description> The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
+    </item>
+    <item>
+      <title>Prusa Mark 4</title>
+      <link>http://localhost:1313/3dprinters/prusamark3/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusamark3/index.html</guid>
+      <description> The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
+    </item>
+    <item>
+      <title>Prusa XL</title>
+      <link>http://localhost:1313/3dprinters/prusaxl/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:34:44 -0400</pubDate>
+      <guid>http://localhost:1313/3dprinters/prusaxl/index.html</guid>
       <description> The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:&#xA;Uploading Files&#xA;Printer Settings&#xA;Slicing Files&#xA;Transferring to Printer&#xA;Printing&#xA;Changing Filament</description>
     </item>
     <item>

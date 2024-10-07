@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2D Cutting :: CID guide website</title>
+    <link>http://localhost:1313/cnc/shopbot/2d-cutting/index.html</link>
+    <description> The CNC machine’s primary functionality is cutting 2D parts. It can create cuts of many types and outline, engrave, and carve designs into almost any material. To prepare 2d files use these guides:&#xA;Uploading 2D Files&#xA;Creating 2D Paths</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 09:32:56 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/cnc/shopbot/2d-cutting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Uploading Files</title>
+      <link>http://localhost:1313/cnc/shopbot/2d-cutting/uploading/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/shopbot/2d-cutting/uploading/index.html</guid>
+      <description> How to use aspire (main) To start designing a part, go into Aspire and click File &gt; New. This will create a new Aspire file in the .crv3d format. It will also take you to the Job Setup menu.&#xA;Here, you can set the width, height, and thickness of the material you will be cutting (in the Job Size section). Don’t change anything else in this menu. To confirm the size of the job, press OK at the bottom left. If you want to go back to this menu to edit the size of the cut, go to Edit &gt; Job Size and Position.</description>
+    </item>
+    <item>
+      <title>Path Settings</title>
+      <link>http://localhost:1313/cnc/shopbot/2d-cutting/path/index.html</link>
+      <pubDate>Wed, 08 May 2024 09:32:56 -0400</pubDate>
+      <guid>http://localhost:1313/cnc/shopbot/2d-cutting/path/index.html</guid>
+      <description> Once you have your vector file, we will create cut paths for the file.&#xA;Once you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.&#xA;Open the toolpaths tab on the top right corner of Aspire. It will create a menu on the right side.</description>
+    </item>
+  </channel>
+</rss>

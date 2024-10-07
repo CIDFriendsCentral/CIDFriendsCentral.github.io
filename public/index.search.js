@@ -45,7 +45,23 @@ var relearn_search_index = [
     "description": " To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (\r) icon and selecting the file.",
     "tags": [],
     "title": "Uploading Files",
+    "uri": "/3dprinters/prusamark3/uploadingfiles/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
+    "content": " To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (\r) icon and selecting the file.\nOnce the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.\nTools In the top menu you will see a list of options.\n(\r) will allow you to add a file from file explorer\n(\r) will delete the current selected object\n(\r) will clear the buildplate of all objects\n(\r) will arrange the models on the buildplate\n(\r) will copy the selected object\n(\r) will paste from the clipboard\n(\r) will add a copy of that object\n(\r) will remove a copy of that object\n(\r) will split a separated object into multiple objects\n(\r) will split a separated object into multiple parts\n(\r) will let you search features\n(\r) will bring up the variable layer height menu which is beyond the scope of this guide and should not be used without a more comprehensive understanding of the printers.\n(\r) undoes the last action\n(\r) redoes the last undo\nMoving To move the print around the print bed, first click the item you wish to move, then either drag your shape to its intended position, or click the (\r) icon and you will see three arrows pop up around your shape.\nOnce that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.\nYou can also set its exact position with the menu on the bottom right of the screen.\nThere you will also see a menu with two options World Coordinates and Object Coordinates.\nWorld Coordinates lets you set position relative to the bed, with 0,0 being at the bottom left corner.\nObject Coordinates lets you shift the object from its current position and will move it as far as you put in. You can also switch to measuring in inches by checking the inches box.\nScaling To scale your object, select the object, then select the (\r) icon, and three lines with boxes will appear, as well as a few orange boxes in a square around it.\nYou can grab any of the three to stretch the object in the direction of that line, or instead grab one of the orange boxes to stretch in all directions equally.\nYou can also set its exact scale with the menu on the bottom right of the screen.\nScale Factors allows you to set the scale relative to the original object.\nSize \\[World\\] allows you to set the numeric size along all three axis. You can also switch to measuring in inches by checking the inches box.\nIf the lock icon is closed, the object will retain it’s original proportions and scale axis equally. If it is open you can manipulate the three separately.\nThe rewind icon will set the object to it’s original dimensions.\nRotation To rotate your object, select the object, then select the (\r) icon, and three rings will appear.\nYou can grab these rings and rotate them to rotate the object how you would like it to print. Keep in mind where the front of the bed is, signified by where it is written Prusa MK4.\nIt is recommended to rotate the object so that the least amount of overhang is achieved:\nAnd the maximum amount of the print is touching the build plate:\nYou can also set its exact rotation with the menu on the bottom right of the screen.\nPutting numbers in the text boxes will rotate the object in the direction of the arrows that appear as many degrees as you insert in the box.\nYou can also click the (\r) icon and your object will show white planes. Clicking one of these will orient the object so that the selected plane is touching the buildplate.\nCutting To cut your object in 2 pieces, hit the (\r) icon, and a menu will appear, as well as the cutting plane.\nIn the menu you will see a selection box labeled Mode. Inside there are two options, Planar and Dovetail.\nPlanar When you select planar, you should first select where you would like to cut the file. The plane will automatically appear and shade the two halves of the object different colors. To adjust this cut, you can either drag the red and green arrows to tilt the plane, or grab and drag the grey ball to move the plane.\nYou can also set the height of the cut off of the buildplate automatically in the menu.\nThis will create a smooth cut into two pieces.\nIf you want to instead have a more secure way of joining these pieces after you cut, press the Add Connectors button.\nFrom there it will hide one of the two halves, and allow you to place connectors. You will see 3 options for the type of connector, Plug, Dowel, and Snap.\nPlug creates a small protrusion from one side, and a matching hole in the other. You can select whether you would like a prism or frustum shape:\nAs well as what shape you would like it to be, triangle, square, hexagon, or circle:\nDowel creates holes in both halves of the print as well as a small dowel to join the two.\nAgain you can choose the shape of the dowel, triangle, square, hexagon, or circle:\nSnap creates a small mechanism which will snap into a hole in the other piece.\nFor all of these options, you can change the depth out of or into the piece, the horizontal size of the peg, and the rotation around its center.\nFor the snap you can alter the bulge of the top section and space between connectors. Hitting the rewind icon will pu tit back to default settings.\nOnce you are happy with the settings, you can click anywhere on the orange surface to place the connector where you click.\nHit confirm connectors once you are happy with the connector position and settings or cancel to return to the cut menu.\nDovetail Dovetail will create a unique joint between the two pieces, where one will be able to slide into the other.\nThe plane will automatically appear and shade the two halves of the object different colors. To adjust this cut, you can either drag the red and green arrows to tilt the plane, grab and drag the white ball to rotate the groove, or grab and drag the grey ball or cube to move the plane.\nYou can also set the height of the cut off of the buildplate automatically in the menu.\nFrom there you can adjust the settings of the dovetail joint, with the sliders provided. Hitting the rewind icon on any slider will set that slider back to it’s default position.\nCut Result Below the other settings, you will see a section named Cut Result. There you will see a column for each half of the cut. If the check box is selected the cut will generate that pice and not discard it.\nYou can then select how to place the object once it cuts. Keep Orientation will keep the object as it is before that cut. Place On Cut will lay the object along the plane of the cut. Flip Upside Down will invert the object.\nIf you have selected planar and not added connectors, you can at the bottom select to cut into parts instead of objects, which will leave the two sides connected but allow them to have their settings edited separately with the left parts menu.\nSupport Painting If you press the (\r) icon you can add supports in specific spots by “painting” with your mouse. Click and drag to add supports where you drag, and right click and drag to block supports in the certain spots you “paint”.\nYou can also automatically paint areas, edit where can be painted, and edit your “brush” shape in the menu below.\nSeam Painting If you press the (\r) icon you can control where each layer of the print starts and ends, creating a small slightly visible seam.\nClicking and dragging will force the printer to place a seam there, and right clicking and dragging will stop seams in that area.\nYou can also change the shape of your brush and view options in the menu that appears.\nMeasuring To measure your object, select the object, then select the (\r) icon. You can then click individual faces, edges, and points to measure the distance, angle, and areas of the parts selected.\nWhen you measure a length, a (\r) icon will appear, and allow you to change the length highlighted and scale the rest of the model to enforce that length.\nIn the menu you can either hit the Restart Selection button to clear your selection, or click the (\r) icon next to the measures to copy the numbers there.\nDone? Once you are happy with the object’s placement, move to the Printer Settings section.",
+    "description": " To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (\r) icon and selecting the file.",
+    "tags": [],
+    "title": "Uploading Files",
     "uri": "/3dprinters/prusamark4/uploadingfiles/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa XL",
+    "content": " To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (\r) icon and selecting the file.\nOnce the file loads in, you can move it around the buildplate and change it to your likings, or upload more files by dragging them into the application window.\nTools In the top menu you will see a list of options.\n(\r) will allow you to add a file from file explorer\n(\r) will delete the current selected object\n(\r) will clear the buildplate of all objects\n(\r) will arrange the models on the buildplate\n(\r) will copy the selected object\n(\r) will paste from the clipboard\n(\r) will add a copy of that object\n(\r) will remove a copy of that object\n(\r) will split a separated object into multiple objects\n(\r) will split a separated object into multiple parts\n(\r) will let you search features\n(\r) will bring up the variable layer height menu which is beyond the scope of this guide and should not be used without a more comprehensive understanding of the printers.\n(\r) undoes the last action\n(\r) redoes the last undo\nMoving To move the print around the print bed, first click the item you wish to move, then either drag your shape to its intended position, or click the (\r) icon and you will see three arrows pop up around your shape.\nOnce that happens you can either move it on the main axis by dragging those arrows, or just grab and drag the object to wherever you want it.\nYou can also set its exact position with the menu on the bottom right of the screen.\nThere you will also see a menu with two options World Coordinates and Object Coordinates.\nWorld Coordinates lets you set position relative to the bed, with 0,0 being at the bottom left corner.\nObject Coordinates lets you shift the object from its current position and will move it as far as you put in. You can also switch to measuring in inches by checking the inches box.\nScaling To scale your object, select the object, then select the (\r) icon, and three lines with boxes will appear, as well as a few orange boxes in a square around it.\nYou can grab any of the three to stretch the object in the direction of that line, or instead grab one of the orange boxes to stretch in all directions equally.\nYou can also set its exact scale with the menu on the bottom right of the screen.\nScale Factors allows you to set the scale relative to the original object.\nSize \\[World\\] allows you to set the numeric size along all three axis. You can also switch to measuring in inches by checking the inches box.\nIf the lock icon is closed, the object will retain it’s original proportions and scale axis equally. If it is open you can manipulate the three separately.\nThe rewind icon will set the object to it’s original dimensions.\nRotation To rotate your object, select the object, then select the (\r) icon, and three rings will appear.\nYou can grab these rings and rotate them to rotate the object how you would like it to print. Keep in mind where the front of the bed is, signified by where it is written Prusa MK4.\nIt is recommended to rotate the object so that the least amount of overhang is achieved:\nAnd the maximum amount of the print is touching the build plate:\nYou can also set its exact rotation with the menu on the bottom right of the screen.\nPutting numbers in the text boxes will rotate the object in the direction of the arrows that appear as many degrees as you insert in the box.\nYou can also click the (\r) icon and your object will show white planes. Clicking one of these will orient the object so that the selected plane is touching the buildplate.\nCutting To cut your object in 2 pieces, hit the (\r) icon, and a menu will appear, as well as the cutting plane.\nIn the menu you will see a selection box labeled Mode. Inside there are two options, Planar and Dovetail.\nPlanar When you select planar, you should first select where you would like to cut the file. The plane will automatically appear and shade the two halves of the object different colors. To adjust this cut, you can either drag the red and green arrows to tilt the plane, or grab and drag the grey ball to move the plane.\nYou can also set the height of the cut off of the buildplate automatically in the menu.\nThis will create a smooth cut into two pieces.\nIf you want to instead have a more secure way of joining these pieces after you cut, press the Add Connectors button.\nFrom there it will hide one of the two halves, and allow you to place connectors. You will see 3 options for the type of connector, Plug, Dowel, and Snap.\nPlug creates a small protrusion from one side, and a matching hole in the other. You can select whether you would like a prism or frustum shape:\nAs well as what shape you would like it to be, triangle, square, hexagon, or circle:\nDowel creates holes in both halves of the print as well as a small dowel to join the two.\nAgain you can choose the shape of the dowel, triangle, square, hexagon, or circle:\nSnap creates a small mechanism which will snap into a hole in the other piece.\nFor all of these options, you can change the depth out of or into the piece, the horizontal size of the peg, and the rotation around its center.\nFor the snap you can alter the bulge of the top section and space between connectors. Hitting the rewind icon will pu tit back to default settings.\nOnce you are happy with the settings, you can click anywhere on the orange surface to place the connector where you click.\nHit confirm connectors once you are happy with the connector position and settings or cancel to return to the cut menu.\nDovetail Dovetail will create a unique joint between the two pieces, where one will be able to slide into the other.\nThe plane will automatically appear and shade the two halves of the object different colors. To adjust this cut, you can either drag the red and green arrows to tilt the plane, grab and drag the white ball to rotate the groove, or grab and drag the grey ball or cube to move the plane.\nYou can also set the height of the cut off of the buildplate automatically in the menu.\nFrom there you can adjust the settings of the dovetail joint, with the sliders provided. Hitting the rewind icon on any slider will set that slider back to it’s default position.\nCut Result Below the other settings, you will see a section named Cut Result. There you will see a column for each half of the cut. If the check box is selected the cut will generate that pice and not discard it.\nYou can then select how to place the object once it cuts. Keep Orientation will keep the object as it is before that cut. Place On Cut will lay the object along the plane of the cut. Flip Upside Down will invert the object.\nIf you have selected planar and not added connectors, you can at the bottom select to cut into parts instead of objects, which will leave the two sides connected but allow them to have their settings edited separately with the left parts menu.\nSupport Painting If you press the (\r) icon you can add supports in specific spots by “painting” with your mouse. Click and drag to add supports where you drag, and right click and drag to block supports in the certain spots you “paint”.\nYou can also automatically paint areas, edit where can be painted, and edit your “brush” shape in the menu below.\nSeam Painting If you press the (\r) icon you can control where each layer of the print starts and ends, creating a small slightly visible seam.\nClicking and dragging will force the printer to place a seam there, and right clicking and dragging will stop seams in that area.\nYou can also change the shape of your brush and view options in the menu that appears.\nMeasuring To measure your object, select the object, then select the (\r) icon. You can then click individual faces, edges, and points to measure the distance, angle, and areas of the parts selected.\nWhen you measure a length, a (\r) icon will appear, and allow you to change the length highlighted and scale the rest of the model to enforce that length.\nIn the menu you can either hit the Restart Selection button to clear your selection, or click the (\r) icon next to the measures to copy the numbers there.\nDone? Once you are happy with the object’s placement, move to the Printer Settings section.",
+    "description": " To upload files to the Prusa Printers first get the stl, obj, or other 3D file type and open it with PrusaSlicer either through opening through File Explorer or dragging the file into the PrusaSlicer application, or clicking the (\r) icon and selecting the file.",
+    "tags": [],
+    "title": "Uploading Files",
+    "uri": "/3dprinters/prusaxl/uploadingfiles/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e UltiMaker",
@@ -56,36 +72,44 @@ var relearn_search_index = [
     "uri": "/3dprinters/ultimaker/uploadingfiles/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot)",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot",
     "content": " The CNC machine’s primary functionality is cutting 2D parts. It can create cuts of many types and outline, engrave, and carve designs into almost any material. To prepare 2d files use these guides:\nUploading 2D Files\nCreating 2D Paths",
     "description": " The CNC machine’s primary functionality is cutting 2D parts. It can create cuts of many types and outline, engrave, and carve designs into almost any material. To prepare 2d files use these guides:\nUploading 2D Files\nCreating 2D Paths",
     "tags": [],
     "title": "2D Cutting",
-    "uri": "/cnc/2d-cutting/index.html"
+    "uri": "/cnc/shopbot/2d-cutting/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot)",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot",
     "content": " The CNC machine has some good options for cutting simple but large 3D parts. Careful use of the settings is important here to get good results. Use these guides for 3D file setup:\nUploading 3D Files\nSmooth and Rough Carving",
     "description": " The CNC machine has some good options for cutting simple but large 3D parts. Careful use of the settings is important here to get good results. Use these guides for 3D file setup:\nUploading 3D Files\nSmooth and Rough Carving",
     "tags": [],
     "title": "3D Cutting",
-    "uri": "/cnc/3d-cutting/index.html"
+    "uri": "/cnc/shopbot/3d-cutting/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot) \u003e 2D Cutting",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot \u003e 2D Cutting",
     "content": " How to use aspire (main) To start designing a part, go into Aspire and click File \u003e New. This will create a new Aspire file in the .crv3d format. It will also take you to the Job Setup menu.\nHere, you can set the width, height, and thickness of the material you will be cutting (in the Job Size section). Don’t change anything else in this menu. To confirm the size of the job, press OK at the bottom left. If you want to go back to this menu to edit the size of the cut, go to Edit \u003e Job Size and Position.\nOnce you confirm, you will see the workspace.\nYou can import vectors into Aspire by going into Aspire and clicking File \u003e Import… \u003e Import Vectors. You can then import a .svg vector file.\nYou can also make vectors within Aspire. You can do this by pressing one of the buttons in the “Create Vectors” section of the “Drawing” tab.\nTo move things around in Aspire, use “Transform Mode” - the third tool from the left of the “Edit Objects” section of the “Drawing” tab.\nYou can save Aspire files by pressing File \u003e Save or pressing Ctrl + S. Aspire does not autosave your files, so remember to save them before you close the program.\nOnce you have uploaded or created your vectors, move to the Creating 2D Paths section.",
     "description": " How to use aspire (main) To start designing a part, go into Aspire and click File \u003e New. This will create a new Aspire file in the .crv3d format. It will also take you to the Job Setup menu.\nHere, you can set the width, height, and thickness of the material you will be cutting (in the Job Size section). Don’t change anything else in this menu. To confirm the size of the job, press OK at the bottom left. If you want to go back to this menu to edit the size of the cut, go to Edit \u003e Job Size and Position.",
     "tags": [],
     "title": "Uploading Files",
-    "uri": "/cnc/2d-cutting/uploading/index.html"
+    "uri": "/cnc/shopbot/2d-cutting/uploading/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot) \u003e 3D Cutting",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot \u003e 3D Cutting",
     "content": " To begin to create a 3D part, meaning any shape that is not a flat design or simple prism, you will want to create the file outside of Aspire first. There is some modeling functionality in Aspire but it will be much easier to create the part with a different software.Once you have your 3d part created, export it as an .obj or .stl file.\nOnce you have your file, open it with Aspire, edit the job settings as you would with a 2d part, and you will have your file, likely much larger than you intended.\nTo fix this you should change the dimensions in the options box that appears on the side of the screen.\nWithin this box you can also rotate it with the profile buttons and the boxes for rotation. Keep in mind that the Shopbot can only cut downwards and not to the side, so keep in mind how your model is oriented and you will have all of the holes you intended.\nWhen you are satisfied hit the Position And Import button.\nSince the Shopbot cannot cut both the top and bottom of a piece at the same time, it will cut the top and bottom halves separately. You can adjust this by changing the number in the second option box.\nWhen you do that, the models will appear on top of each other in the 2d view, choose the move tool (cursor with a cross) and move one of the 2 objects away so they do not overlap.\nNext go to the drawing tools and get the rectangle tool. Create a rectangle around both of your parts.\nThen move to the Smooth and Rough Carving section.",
     "description": " To begin to create a 3D part, meaning any shape that is not a flat design or simple prism, you will want to create the file outside of Aspire first. There is some modeling functionality in Aspire but it will be much easier to create the part with a different software.Once you have your 3d part created, export it as an .obj or .stl file.\nOnce you have your file, open it with Aspire, edit the job settings as you would with a 2d part, and you will have your file, likely much larger than you intended.",
     "tags": [],
     "title": "Uploading Files",
-    "uri": "/cnc/3d-cutting/uploading/index.html"
+    "uri": "/cnc/shopbot/3d-cutting/uploading/index.html"
+  },
+  {
+    "breadcrumb": "Home",
+    "content": " ",
+    "description": "",
+    "tags": [],
+    "title": "Laser Cutters",
+    "uri": "/laser-cutters/index.html"
   },
   {
     "breadcrumb": "Home \u003e Laser Cutters \u003e Glowforge",
@@ -108,8 +132,24 @@ var relearn_search_index = [
     "content": " The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:\nUploading Files\nPrinter Settings\nSlicing Files\nTransferring to Printer\nPrinting\nChanging Filament",
     "description": " The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:\nUploading Files\nPrinter Settings\nSlicing Files\nTransferring to Printer\nPrinting\nChanging Filament",
     "tags": [],
-    "title": "Prusa Mark 4",
+    "title": "Prusa Mark 3",
     "uri": "/3dprinters/prusamark4/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers",
+    "content": " The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:\nUploading Files\nPrinter Settings\nSlicing Files\nTransferring to Printer\nPrinting\nChanging Filament",
+    "description": " The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:\nUploading Files\nPrinter Settings\nSlicing Files\nTransferring to Printer\nPrinting\nChanging Filament",
+    "tags": [],
+    "title": "Prusa Mark 4",
+    "uri": "/3dprinters/prusamark3/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers",
+    "content": " The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:\nUploading Files\nPrinter Settings\nSlicing Files\nTransferring to Printer\nPrinting\nChanging Filament",
+    "description": " The Prusa Mark 4s are arguably the best printers we have, with a great mix of speed and accuracy, and they can be run at up to 500% speed with a good level of accuracy. The guides to print with these are below:\nUploading Files\nPrinter Settings\nSlicing Files\nTransferring to Printer\nPrinting\nChanging Filament",
+    "tags": [],
+    "title": "Prusa XL",
+    "uri": "/3dprinters/prusaxl/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Formlabs",
@@ -133,7 +173,23 @@ var relearn_search_index = [
     "description": " Once you are satified with the object placement, move to the right menu.\nPrint settings Here you will see a list of settings for layer heights:\n0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.\n0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.",
     "tags": [],
     "title": "Printer Settings",
+    "uri": "/3dprinters/prusamark3/printersettings/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
+    "content": " Once you are satified with the object placement, move to the right menu.\nPrint settings Here you will see a list of settings for layer heights:\n0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.\n0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.\n0.2 mm has the same options, but both will be faster but lower quality than their 0.15 mm counterparts.\nFilament Here you can select the type of filament to be printed. Make sure this matches what is loaded in the printer before printing.\nPrinter Here you select which printer to use. Select Original Prusa MK4 Input Shaper 0.4 nozzle.\nSupports Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print.\nThe options in the dropdown designate where supports generate, and gives 4 options, None, Support on Buildplate Only, For Support Enforcers Only, and Everywhere.\nNone will not create any supports.\nSupport on Buildplate Only will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support.\nFor Support Enforcers Only only puts supports in specified spots, either by you or the model itself.\nEverywhere means any overhang will be supported, no matter where on the print it is.\nIt is recommended to use Everywhere when overhangs are present.\nInfill This will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full.\nAnything down to 10% will be self supporting enough, although 20% is recommended for nearly every print. 70% is the absolute maximum you need to go for a high strength print, however this should only be used if extreme strength is needed.\nBrim The brim helps prints stick to the print bed and avoid shifting and warping off of the bed. It is recommended to keep this setting selected for any print.\nPart Specific Settings. In the part menu, you can select and change settings for specific parts by clicking the (\r) icon.\nThe full scope of this will not be covered on this website.\nCustom Settings In the top left you will see tabs wil more settings. These can affect more specific things about the print and printer but that is only recommended to use if you are more comfortable with the printer and how it works.\nDone? Once your settings are as desired, move to the Slicing Files section.",
+    "description": " Once you are satified with the object placement, move to the right menu.\nPrint settings Here you will see a list of settings for layer heights:\n0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.\n0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.",
+    "tags": [],
+    "title": "Printer Settings",
     "uri": "/3dprinters/prusamark4/printersettings/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa XL",
+    "content": " Once you are satified with the object placement, move to the right menu.\nPrint settings Here you will see a list of settings for layer heights:\n0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.\n0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.\n0.2 mm has the same options, but both will be faster but lower quality than their 0.15 mm counterparts.\nFilament Here you can select the type of filament to be printed. Make sure this matches what is loaded in the printer before printing.\nPrinter Here you select which printer to use. Select Original Prusa MK4 Input Shaper 0.4 nozzle.\nSupports Supports are how the printer helps overhangs print, as the printer must always work from bottom to top and cannot print without a surface to print on. Support can be selected and deselected, but is recommended to use whenever there are overhangs or floating objects in your print.\nThe options in the dropdown designate where supports generate, and gives 4 options, None, Support on Buildplate Only, For Support Enforcers Only, and Everywhere.\nNone will not create any supports.\nSupport on Buildplate Only will only support overhangs over the buildplate, and overhangs that have other bits of object below will not generate support.\nFor Support Enforcers Only only puts supports in specified spots, either by you or the model itself.\nEverywhere means any overhang will be supported, no matter where on the print it is.\nIt is recommended to use Everywhere when overhangs are present.\nInfill This will allow you to dictate how much of the interior of the print is filled in, with 0 meaning no fill, and 100 meaning completely full.\nAnything down to 10% will be self supporting enough, although 20% is recommended for nearly every print. 70% is the absolute maximum you need to go for a high strength print, however this should only be used if extreme strength is needed.\nBrim The brim helps prints stick to the print bed and avoid shifting and warping off of the bed. It is recommended to keep this setting selected for any print.\nPart Specific Settings. In the part menu, you can select and change settings for specific parts by clicking the (\r) icon.\nThe full scope of this will not be covered on this website.\nCustom Settings In the top left you will see tabs wil more settings. These can affect more specific things about the print and printer but that is only recommended to use if you are more comfortable with the printer and how it works.\nDone? Once your settings are as desired, move to the Slicing Files section.",
+    "description": " Once you are satified with the object placement, move to the right menu.\nPrint settings Here you will see a list of settings for layer heights:\n0.1 mm will be the most precise setting, good for visual detail or mechanical functionality.\n0.15 mm has both SPEED and STRUCTURAL options, choose SPEED for a faster print, or STRUCTURAL for a sturdier print.",
+    "tags": [],
+    "title": "Printer Settings",
+    "uri": "/3dprinters/prusaxl/printersettings/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e UltiMaker",
@@ -144,20 +200,20 @@ var relearn_search_index = [
     "uri": "/3dprinters/ultimaker/printersettings/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot) \u003e 2D Cutting",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot \u003e 2D Cutting",
     "content": " Once you have your vector file, we will create cut paths for the file.\nOnce you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.\nOpen the toolpaths tab on the top right corner of Aspire. It will create a menu on the right side.\nPin this menu by clicking the pin button in the top right corner of the menu that opens up so it’s easier to access.\nTo create a toolpath: first, select the vector that you would like to turn into a toolpath. Then, press one of the buttons in “Toolpath Operations” that look like wood (in the top three rows). This will make a toolpath out of the selected vector. There are some settings that you will have to adjust in the menu that appears.\nWhen the settings are correct, scroll down to the bottom of the tab with the scrollbar on the right and click the Calculate button to finish making the toolpath. This will display a preview of your cuts. Hit Clear Preview and then Preview all Paths to see what the paths will carve.\nRepeat this step with each vector part to create all of the toolpaths.\nIf you want to edit a toolpath, press the Edit Toolpaths button. To delete a toolpath, right click it in the toolpaths section below and press delete \u003e this.\nWhen you are done with creating and editing the toolpaths, export them by pressing the Save Toolpaths button. Make sure the toolpaths you want to export have the checkmark next to them checked.\nIn the menu that appears after clicking the Save Toolpaths button, make sure these settings are selected:\nVisible toolpaths to one file Machine: CID Shopbot Post Processor: ShopBot TC (inch)(`.sbp) Then press the Save Toolpath(s) … button at the bottom.\nThis will export your toolpaths as a .sbp file.\nOnce you have done this, move to the Securing Material page.",
     "description": " Once you have your vector file, we will create cut paths for the file.\nOnce you have the vectors, you need to turn them into toolpaths in order for the shopbot to be able to cut them.\nOpen the toolpaths tab on the top right corner of Aspire. It will create a menu on the right side.",
     "tags": [],
     "title": "Path Settings",
-    "uri": "/cnc/2d-cutting/path/index.html"
+    "uri": "/cnc/shopbot/2d-cutting/path/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot) \u003e 3D Cutting",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot \u003e 3D Cutting",
     "content": " Once you have your file set up correctly, select both of your pieces and the rectangle around them and select the rough machining toolpath.\nSelect your bit and make sure that `Machining Limit Boundary is set to “Selected Vectors.” Then Hit calculate. Your toolpath should look like a rough outline of your shape\nNow go back, select both pieces and the rectangle, and select Finish Machining Toolpath.\nNow for the bit selection, hit Select and then look for a bit that is the same size as the one you used for the first path, but says (Smooth Carve) on the end. If this bit exists, simply select it and use it. If not, create a new bit with the same settings as your original bit, but with a Stepover of 10% or less, a spindle speed of 12000 RPM, and a feed rate and plunge rate of 6. Rename it the name of your bit followed by “(Smooth Carve)”. Then select that bit you just made.\nMake sure that `Machining Limit Boundary is set to “Selected Vectors” and calculate your path.\nYou now have your cut file, and you are free to cut like any other piece. Go to the Securing Material section.",
     "description": " Once you have your file set up correctly, select both of your pieces and the rectangle around them and select the rough machining toolpath.\nSelect your bit and make sure that `Machining Limit Boundary is set to “Selected Vectors.” Then Hit calculate. Your toolpath should look like a rough outline of your shape",
     "tags": [],
     "title": "Smooth and Rough Carves",
-    "uri": "/cnc/3d-cutting/smoothrough/index.html"
+    "uri": "/cnc/shopbot/3d-cutting/smoothrough/index.html"
   },
   {
     "breadcrumb": "Home \u003e Wazer",
@@ -197,7 +253,23 @@ var relearn_search_index = [
     "description": " Once you have set up your print how you want it, press the Slice button in the bottom right.\ninsert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert ",
     "tags": [],
     "title": "Slice Files",
+    "uri": "/3dprinters/prusamark3/slicefiles/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
+    "content": " Once you have set up your print how you want it, press the Slice button in the bottom right.\ninsert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.\nAdding breaks You can add breaks, custom g-code, and filament swaps into your print from here, by sliding the slider on the right to where you want and either clicking the (\r) icon to add a color swap, or right clicking to choose between pause, custom g-code, and color swaps.\nPauses will stop the print and let you either add parts into the print or check the print, and resume when you press a button on the printer. Add custom g-code will have the printer run a set custom g-code file. Color swap will do the same as regular clicking.\nIf you choose to do a filament swap, make sure you are using the same type of filament.\nView Settings You can also see specific parts of the print broken down by type of print and shaded different colors, as well as a menu of options at the bottom. This lets you view more specific information about the print.\nOnce you have done this, move to the Transferring to Printer section.",
+    "description": " Once you have set up your print how you want it, press the Slice button in the bottom right.\ninsert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert ",
+    "tags": [],
+    "title": "Slice Files",
     "uri": "/3dprinters/prusamark4/slicefiles/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa XL",
+    "content": " Once you have set up your print how you want it, press the Slice button in the bottom right.\ninsert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert Here you can use the slider on the right to move up and down the layers, showing each layer path individually, and then use the bottom slider to watch the exact movement path for that layer.\nAdding breaks You can add breaks, custom g-code, and filament swaps into your print from here, by sliding the slider on the right to where you want and either clicking the (\r) icon to add a color swap, or right clicking to choose between pause, custom g-code, and color swaps.\nPauses will stop the print and let you either add parts into the print or check the print, and resume when you press a button on the printer. Add custom g-code will have the printer run a set custom g-code file. Color swap will do the same as regular clicking.\nIf you choose to do a filament swap, make sure you are using the same type of filament.\nView Settings You can also see specific parts of the print broken down by type of print and shaded different colors, as well as a menu of options at the bottom. This lets you view more specific information about the print.\nOnce you have done this, move to the Transferring to Printer section.",
+    "description": " Once you have set up your print how you want it, press the Slice button in the bottom right.\ninsert Once you do this, you will se a new tab appear, Preview. This allows you to look at the exact printing path of the printer.\ninsert ",
+    "tags": [],
+    "title": "Slice Files",
+    "uri": "/3dprinters/prusaxl/slicefiles/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Lulzbot",
@@ -224,12 +296,12 @@ var relearn_search_index = [
     "uri": "/3dprinters/formlabs/printing/index.html"
   },
   {
-    "breadcrumb": "Home",
+    "breadcrumb": "Home \u003e CNCs",
     "content": " The CNC is the biggest and most heavy-duty piece of machinery in the CID. It can cut very large objects and is good for both 2D and 3D pieces, although it has some limitations when working in 3D. It can be used to cut wood, acrylic, stone, metal, and many more materials. It is also the most dangerous of the machines so please take extreme care when using it:\n2D Design and Setup\n3D Design and Setup\nSecuring Material\nSpindle Warmup\nZeroing and Cutting\nTroubleshooting",
     "description": " The CNC is the biggest and most heavy-duty piece of machinery in the CID. It can cut very large objects and is good for both 2D and 3D pieces, although it has some limitations when working in 3D. It can be used to cut wood, acrylic, stone, metal, and many more materials. It is also the most dangerous of the machines so please take extreme care when using it:\n2D Design and Setup",
     "tags": [],
-    "title": "CNC Machine (Shopbot)",
-    "uri": "/cnc/index.html"
+    "title": "Shopbot",
+    "uri": "/cnc/shopbot/index.html"
   },
   {
     "breadcrumb": "Home \u003e Laser Cutters \u003e Glowforge",
@@ -240,12 +312,12 @@ var relearn_search_index = [
     "uri": "/laser-cutters/glowforge/settings/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot)",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot",
     "content": " Once you are ready to secure your material to the bed, first take blue tape or painters tape and cover the bottom surface of your material in the area of your cut and the area on the bed where you want to attach the object.\nThen take superglue and put a thin spread on the tape on the bed. DO NOT PUT SUPERGLUE ON THE BED ITSELF. Take the accelerant and spray it onto the tape on the bottom of your object, and push the object down onto the bed and hold it there for a few seconds.\nYour object will be attached to the bed securely. Move to the Spindle Warmup section to begin your cutting process. Once you are done cutting, simply pull the tape off of the bed and your object.",
     "description": " Once you are ready to secure your material to the bed, first take blue tape or painters tape and cover the bottom surface of your material in the area of your cut and the area on the bed where you want to attach the object.\nThen take superglue and put a thin spread on the tape on the bed. DO NOT PUT SUPERGLUE ON THE BED ITSELF. Take the accelerant and spray it onto the tape on the bottom of your object, and push the object down onto the bed and hold it there for a few seconds.",
     "tags": [],
     "title": "Securing Material",
-    "uri": "/cnc/securing/index.html"
+    "uri": "/cnc/shopbot/securing/index.html"
   },
   {
     "breadcrumb": "Home \u003e Wazer",
@@ -254,6 +326,14 @@ var relearn_search_index = [
     "tags": [],
     "title": "Securing Material",
     "uri": "/wazer/secruing/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e CNCs",
+    "content": " ",
+    "description": "",
+    "tags": [],
+    "title": "Nomad 3",
+    "uri": "/cnc/nomad3/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers",
@@ -277,7 +357,23 @@ var relearn_search_index = [
     "description": " Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (\r) icon and hit Save when the window appears.",
     "tags": [],
     "title": "Transferring to Printer",
+    "uri": "/3dprinters/prusamark3/transferringtoprinter/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
+    "content": " Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (\r) icon and hit Save when the window appears.\nWait until the box at the bottom reads Exporting Finished then hit the eject icon. It is safe to remove the USB once the box reads Successfully Unmounted.\nFinally plug the drive back into the printer. Once you have done this move to the Printing section.",
+    "description": " Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (\r) icon and hit Save when the window appears.",
+    "tags": [],
+    "title": "Transferring to Printer",
     "uri": "/3dprinters/prusamark4/transferringtoprinter/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa XL",
+    "content": " Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (\r) icon and hit Save when the window appears.\nWait until the box at the bottom reads Exporting Finished then hit the eject icon. It is safe to remove the USB once the box reads Successfully Unmounted.\nFinally plug the drive back into the printer. Once you have done this move to the Printing section.",
+    "description": " Once you have your gcode file, take the USB drive out of the printer and plug it into the computer. You can ignore any windows that pop up after doing this. Navigate back to PrusaSlicer and look to the bottom right. Click the (\r) icon and hit Save when the window appears.",
+    "tags": [],
+    "title": "Transferring to Printer",
+    "uri": "/3dprinters/prusaxl/transferringtoprinter/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e UltiMaker",
@@ -325,7 +421,23 @@ var relearn_search_index = [
     "description": " Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.\nIf this is the file you wish to print, simply click the knob and it will begin printing.",
     "tags": [],
     "title": "Printing",
+    "uri": "/3dprinters/prusamark3/printing/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
+    "content": " Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.\nIf this is the file you wish to print, simply click the knob and it will begin printing.\nIf the file doesn’t appear or the file that appears isn’t the file you wish to print, navigate to the home menu.\nSelect Print.\nthen select the name of your file you wish to print. A menu will appear allowing you to confirm your selection.\nHit print once you confirm it is the right file.",
+    "description": " Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.\nIf this is the file you wish to print, simply click the knob and it will begin printing.",
+    "tags": [],
+    "title": "Printing",
     "uri": "/3dprinters/prusamark4/printing/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa XL",
+    "content": " Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.\nIf this is the file you wish to print, simply click the knob and it will begin printing.\nIf the file doesn’t appear or the file that appears isn’t the file you wish to print, navigate to the home menu.\nSelect Print.\nthen select the name of your file you wish to print. A menu will appear allowing you to confirm your selection.\nHit print once you confirm it is the right file.",
+    "description": " Once you load the USB drive back into the printer, if the file you wish to print was recently uploaded to the USB it will appear automatically.\nIf this is the file you wish to print, simply click the knob and it will begin printing.",
+    "tags": [],
+    "title": "Printing",
+    "uri": "/3dprinters/prusaxl/printing/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Lulzbot",
@@ -365,7 +477,23 @@ var relearn_search_index = [
     "description": " To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.\nLoad will let you load a filament into the printer. Follow the instructions on the screen.\nUnload will let you unload the currently stored filament. Follow the instructions on the screen.",
     "tags": [],
     "title": "Changing Filament",
+    "uri": "/3dprinters/prusamark3/changingfilament-copy/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa Mark 3",
+    "content": " To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.\nLoad will let you load a filament into the printer. Follow the instructions on the screen.\nUnload will let you unload the currently stored filament. Follow the instructions on the screen.\nChange will first unload and then load filament. Follow the instructions on the screen.\nPurge will eject a small amount of the loaded filament. Follow the instructions on the screen.",
+    "description": " To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.\nLoad will let you load a filament into the printer. Follow the instructions on the screen.\nUnload will let you unload the currently stored filament. Follow the instructions on the screen.",
+    "tags": [],
+    "title": "Changing Filament",
     "uri": "/3dprinters/prusamark4/changingfilament-copy/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e 3D Printers \u003e Prusa XL",
+    "content": " To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.\nLoad will let you load a filament into the printer. Follow the instructions on the screen.\nUnload will let you unload the currently stored filament. Follow the instructions on the screen.\nChange will first unload and then load filament. Follow the instructions on the screen.\nPurge will eject a small amount of the loaded filament. Follow the instructions on the screen.",
+    "description": " To change filament, navigate to the Filament button on the home screen by rotating the dial, and pressing the dial to select. There you will be presented with 4 options, Load, Unload, Change, and Purge.\nLoad will let you load a filament into the printer. Follow the instructions on the screen.\nUnload will let you unload the currently stored filament. Follow the instructions on the screen.",
+    "tags": [],
+    "title": "Changing Filament",
+    "uri": "/3dprinters/prusaxl/changingfilament-copy/index.html"
   },
   {
     "breadcrumb": "Home \u003e 3D Printers \u003e Formlabs",
@@ -376,12 +504,12 @@ var relearn_search_index = [
     "uri": "/3dprinters/formlabs/changingfilament/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot)",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot",
     "content": " Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn’t break.\nFirst, go to shopbot full mode by pressing the blue question mark button ? and then pressing Switch to FULL at the bottom of the menu that comes up afterwards. In shopbot full mode, press the keyboard keys, C, and then 5 to start the process, or navigate there with the top menu.\nThe process consists of the spindle spinning at 3 different speeds for 3 minutes each. After roughly 9 minutes and 3 seconds, the warm-up routine will be complete. When you are done, be sure to change the shopbot controls back to easy mode by pressing the blue EASY button. You are all ready to cut, move to the Zeroing and Cutting section.",
     "description": " Before the first cut of the day, be sure to warm up the spindle. Afterwards, the spindle will be warm from other cuts that you do, but make sure to warm it up before the first cut of the day so that it doesn’t break.\nFirst, go to shopbot full mode by pressing the blue question mark button ? and then pressing Switch to FULL at the bottom of the menu that comes up afterwards. In shopbot full mode, press the keyboard keys, C, and then 5 to start the process, or navigate there with the top menu.",
     "tags": [],
     "title": "CNC Spindle Warmup",
-    "uri": "/cnc/warmup/index.html"
+    "uri": "/cnc/shopbot/warmup/index.html"
   },
   {
     "breadcrumb": "Home \u003e Laser Cutters \u003e Glowforge",
@@ -424,28 +552,28 @@ var relearn_search_index = [
     "uri": "/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot)",
-    "content": " Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.\nThen open the manual control panel by clicking the yellow box.\nYou will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way. Then use the right set of arrows to lift the head of the machine up so that the bit will not get caught or drag across any of the parts.\nThen use the left arrows to move the bit until it is exactly lined up with the bottom left corner of the area you want to cut.\nIt will place 0,0 in your aspire file at this location. Click Zero Axis, select X and Y, and then hit Zero.\nOnce the X and Y is zeroed, you can zero the Z. Open up the keypad and move the bit so that it is over the material. Place the metal Z-zero plate on the material beneath the bit.\nClose the keypad and click the Z-zero button on the computer controller, then press enter to confirm.\nThe bit will go down until it hits the Z-zero plate, and then go back up, down again, and finally back up again. Once the bit stops moving, you can remove the Z-zero plate, and the Z is now zeroed. You should re-zero the Z before each cut.\nThe machine now is properly zeroed. Press “Cut Part”. This will ask you to open a file. Select the .sbp file you want to cut.\nOnce the file loads in, you are ready to start the cut by hitting the Start button.",
-    "description": " Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.\nThen open the manual control panel by clicking the yellow box.\nYou will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way. Then use the right set of arrows to lift the head of the machine up so that the bit will not get caught or drag across any of the parts.",
-    "tags": [],
-    "title": "Zeroing and Cutting",
-    "uri": "/cnc/cutting/index.html"
-  },
-  {
     "breadcrumb": "Home",
     "content": "",
     "description": "",
     "tags": [],
-    "title": "Laser Cutters",
-    "uri": "/laser-cutters/index.html"
+    "title": "CNCs",
+    "uri": "/cnc/index.html"
   },
   {
-    "breadcrumb": "Home \u003e CNC Machine (Shopbot)",
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot",
+    "content": " Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.\nThen open the manual control panel by clicking the yellow box.\nYou will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way. Then use the right set of arrows to lift the head of the machine up so that the bit will not get caught or drag across any of the parts.\nThen use the left arrows to move the bit until it is exactly lined up with the bottom left corner of the area you want to cut.\nIt will place 0,0 in your aspire file at this location. Click Zero Axis, select X and Y, and then hit Zero.\nOnce the X and Y is zeroed, you can zero the Z. Open up the keypad and move the bit so that it is over the material. Place the metal Z-zero plate on the material beneath the bit.\nClose the keypad and click the Z-zero button on the computer controller, then press enter to confirm.\nThe bit will go down until it hits the Z-zero plate, and then go back up, down again, and finally back up again. Once the bit stops moving, you can remove the Z-zero plate, and the Z is now zeroed. You should re-zero the Z before each cut.\nThe machine now is properly zeroed. Press “Cut Part”. This will ask you to open a file. Select the .sbp file you want to cut.\nOnce the file loads in, you are ready to start the cut by hitting the Start button.",
+    "description": " Once you have the file, and have secured your material and warmed up the machine, open the shopbot app and make sure you’re in shopbot easy mode.\nThen open the manual control panel by clicking the yellow box.\nYou will zero the X and Y at the same time. Before you zero the X and Y, make sure the piece of wood (or other material) is in the machine, not crooked, and is held down in some way. Then use the right set of arrows to lift the head of the machine up so that the bit will not get caught or drag across any of the parts.",
+    "tags": [],
+    "title": "Zeroing and Cutting",
+    "uri": "/cnc/shopbot/cutting/index.html"
+  },
+  {
+    "breadcrumb": "Home \u003e CNCs \u003e Shopbot",
     "content": " The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong.\nUSB Control Box Problems A USB control box problem happens when there is a yellow box on the computer that says there’s a “USB control box problem!”.\nWhen there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press “retry control box” on the computer.\nIf resetting the power box does not fix the problem, try these steps:\nTurning the shopbot on and off via the red on switch on the right side Closing and restarting the shopbot program on the computer (if it does not close, you may have to end the task in the task manager). Unplugging and then re-plugging the shopbot cord from the computer. The shopbot cord is the one on the left. You could try another port, but the one on the right seems to not work for the shopbot. So use the left one. Restarting the computer. Ask a CID co-director for the password when it turns back on. ",
     "description": " The two most common things to go wrong are a USB Control Box Problem or True Zero getting reset wrong.\nUSB Control Box Problems A USB control box problem happens when there is a yellow box on the computer that says there’s a “USB control box problem!”.\nWhen there is a USB control box problem, it usually means there has been a problem with the power. Reset the power box, and then press “retry control box” on the computer.",
     "tags": [],
     "title": "Troubleshooting",
-    "uri": "/cnc/troubleshooting/index.html"
+    "uri": "/cnc/shopbot/troubleshooting/index.html"
   },
   {
     "breadcrumb": "Home",

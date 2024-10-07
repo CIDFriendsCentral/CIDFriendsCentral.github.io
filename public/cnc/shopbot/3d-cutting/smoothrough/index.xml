@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smooth and Rough Carves :: CID guide website</title>
+    <link>http://localhost:1313/cnc/shopbot/3d-cutting/smoothrough/index.html</link>
+    <description> Once you have your file set up correctly, select both of your pieces and the rectangle around them and select the rough machining toolpath.&#xA;Select your bit and make sure that `Machining Limit Boundary is set to “Selected Vectors.” Then Hit calculate. Your toolpath should look like a rough outline of your shape</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/cnc/shopbot/3d-cutting/smoothrough/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
